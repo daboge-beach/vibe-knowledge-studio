@@ -1,0 +1,28 @@
+{
+  "episode": "第三集",
+  "version": "portrait-contact-v2.1-r1",
+  "video": "historical-workspace/竖屏返修_20261022_r1/发布包/第三集/第三集_竖屏_动作返修_v2.1r1_带BGM.mp4",
+  "dry": "historical-workspace/竖屏返修_20261022_r1/发布包/第三集/第三集_竖屏_动作返修_v2.1r1_无BGM.mp4",
+  "video_sha256": "b4e01fb0d37283d13b631c813f220e3b3677807dde7b59563fdb51981c8f0ae9",
+  "dry_sha256": "2db1a46ac4f5e9010b4ff19698ba37235d59b9adc175b18282c8098fbc4568c8",
+  "video_packet_hash": "SHA256=52bb5b237a610979c1a3234f75ff16761f2e2b83a86f65119b8cc1d3d670ea84",
+  "duration": 109.03333333333333,
+  "fps": 30,
+  "frames": 3271,
+  "size": [
+    1080,
+    1920
+  ],
+  "mix_sha256": "b7c6583dd8bebd80a3602e7a66f9189ea283f45442039ecf699eee6c02ccfb61",
+  "foley_sha256": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca",
+  "locked_files_unchanged": true,
+  "technical_audio_windows": 56,
+  "samples": 1105,
+  "lufs": -14.0,
+  "true_peak_dbtp": -2.32,
+  "normal_speed_full_viewing_seconds": 0,
+  "subjective_listening_seconds": 0,
+  "platform_ui": "未验证",
+  "user_acceptance": "未记录",
+  "state": "返修后待复核候选，非发布就绪"
+}

@@ -1,0 +1,89 @@
+{
+  "schema": "portable-horizontal/1",
+  "source_media_version": "v3.1",
+  "source_handoff_revision": "h1-20261022",
+  "status": "待验收候选",
+  "authoritative_project_index": "project.json",
+  "episodes": [
+    {
+      "id": "horizontal-01",
+      "episode": 1,
+      "title": "长大的回路",
+      "format": "horizontal",
+      "path": "episodes/horizontal/01_长大的回路",
+      "source_snapshot": "横屏规范落实_20261022_v3.1/工程/01_长大的回路",
+      "duration": 118.2,
+      "fps": 60,
+      "fonts": [
+        "assets/NotoSansSC-VF.ttf",
+        "assets/NotoSerifSC-VF.ttf"
+      ],
+      "foley_asset": null,
+      "foley_sha256": null,
+      "status": "待验收候选",
+      "full_subjective_review_done": false,
+      "user_accepted": false
+    },
+    {
+      "id": "horizontal-02",
+      "episode": 2,
+      "title": "一勺的变迁",
+      "format": "horizontal",
+      "path": "episodes/horizontal/02_一勺的变迁",
+      "source_snapshot": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁",
+      "duration": 120.7,
+      "fps": 60,
+      "fonts": [
+        "assets/NotoSansSC-VF.ttf",
+        "assets/NotoSerifSC-VF.ttf"
+      ],
+      "foley_asset": null,
+      "foley_sha256": null,
+      "status": "待验收候选",
+      "full_subjective_review_done": false,
+      "user_accepted": false
+    },
+    {
+      "id": "horizontal-03",
+      "episode": 3,
+      "title": "借你一点平静",
+      "format": "horizontal",
+      "path": "episodes/horizontal/03_借你一点平静",
+      "source_snapshot": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静",
+      "duration": 109.03333333333333,
+      "fps": 60,
+      "fonts": [
+        "assets/NotoSansSC-VF.ttf",
+        "assets/NotoSerifSC-VF.ttf"
+      ],
+      "foley_asset": "assets/foley/horizontal-03.wav.gz",
+      "foley_sha256": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca",
+      "status": "待验收候选",
+      "full_subjective_review_done": false,
+      "user_accepted": false
+    },
+    {
+      "id": "horizontal-04",
+      "episode": 4,
+      "title": "家的底色",
+      "format": "horizontal",
+      "path": "episodes/horizontal/04_家的底色",
+      "source_snapshot": "横屏规范落实_20261022_v3.1/工程/04_家的底色",
+      "duration": 119.95,
+      "fps": 60,
+      "fonts": [
+        "assets/NotoSansSC-VF.ttf",
+        "assets/NotoSerifSC-VF.ttf"
+      ],
+      "foley_asset": null,
+      "foley_sha256": null,
+      "status": "待验收候选",
+      "full_subjective_review_done": false,
+      "user_accepted": false
+    }
+  ],
+  "original_bgm_included": false,
+  "full_viewing_done": false,
+  "full_listening_done": false,
+  "user_accepted": false
+}

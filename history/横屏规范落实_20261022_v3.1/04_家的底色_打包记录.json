@@ -1,0 +1,15 @@
+{
+  "episode": "04_家的底色",
+  "version": "v3.1",
+  "status": "待验收候选",
+  "release_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\04_家的底色_横屏规范修订_发布包_v3.1.zip",
+  "release_sha256": "99af5b756f49d70910c532e34c5c08e1a679bc98c1d624d5c33f382c5d32c491",
+  "source_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\04_家的底色_横屏规范修订_可修改工程_v3.1.zip",
+  "source_sha256": "43d465e085f8055f6e7696b24ce4a1fa31f7966c31797ccd8e68b0176892ec87",
+  "crc_and_in_archive_sha_checked": true,
+  "independent_unzip_run": "待实际执行后见独立工程解压验证记录",
+  "subjective_listening_seconds": 0,
+  "full_human_viewing": false,
+  "user_accepted": false,
+  "publicly_published": false
+}

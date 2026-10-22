@@ -1,0 +1,404 @@
+[
+  {
+    "episode": "第四集",
+    "key": "04_家的底色",
+    "handoff_revision": "h1-20261022",
+    "media_version": "v3.1",
+    "status": "待验收候选 / 待补查",
+    "source_project": "historical-workspace\\横屏规范落实_20261022_v3.1\\工程\\04_家的底色",
+    "source_runtime_id": "51824e6a81f43338f6d3f20f15f2c342aa5893e4df2b7a227ce3a02b470937b9",
+    "source_locked_files": {
+      "art.js": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6",
+      "assets/NotoSansSC-VF.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "assets/NotoSerifSC-VF.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/OFL-NotoSansSC.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "assets/OFL-NotoSerifSC.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "audio/score.wav": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6",
+      "covers.js": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a",
+      "direction.js": "f4aa6e63aefc2e72bbff1b28612ed4ec7e5188fd2d56aaff0362ce5ec16f2896",
+      "engine.js": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47",
+      "film.js": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f",
+      "filmtools.py": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+      "layout.js": "695c8806ad42bcb57f57c5fc00bf433e139e429b56c89a51cc94b932b076c263",
+      "music_sync.js": "b797e5e872fcc919f4b2026de2f5ee66def7b3035b1dc15e8b7917284fa1863e",
+      "music_sync.json": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9",
+      "pace.js": "8e7a2dc2c0515745237665614e452408311f7f63c111de0c11a877c63ba7be6f",
+      "refine.js": "707c9171f8cf2945b3d7d1f13e1a140c5dcd0c19fac373da2467adf252022140",
+      "scenes.js": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f",
+      "timeline.json": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c",
+      "index.html": "ff94cc1dd37746b3961e6055d01bda4f17a0310b5e97381c7dfcfc6a38fa5165",
+      "runtime_version.js": "75d9d1f18847a2f91b01e6071b2b812a90a1d487fcd209bb3b46369470ac2664",
+      "runtime_version.json": "d3ce389e17e1730a417ceed1ce431756e1ac4413c2043490ced24986cdf1c7dc",
+      "字幕.srt": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab",
+      "定稿文案.txt": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f"
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\final_BGM.mp4",
+        "sha256": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_m02cbfa69_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\final_noBGM.mp4",
+        "sha256": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_mfac51357_无BGM.mp4"
+      }
+    ],
+    "duration": 119.95,
+    "fps": 60,
+    "frames": 7197,
+    "independent_review": {
+      "复查报告.md": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\复查报告.md",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\04_家的底色\\独立复查冻结\\复查报告.md",
+        "sha256": "e2bb69f65cf059cd776f7be0cb002485e9d5c819b1da02dcf0d6ffb1106d4177"
+      },
+      "technical.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\technical.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\04_家的底色\\独立复查冻结\\technical.json",
+        "sha256": "4941a5580e3f7a013c54a191b05a747e204888abacfa2727465ab743a68fa3cd"
+      },
+      "frame_index.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\frame_index.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\04_家的底色\\独立复查冻结\\frame_index.json",
+        "sha256": "592f022ea110cef4b87abe7574960d04809b840af1b23ddecc6f559621db8a79"
+      },
+      "end_identity.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\end_identity.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\04_家的底色\\独立复查冻结\\end_identity.json",
+        "sha256": "2933692a50c2ecdc0d362fea389be607e22d2e8136c8128687f50b0a74b0dda3"
+      },
+      "source_compare/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\source_compare\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\04_家的底色\\独立复查冻结\\source_compare\\report.json",
+        "sha256": "3f230cfb75563fffae21e3d2542c5fb1c0579f18bb7929054cebe3b76b4ef498"
+      },
+      "package_runtime/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\package_runtime\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\04_家的底色\\独立复查冻结\\package_runtime\\report.json",
+        "sha256": "bf044393d8198a45498b01a9243e2f54ce641ec7d019c41281cb0489b7e56947"
+      }
+    },
+    "superseded_fourth_BGM_sha256": "19d1d7b4a521dc152c290b60aa782f092cc819b28cd5d07880e1c4cd008dffea",
+    "old_evidence_inherited": false,
+    "normal_speed_full_viewing_seconds": 0,
+    "subjective_listening_seconds": 0,
+    "real_phone_test": false,
+    "platform_UI_verified": false,
+    "cover_platform_crop_verified": false,
+    "user_accepted": false,
+    "publicly_published": false,
+    "operations": [
+      "逐字节确认媒体与独立复查稳定副本一致",
+      "交付文件别名追加媒体SHA前8位；不改媒体字节",
+      "冻结对应独立复查证据；排除第四集旧摘要证据"
+    ],
+    "created_at": "2026-10-22T17:14:20.141620+08:00"
+  },
+  {
+    "episode": "第一集",
+    "key": "01_长大的回路",
+    "handoff_revision": "h1-20261022",
+    "media_version": "v3.1",
+    "status": "待验收候选 / 待补查",
+    "source_project": "historical-workspace\\横屏规范落实_20261022_v3.1\\工程\\01_长大的回路",
+    "source_runtime_id": "df6f5819ad661a2dc0b9d8f3fd7485288ce4ae3031800abe59bad92ab795d70f",
+    "source_locked_files": {
+      "art.js": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734",
+      "assets/NotoSansSC-VF.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "assets/NotoSerifSC-VF.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/OFL-NotoSansSC.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "assets/OFL-NotoSerifSC.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "audio/score.wav": "28bd479eff556ab6290c7c004264286e83ec6ee6378ab9e1f79860a203d9ac78",
+      "covers.js": "f655354ac09af074580cfb217073f693712fdc9cba698b555106a075c967d20a",
+      "direction.js": "370ed69289e256eb3de610d5ceab1413a0da5500eb6b3ed673fd601211497b12",
+      "engine.js": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c",
+      "episode.js": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53",
+      "film.js": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353",
+      "filmtools.py": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+      "layout.js": "3de0c99d4f5b0d98266ed30b688d3fefbf9a13ebdce6e011efbdf90820796753",
+      "music_sync.js": "154ca138d4852ac3cd0a617a1246c9294df6d0f9c61d6d22db90a4e6be21680c",
+      "music_sync.json": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8",
+      "pace.js": "8a330653634a280fb6d7db3e270fbb7a8c76f91d4c0e33ecb412d8a07ce3e2b0",
+      "people.js": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e",
+      "refine.js": "14e9c7d4c6e6f08ed7e78ec5a247395f8c723505e5d023752e641bef48383e88",
+      "scenes.js": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699",
+      "timeline.json": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d",
+      "index.html": "8517e65dc45123e9bc7396ad87db3e516473dda95590880c1c3142d989b5e2e0",
+      "runtime_version.js": "36e4eedc71ccad7bb867897ffbafd5d40e6cc3b0821fbe9766d26c0885caf1b9",
+      "runtime_version.json": "4c203b39bc642281f34d7b3d6e31ee0052fd2e70e8b9426b226842ed2256a17c",
+      "字幕.srt": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d",
+      "定稿文案.txt": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0"
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\final_BGM.mp4",
+        "sha256": "157651c9c04433e25e93b422a885122bd7f308630e804cbe595bffe331180d86",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_m157651c9_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\final_noBGM.mp4",
+        "sha256": "864bed2c46ffdadfc9a3fea81533b2221a3ef9a452bbc8a3e727d047fad40852",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_m864bed2c_无BGM.mp4"
+      }
+    ],
+    "duration": 118.2,
+    "fps": 60,
+    "frames": 7092,
+    "independent_review": {
+      "复查报告.md": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\复查报告.md",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\01_长大的回路\\独立复查冻结\\复查报告.md",
+        "sha256": "95aaa0e150ef3eea02abf25988444d2f75aaf5efcc0767f5ccb080bf338506da"
+      },
+      "technical.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\technical.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\01_长大的回路\\独立复查冻结\\technical.json",
+        "sha256": "6e2fb8bd36547e4b414e51ea9ea2ddf0e4fe837502917aadc81db255b06c17de"
+      },
+      "frame_index.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\frame_index.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\01_长大的回路\\独立复查冻结\\frame_index.json",
+        "sha256": "588b8985777829556aed66612cd494a647232f3c0b7f36c285f6340162c68cf7"
+      },
+      "end_identity.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\end_identity.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\01_长大的回路\\独立复查冻结\\end_identity.json",
+        "sha256": "da0f1825de96a5ba4aaaf36282106485f985b74528c92b4335fd75a8de1f452e"
+      },
+      "source_compare/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\source_compare\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\01_长大的回路\\独立复查冻结\\source_compare\\report.json",
+        "sha256": "5fe8c9e03f9a833730d3019018acc94135e031ba89ad375ed912d5b209be9eef"
+      },
+      "package_runtime/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\package_runtime\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\01_长大的回路\\独立复查冻结\\package_runtime\\report.json",
+        "sha256": "1a671f292c1b34daa44a81d31efca55e654081837b0b49ad996f54844effd2ed"
+      }
+    },
+    "superseded_fourth_BGM_sha256": null,
+    "old_evidence_inherited": false,
+    "normal_speed_full_viewing_seconds": 0,
+    "subjective_listening_seconds": 0,
+    "real_phone_test": false,
+    "platform_UI_verified": false,
+    "cover_platform_crop_verified": false,
+    "user_accepted": false,
+    "publicly_published": false,
+    "operations": [
+      "逐字节确认媒体与独立复查稳定副本一致",
+      "交付文件别名追加媒体SHA前8位；不改媒体字节",
+      "冻结对应独立复查证据；排除第四集旧摘要证据"
+    ],
+    "created_at": "2026-10-22T17:14:34.053213+08:00"
+  },
+  {
+    "episode": "第二集",
+    "key": "02_一勺的变迁",
+    "handoff_revision": "h1-20261022",
+    "media_version": "v3.1",
+    "status": "待验收候选 / 待补查",
+    "source_project": "historical-workspace\\横屏规范落实_20261022_v3.1\\工程\\02_一勺的变迁",
+    "source_runtime_id": "e75f056785046bf02173b9a3727fe6b6a8685121ca96d93feb3558ff81fcc594",
+    "source_locked_files": {
+      "art.js": "1ca2ffc50b841c32a161d096651141da296498682c05c513c9f401405975984a",
+      "assets/NotoSansSC-VF.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "assets/NotoSerifSC-VF.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/OFL-NotoSansSC.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "assets/OFL-NotoSerifSC.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "audio/score.wav": "8e4eaa4f3449c9b976eff56d0f6005e453f4af2fec9d82821435d1f0892c77dd",
+      "covers.js": "f657675a9457c08d79544daae78cd9495990b4802db56816b0fc9ef808aafe60",
+      "direction.js": "8e7bbf48e4c1527b71bdff0e4bab26a2334a2f2590b06b86ab8f739a0f7670ee",
+      "engine.js": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c",
+      "episode.js": "22803698dfbdc09b6c63e49727218809b453ef0f54d147eca92347fcd4c97bd8",
+      "film.js": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353",
+      "filmtools.py": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+      "layout.js": "832bd583cb5ca3077e35c4970db181c7cdd5101aab86a6f2b4a86a52f27af193",
+      "music_sync.js": "84f9097a96899afba99389f9c4f2f80b4edb448abae87ccdc9bb317eaee022cd",
+      "music_sync.json": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953",
+      "pace.js": "9c4d355ca4d33e3fd8e9a451686f21caaf130be7ba60d2a6014afaf9dfe4c970",
+      "people.js": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e",
+      "refine.js": "5c1f484018d356efd89af68b55b24a2a90d06c390b37b8d115750d9f6a4c00a0",
+      "scenes.js": "f55c0477ba41f152183b55620c90cd3714cbf2bb2588144e29cef49b4765ea23",
+      "timeline.json": "22cff652e9a9b8e5fd931c54aeee2d3a1290e3556cabbd15707405ef274c5dc3",
+      "index.html": "353b7dfe533b3f980d254cd8a32ba066e55f990c1307476d4203f74599981b5f",
+      "runtime_version.js": "9efc1f02d3997554a81700319bbf2e9fe8d0a37d1f173b14d3597090cc334620",
+      "runtime_version.json": "5b6f704534d7d33208e37dff9450ca3dd31af124a7a8b202005ce855638e8945",
+      "字幕.srt": "c3c45458572eb8497476d1c0dd7522e2951d85183e1099f3df1f079af302a6d8",
+      "定稿文案.txt": "3e7bf4fc745e7b00e0f19cd466a2b12bd523f8d4e843f3c3792294bcadb978d0"
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\final_BGM.mp4",
+        "sha256": "40d80ff2652821e7a5fd450a36df4861a245a1abbe9715e9bdc7e95f83b3db41",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_m40d80ff2_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\final_noBGM.mp4",
+        "sha256": "5c456bb45baa85171bb13fa409df3c8eaba62d86a7afeaee6036b3f9a40d53d2",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_m5c456bb4_无BGM.mp4"
+      }
+    ],
+    "duration": 120.7,
+    "fps": 60,
+    "frames": 7242,
+    "independent_review": {
+      "复查报告.md": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\复查报告.md",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\02_一勺的变迁\\独立复查冻结\\复查报告.md",
+        "sha256": "8f762b8d76bd617f83295d8726530c5db531f42e8ed7c92013ebab813dd07116"
+      },
+      "technical.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\technical.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\02_一勺的变迁\\独立复查冻结\\technical.json",
+        "sha256": "3c49a0183401773dfb68242a2c2c0b34c4147851cfe78b6caf8d37c136e17167"
+      },
+      "frame_index.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\frame_index.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\02_一勺的变迁\\独立复查冻结\\frame_index.json",
+        "sha256": "cce8ad820461d11c820b94121571fa5c82eb53444464c1611f38dcccf061dc35"
+      },
+      "end_identity.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\end_identity.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\02_一勺的变迁\\独立复查冻结\\end_identity.json",
+        "sha256": "cb2c5cdd33bc2e21d6693867b0c19b3c4c270763dc38771973ca776f38d1def9"
+      },
+      "source_compare/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\source_compare\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\02_一勺的变迁\\独立复查冻结\\source_compare\\report.json",
+        "sha256": "9993e6267fa112f2e4a93122cd206f2473a205fcc5a759e16ece1df582e58867"
+      },
+      "package_runtime/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\package_runtime\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\02_一勺的变迁\\独立复查冻结\\package_runtime\\report.json",
+        "sha256": "d9bc0d16c648d31877a32500ab812cc1b742173f272fbcf3e59d2bc78c327f11"
+      }
+    },
+    "superseded_fourth_BGM_sha256": null,
+    "old_evidence_inherited": false,
+    "normal_speed_full_viewing_seconds": 0,
+    "subjective_listening_seconds": 0,
+    "real_phone_test": false,
+    "platform_UI_verified": false,
+    "cover_platform_crop_verified": false,
+    "user_accepted": false,
+    "publicly_published": false,
+    "operations": [
+      "逐字节确认媒体与独立复查稳定副本一致",
+      "交付文件别名追加媒体SHA前8位；不改媒体字节",
+      "冻结对应独立复查证据；排除第四集旧摘要证据"
+    ],
+    "created_at": "2026-10-22T17:14:46.364073+08:00"
+  },
+  {
+    "episode": "第三集",
+    "key": "03_借你一点平静",
+    "handoff_revision": "h1-20261022",
+    "media_version": "v3.1",
+    "status": "待验收候选 / 待补查",
+    "source_project": "historical-workspace\\横屏规范落实_20261022_v3.1\\工程\\03_借你一点平静",
+    "source_runtime_id": "879e4ad66d292eaf539d624351b7d62be0ae62e1c9adde4227250e56c59ab833",
+    "source_locked_files": {
+      "assets/NotoSansSC-VF.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "assets/NotoSerifSC-VF.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+      "assets/OFL-NotoSansSC.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "assets/OFL-NotoSerifSC.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "audio/foley_only.wav": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca",
+      "audio/score.wav": "b7c6583dd8bebd80a3602e7a66f9189ea283f45442039ecf699eee6c02ccfb61",
+      "covers.js": "df15b6075068194d1d956d83704ae8767295988529bdf1730f8827f6602f7b90",
+      "direction.js": "fb188689753c9136b36fab7ff3e3d614e685a2db46337b7285ade7cdf51f721a",
+      "film.js": "f916274efc41381466bcb1f00c1b5bdbe3eb047023051ca4e7cca532ecb65013",
+      "filmtools.py": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+      "layout.js": "a743796d7f5e492fe15fb76cdb0bc65df425c9b06cf72f1e6daf4bd2ff6448a2",
+      "music_sync.js": "21d15b401ddc32f407541e84a6fa758772ce5adde3976f78350a22724e0162d3",
+      "music_sync.json": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451",
+      "pace.js": "98eea5320ef9bad7ec5eb9087402d6d6d306bf3ade7dc295cd7a2795bf852e2c",
+      "refine.js": "655cd284cd5ffaf967a386303268729faa7a4779dbc236a91b8aab8be5b5f967",
+      "timeline.json": "fd4b45039b90372ce5542378b557111bef9c169003f441fe258d008af3e4b691",
+      "index.html": "6b086aba4ad9d8a61892e37791792726f595e54ec297aca2e6285116e25367f1",
+      "runtime_version.js": "8366a423a35ede09377f10dfc5d0b818e54a6a7888e79dc516547cd89921680d",
+      "runtime_version.json": "15b3c04fbee7ef6bc555026c7518680c77099ba29d6e1284884e5ef54569e0c7",
+      "字幕.srt": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3",
+      "定稿文案.txt": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429"
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\final_BGM.mp4",
+        "sha256": "216841405bfc044071895463eb573ff91854ca2e00724fee234f85b9a893b2ea",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_m21684140_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\final_noBGM.mp4",
+        "sha256": "093da669198bd3ec1804be1283712e1cc3fe96d3feabf2e0ab5fa7ed87a9e0f2",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_m093da669_无BGM.mp4"
+      }
+    ],
+    "duration": 109.03333333333333,
+    "fps": 60,
+    "frames": 6542,
+    "independent_review": {
+      "复查报告.md": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\复查报告.md",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\03_借你一点平静\\独立复查冻结\\复查报告.md",
+        "sha256": "3433f2f7fc465ca3d27f4c9587c0925d092da91b9eab103d6bc62e9a627df18a"
+      },
+      "technical.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\technical.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\03_借你一点平静\\独立复查冻结\\technical.json",
+        "sha256": "b5286b25687922eb8b858044670e09eba70ce4ebf53dbaab83263ae6a235136d"
+      },
+      "frame_index.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\frame_index.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\03_借你一点平静\\独立复查冻结\\frame_index.json",
+        "sha256": "de2476fcd516b5d2dec72a8e28d0906ad29a43c03e1b5d6533d0e7856b2e33ee"
+      },
+      "end_identity.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\end_identity.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\03_借你一点平静\\独立复查冻结\\end_identity.json",
+        "sha256": "f3886526076e776d589763e0accf20a9489f6c2e3dc1efe1cade14f4d4093da1"
+      },
+      "source_compare/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\source_compare\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\03_借你一点平静\\独立复查冻结\\source_compare\\report.json",
+        "sha256": "3b172685a082f388f35a8887c11aa70f36cf46b8f90b2a5b82beb83bc4745f82"
+      },
+      "package_runtime/report.json": {
+        "original": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\package_runtime\\report.json",
+        "frozen_copy": "historical-workspace\\横屏交付补查_20261022_h1\\证据\\03_借你一点平静\\独立复查冻结\\package_runtime\\report.json",
+        "sha256": "35bcfce86666ce53ba1d11f7ca85d461c1854a447d459af5ef1bbd951c02bfe9"
+      }
+    },
+    "superseded_fourth_BGM_sha256": null,
+    "old_evidence_inherited": false,
+    "normal_speed_full_viewing_seconds": 0,
+    "subjective_listening_seconds": 0,
+    "real_phone_test": false,
+    "platform_UI_verified": false,
+    "cover_platform_crop_verified": false,
+    "user_accepted": false,
+    "publicly_published": false,
+    "operations": [
+      "逐字节确认媒体与独立复查稳定副本一致",
+      "交付文件别名追加媒体SHA前8位；不改媒体字节",
+      "冻结对应独立复查证据；排除第四集旧摘要证据"
+    ],
+    "created_at": "2026-10-22T17:14:58.651126+08:00"
+  }
+]

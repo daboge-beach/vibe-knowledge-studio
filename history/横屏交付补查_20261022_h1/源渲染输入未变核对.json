@@ -1,0 +1,566 @@
+[
+  {
+    "episode": "04_家的底色",
+    "file": "art.js",
+    "sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "assets/NotoSansSC-VF.ttf",
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "assets/NotoSerifSC-VF.ttf",
+    "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "assets/OFL-NotoSansSC.txt",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "assets/OFL-NotoSerifSC.txt",
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "audio/score.wav",
+    "sha256": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "covers.js",
+    "sha256": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "direction.js",
+    "sha256": "f4aa6e63aefc2e72bbff1b28612ed4ec7e5188fd2d56aaff0362ce5ec16f2896",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "engine.js",
+    "sha256": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "film.js",
+    "sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "filmtools.py",
+    "sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "layout.js",
+    "sha256": "695c8806ad42bcb57f57c5fc00bf433e139e429b56c89a51cc94b932b076c263",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "music_sync.js",
+    "sha256": "b797e5e872fcc919f4b2026de2f5ee66def7b3035b1dc15e8b7917284fa1863e",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "music_sync.json",
+    "sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "pace.js",
+    "sha256": "8e7a2dc2c0515745237665614e452408311f7f63c111de0c11a877c63ba7be6f",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "refine.js",
+    "sha256": "707c9171f8cf2945b3d7d1f13e1a140c5dcd0c19fac373da2467adf252022140",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "scenes.js",
+    "sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "timeline.json",
+    "sha256": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "index.html",
+    "sha256": "ff94cc1dd37746b3961e6055d01bda4f17a0310b5e97381c7dfcfc6a38fa5165",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "runtime_version.js",
+    "sha256": "75d9d1f18847a2f91b01e6071b2b812a90a1d487fcd209bb3b46369470ac2664",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "runtime_version.json",
+    "sha256": "d3ce389e17e1730a417ceed1ce431756e1ac4413c2043490ced24986cdf1c7dc",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "字幕.srt",
+    "sha256": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab",
+    "unchanged": true
+  },
+  {
+    "episode": "04_家的底色",
+    "file": "定稿文案.txt",
+    "sha256": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "art.js",
+    "sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "assets/NotoSansSC-VF.ttf",
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "assets/NotoSerifSC-VF.ttf",
+    "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "assets/OFL-NotoSansSC.txt",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "assets/OFL-NotoSerifSC.txt",
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "audio/score.wav",
+    "sha256": "28bd479eff556ab6290c7c004264286e83ec6ee6378ab9e1f79860a203d9ac78",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "covers.js",
+    "sha256": "f655354ac09af074580cfb217073f693712fdc9cba698b555106a075c967d20a",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "direction.js",
+    "sha256": "370ed69289e256eb3de610d5ceab1413a0da5500eb6b3ed673fd601211497b12",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "engine.js",
+    "sha256": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "episode.js",
+    "sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "film.js",
+    "sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "filmtools.py",
+    "sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "layout.js",
+    "sha256": "3de0c99d4f5b0d98266ed30b688d3fefbf9a13ebdce6e011efbdf90820796753",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "music_sync.js",
+    "sha256": "154ca138d4852ac3cd0a617a1246c9294df6d0f9c61d6d22db90a4e6be21680c",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "music_sync.json",
+    "sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "pace.js",
+    "sha256": "8a330653634a280fb6d7db3e270fbb7a8c76f91d4c0e33ecb412d8a07ce3e2b0",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "people.js",
+    "sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "refine.js",
+    "sha256": "14e9c7d4c6e6f08ed7e78ec5a247395f8c723505e5d023752e641bef48383e88",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "scenes.js",
+    "sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "timeline.json",
+    "sha256": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "index.html",
+    "sha256": "8517e65dc45123e9bc7396ad87db3e516473dda95590880c1c3142d989b5e2e0",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "runtime_version.js",
+    "sha256": "36e4eedc71ccad7bb867897ffbafd5d40e6cc3b0821fbe9766d26c0885caf1b9",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "runtime_version.json",
+    "sha256": "4c203b39bc642281f34d7b3d6e31ee0052fd2e70e8b9426b226842ed2256a17c",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "字幕.srt",
+    "sha256": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d",
+    "unchanged": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "file": "定稿文案.txt",
+    "sha256": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "art.js",
+    "sha256": "1ca2ffc50b841c32a161d096651141da296498682c05c513c9f401405975984a",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "assets/NotoSansSC-VF.ttf",
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "assets/NotoSerifSC-VF.ttf",
+    "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "assets/OFL-NotoSansSC.txt",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "assets/OFL-NotoSerifSC.txt",
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "audio/score.wav",
+    "sha256": "8e4eaa4f3449c9b976eff56d0f6005e453f4af2fec9d82821435d1f0892c77dd",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "covers.js",
+    "sha256": "f657675a9457c08d79544daae78cd9495990b4802db56816b0fc9ef808aafe60",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "direction.js",
+    "sha256": "8e7bbf48e4c1527b71bdff0e4bab26a2334a2f2590b06b86ab8f739a0f7670ee",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "engine.js",
+    "sha256": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "episode.js",
+    "sha256": "22803698dfbdc09b6c63e49727218809b453ef0f54d147eca92347fcd4c97bd8",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "film.js",
+    "sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "filmtools.py",
+    "sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "layout.js",
+    "sha256": "832bd583cb5ca3077e35c4970db181c7cdd5101aab86a6f2b4a86a52f27af193",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "music_sync.js",
+    "sha256": "84f9097a96899afba99389f9c4f2f80b4edb448abae87ccdc9bb317eaee022cd",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "music_sync.json",
+    "sha256": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "pace.js",
+    "sha256": "9c4d355ca4d33e3fd8e9a451686f21caaf130be7ba60d2a6014afaf9dfe4c970",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "people.js",
+    "sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "refine.js",
+    "sha256": "5c1f484018d356efd89af68b55b24a2a90d06c390b37b8d115750d9f6a4c00a0",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "scenes.js",
+    "sha256": "f55c0477ba41f152183b55620c90cd3714cbf2bb2588144e29cef49b4765ea23",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "timeline.json",
+    "sha256": "22cff652e9a9b8e5fd931c54aeee2d3a1290e3556cabbd15707405ef274c5dc3",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "index.html",
+    "sha256": "353b7dfe533b3f980d254cd8a32ba066e55f990c1307476d4203f74599981b5f",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "runtime_version.js",
+    "sha256": "9efc1f02d3997554a81700319bbf2e9fe8d0a37d1f173b14d3597090cc334620",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "runtime_version.json",
+    "sha256": "5b6f704534d7d33208e37dff9450ca3dd31af124a7a8b202005ce855638e8945",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "字幕.srt",
+    "sha256": "c3c45458572eb8497476d1c0dd7522e2951d85183e1099f3df1f079af302a6d8",
+    "unchanged": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "file": "定稿文案.txt",
+    "sha256": "3e7bf4fc745e7b00e0f19cd466a2b12bd523f8d4e843f3c3792294bcadb978d0",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "assets/NotoSansSC-VF.ttf",
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "assets/NotoSerifSC-VF.ttf",
+    "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "assets/OFL-NotoSansSC.txt",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "assets/OFL-NotoSerifSC.txt",
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "audio/foley_only.wav",
+    "sha256": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "audio/score.wav",
+    "sha256": "b7c6583dd8bebd80a3602e7a66f9189ea283f45442039ecf699eee6c02ccfb61",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "covers.js",
+    "sha256": "df15b6075068194d1d956d83704ae8767295988529bdf1730f8827f6602f7b90",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "direction.js",
+    "sha256": "fb188689753c9136b36fab7ff3e3d614e685a2db46337b7285ade7cdf51f721a",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "film.js",
+    "sha256": "f916274efc41381466bcb1f00c1b5bdbe3eb047023051ca4e7cca532ecb65013",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "filmtools.py",
+    "sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "layout.js",
+    "sha256": "a743796d7f5e492fe15fb76cdb0bc65df425c9b06cf72f1e6daf4bd2ff6448a2",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "music_sync.js",
+    "sha256": "21d15b401ddc32f407541e84a6fa758772ce5adde3976f78350a22724e0162d3",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "music_sync.json",
+    "sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "pace.js",
+    "sha256": "98eea5320ef9bad7ec5eb9087402d6d6d306bf3ade7dc295cd7a2795bf852e2c",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "refine.js",
+    "sha256": "655cd284cd5ffaf967a386303268729faa7a4779dbc236a91b8aab8be5b5f967",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "timeline.json",
+    "sha256": "fd4b45039b90372ce5542378b557111bef9c169003f441fe258d008af3e4b691",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "index.html",
+    "sha256": "6b086aba4ad9d8a61892e37791792726f595e54ec297aca2e6285116e25367f1",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "runtime_version.js",
+    "sha256": "8366a423a35ede09377f10dfc5d0b818e54a6a7888e79dc516547cd89921680d",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "runtime_version.json",
+    "sha256": "15b3c04fbee7ef6bc555026c7518680c77099ba29d6e1284884e5ef54569e0c7",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "字幕.srt",
+    "sha256": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3",
+    "unchanged": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "file": "定稿文案.txt",
+    "sha256": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429",
+    "unchanged": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "episode": "第一集",
+    "duration_equal": true,
+    "subtitle_plan_equal": true,
+    "SRT_sha_equal": true,
+    "mix_sha_equal": true
+  },
+  {
+    "episode": "第二集",
+    "duration_equal": true,
+    "subtitle_plan_equal": true,
+    "SRT_sha_equal": true,
+    "mix_sha_equal": true
+  },
+  {
+    "episode": "第三集",
+    "duration_equal": true,
+    "subtitle_plan_equal": true,
+    "SRT_sha_equal": true,
+    "mix_sha_equal": true
+  },
+  {
+    "episode": "第四集",
+    "duration_equal": true,
+    "subtitle_plan_equal": true,
+    "SRT_sha_equal": true,
+    "mix_sha_equal": true
+  }
+]

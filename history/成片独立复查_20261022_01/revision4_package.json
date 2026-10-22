@@ -1,0 +1,2953 @@
+{
+  "zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\04_家的底色_横屏规范修订_可修改工程_v3.1.zip",
+  "sha256_start": "43d465e085f8055f6e7696b24ce4a1fa31f7966c31797ccd8e68b0176892ec87",
+  "target": "historical-workspace\\成片独立复查_20261022_01\\packages\\04_家的底色_横屏规范修订_可修改工程_v3.1",
+  "crc_error": null,
+  "manifest_checks": [
+    {
+      "path": "art.js",
+      "match": true
+    },
+    {
+      "path": "assets/NotoSansSC-VF.ttf",
+      "match": true
+    },
+    {
+      "path": "assets/NotoSerifSC-VF.ttf",
+      "match": true
+    },
+    {
+      "path": "assets/OFL-NotoSansSC.txt",
+      "match": true
+    },
+    {
+      "path": "assets/OFL-NotoSerifSC.txt",
+      "match": true
+    },
+    {
+      "path": "audio/BGM来源说明.md",
+      "match": true
+    },
+    {
+      "path": "audio/score.wav",
+      "match": true
+    },
+    {
+      "path": "audio/编辑记录.json",
+      "match": true
+    },
+    {
+      "path": "audio_checks.py",
+      "match": true
+    },
+    {
+      "path": "audio_export.py",
+      "match": true
+    },
+    {
+      "path": "baseline/audio/github_reference_bgm.mp4",
+      "match": true
+    },
+    {
+      "path": "baseline_manifest.json",
+      "match": true
+    },
+    {
+      "path": "BGM来源说明.md",
+      "match": true
+    },
+    {
+      "path": "candidate_package.py",
+      "match": true
+    },
+    {
+      "path": "covers/B站封面_16比9.jpg",
+      "match": true
+    },
+    {
+      "path": "covers/B站封面_16比9.png",
+      "match": true
+    },
+    {
+      "path": "covers/B站封面_4比3备用.jpg",
+      "match": true
+    },
+    {
+      "path": "covers/B站封面_4比3备用.png",
+      "match": true
+    },
+    {
+      "path": "covers/今日头条封面_16比9.jpg",
+      "match": true
+    },
+    {
+      "path": "covers/今日头条封面_16比9.png",
+      "match": true
+    },
+    {
+      "path": "covers.js",
+      "match": true
+    },
+    {
+      "path": "covers_export.py",
+      "match": true
+    },
+    {
+      "path": "cue_frames.py",
+      "match": true
+    },
+    {
+      "path": "deliver.py",
+      "match": true
+    },
+    {
+      "path": "direction.js",
+      "match": true
+    },
+    {
+      "path": "direction.json",
+      "match": true
+    },
+    {
+      "path": "engine.js",
+      "match": true
+    },
+    {
+      "path": "environment.json",
+      "match": true
+    },
+    {
+      "path": "export_covers.py",
+      "match": true
+    },
+    {
+      "path": "facts.md",
+      "match": true
+    },
+    {
+      "path": "film.js",
+      "match": true
+    },
+    {
+      "path": "filmtools.py",
+      "match": true
+    },
+    {
+      "path": "index.html",
+      "match": true
+    },
+    {
+      "path": "layout.js",
+      "match": true
+    },
+    {
+      "path": "music_sync.js",
+      "match": true
+    },
+    {
+      "path": "music_sync.json",
+      "match": true
+    },
+    {
+      "path": "pace.js",
+      "match": true
+    },
+    {
+      "path": "package.py",
+      "match": true
+    },
+    {
+      "path": "post_evidence.py",
+      "match": true
+    },
+    {
+      "path": "qa.py",
+      "match": true
+    },
+    {
+      "path": "quality.py",
+      "match": true
+    },
+    {
+      "path": "README.md",
+      "match": true
+    },
+    {
+      "path": "reference_previous/baseline_manifest.json",
+      "match": true
+    },
+    {
+      "path": "reference_previous/BGM来源说明.md",
+      "match": true
+    },
+    {
+      "path": "reference_previous/pace.js",
+      "match": true
+    },
+    {
+      "path": "reference_previous/README.md",
+      "match": true
+    },
+    {
+      "path": "reference_previous/节奏修订记录.md",
+      "match": true
+    },
+    {
+      "path": "reference_previous/质检说明.md",
+      "match": true
+    },
+    {
+      "path": "refine.js",
+      "match": true
+    },
+    {
+      "path": "render.py",
+      "match": true
+    },
+    {
+      "path": "requirements.txt",
+      "match": true
+    },
+    {
+      "path": "review/final_000.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_001.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_002.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_003.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_003.1167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_003.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_003.5167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_004.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_004.3333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_004.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_004.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_005.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_005.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_006.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_007.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_008.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_009.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_009.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_010.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_010.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_010.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_011.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_011.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_012.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_012.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.2833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.3833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_013.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_014.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_014.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_015.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_015.4000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_019.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.4167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.4833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.6667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.8833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_021.9167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_022.1333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_023.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_023.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_023.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_023.4833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_027.2000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_029.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_029.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_029.7000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_029.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_029.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_031.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_035.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_036.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_037.1667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_037.3833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_037.4333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_037.6000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_037.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_039.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_042.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_044.4167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_044.6000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_044.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_044.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_044.8167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_044.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_045.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_046.7500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_049.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_050.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_050.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_050.7000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_053.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.1833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.3500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.4000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.4167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.5333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.5500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.7500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_054.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_056.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_058.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_058.8167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_059.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_059.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_059.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_060.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_062.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_062.9167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_063.1333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_064.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_066.3333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_066.5167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_066.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_069.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_072.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_072.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_072.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_072.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.0167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.1500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.3667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.5500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_073.7667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_074.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_075.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_077.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_077.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_077.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_079.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.4333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.5833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.7667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_081.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_082.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_082.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_082.1833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_082.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_082.4833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_083.8000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_086.1333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_086.3167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_086.5333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_086.7167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_086.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_087.1167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_088.6500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_089.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_089.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_090.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_090.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_090.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_091.0167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_091.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_093.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_096.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_096.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_096.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_098.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.6500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.6667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.7833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_100.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_101.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_104.3667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_104.5333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_104.7667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_104.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_105.1500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_105.3333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_105.5500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_106.8000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_110.2167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_110.4000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_110.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_110.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_112.4333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_112.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_112.6500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_112.7500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_112.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_113.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_117.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_117.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_117.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_118.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_119.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_119.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_119.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_119.9333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/final_validation.json",
+      "match": true
+    },
+    {
+      "path": "review/music_sync_checks.json",
+      "match": true
+    },
+    {
+      "path": "review/source_000.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_001.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_002.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_003.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_003.1167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_003.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_003.5167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_004.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_004.3333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_004.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_004.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_005.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_005.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_006.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_007.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_008.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_009.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_009.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_010.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_010.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_010.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_011.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_011.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_012.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_012.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.2833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.3833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_013.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_014.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_014.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_015.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_015.4000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_019.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.4167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.4833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.6667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.8833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_021.9167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_022.1333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_023.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_023.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_023.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_023.4833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_027.2000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_029.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_029.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_029.7000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_029.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_029.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_031.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_035.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_036.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_037.1667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_037.3833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_037.4333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_037.6000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_037.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_039.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_042.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_044.4167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_044.6000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_044.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_044.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_044.8167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_044.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_045.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_046.7500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_049.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_050.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_050.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_050.7000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_053.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.0000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.1833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.3500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.4000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.4167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.5333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.5500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.7500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_054.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_056.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_058.6333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_058.8167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_059.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_059.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_059.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_060.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_062.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_062.9167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_063.1333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_064.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_066.3333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_066.5167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_066.7333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_069.3000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_072.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_072.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_072.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_072.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.0167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.1500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.2333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.3667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.5500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_073.7667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_074.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_075.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_077.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_077.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_077.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_079.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.4333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.5833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.7667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_081.9833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_082.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_082.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_082.1833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_082.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_082.4833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_083.8000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_086.1333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_086.3167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_086.5333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_086.7167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_086.9000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_087.1167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_088.6500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_089.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_089.9667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_090.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_090.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_090.8500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_091.0167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_091.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_093.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_096.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_096.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_096.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_098.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.6500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.6667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.6833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.7833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_100.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_101.0833.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_104.3667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_104.5333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_104.7667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_104.9500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_105.1500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_105.3333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_105.5500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_106.8000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_110.2167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_110.4000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_110.5000.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_110.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_112.4333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_112.6167.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_112.6500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_112.7500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_112.8333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_113.0500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_117.0667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_117.2500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_117.4667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_118.8667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_119.0333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_119.2667.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_119.4500.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_119.9333.jpg",
+      "match": true
+    },
+    {
+      "path": "review/source_audit.json",
+      "match": true
+    },
+    {
+      "path": "review/source_review.json",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/diagnostic_source_91.4.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_前30秒_000.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_前30秒_007.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_前30秒_015.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_前30秒_022.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_前30秒_029.9833.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_最难动作_091.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_最难动作_092.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_最难动作_093.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_最难动作_094.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/phone_最难动作_095.3833.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_encoded.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_input.jpg",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_input.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_two_frames.mp4",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_two_frames.source",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_two_frames.startup.json",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_two_frames_input_005484.jpg",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/probe_two_frames_input_005485.jpg",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/前30秒_000.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/前30秒_007.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/前30秒_015.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/前30秒_022.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/前30秒_029.9833.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/前30秒_带BGM.mp4",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/最难动作_091.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/最难动作_092.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/最难动作_093.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/最难动作_094.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/最难动作_095.3833.png",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/最难动作_带BGM.mp4",
+      "match": true
+    },
+    {
+      "path": "review/代表片段/样片关口.json",
+      "match": true
+    },
+    {
+      "path": "review/全部转场动作.jpg",
+      "match": true
+    },
+    {
+      "path": "review/内部参考_look_pigeon_B.jpg",
+      "match": true
+    },
+    {
+      "path": "review/内部参考与本片对照.png",
+      "match": true
+    },
+    {
+      "path": "review/初始化超时与重试.json",
+      "match": true
+    },
+    {
+      "path": "review/同内容竖屏对照.png",
+      "match": true
+    },
+    {
+      "path": "review/开场逐秒.jpg",
+      "match": true
+    },
+    {
+      "path": "review/手机阅读_640宽.jpg",
+      "match": true
+    },
+    {
+      "path": "review/抱画近景走位保真修复.json",
+      "match": true
+    },
+    {
+      "path": "review/最终MP4_全部检查点.jpg",
+      "match": true
+    },
+    {
+      "path": "review/最终MP4_剪接前中后.jpg",
+      "match": true
+    },
+    {
+      "path": "review/最终MP4_开场逐秒.jpg",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/旧断点_0012.900s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/旧断点_0054.150s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/旧断点_0081.650s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/旧断点_0118.950s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/最后10秒_0114.950s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/最终MP4实际解码音轨.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/试听范围说明.json",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0013.383s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0044.733s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0054.550s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0073.150s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0082.183s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0100.783s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终成片音轨与试听/踩点_0112.750s.wav",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/01_002.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/02_005.9500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/03_009.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/04_015.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/05_019.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/06_023.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/07_027.2000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/08_031.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/09_035.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/10_039.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/11_042.8500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/12_046.7500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/13_050.7000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/14_056.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/15_060.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/16_064.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/17_069.3000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/18_075.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/19_079.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/20_083.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/21_088.6500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/22_093.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/23_098.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/24_106.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/25_110.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_01_002.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_02_005.9500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_03_009.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_04_015.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_05_019.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_06_023.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_07_027.2000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_08_031.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_09_035.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_10_039.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_11_042.8500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_12_046.7500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_13_050.7000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_14_056.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_15_060.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_16_064.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_17_069.3000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_18_075.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_19_079.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_20_083.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_21_088.6500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_22_093.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_23_098.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_24_106.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/UI5pct_25_110.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/最终手机单帧/索引.json",
+      "match": true
+    },
+    {
+      "path": "review/样片不匹配与重试.json",
+      "match": true
+    },
+    {
+      "path": "review/核查状态.json",
+      "match": true
+    },
+    {
+      "path": "review/横屏_BGM连续修订版_带BGM_响度原始日志.txt",
+      "match": true
+    },
+    {
+      "path": "review/横屏_BGM连续修订版_无BGM_响度原始日志.txt",
+      "match": true
+    },
+    {
+      "path": "review/源画面_全部检查点.jpg",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/01_002.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/02_005.9500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/03_009.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/04_015.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/05_019.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/06_023.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/07_027.2000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/08_031.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/09_035.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/10_039.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/11_042.8500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/12_046.7500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/13_050.7000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/14_056.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/15_060.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/16_064.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/17_069.3000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/18_075.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/19_079.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/20_083.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/21_088.6500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/22_093.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/23_098.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/24_106.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/25_110.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/父版手机单帧/索引.json",
+      "match": true
+    },
+    {
+      "path": "review/父版身份.json",
+      "match": true
+    },
+    {
+      "path": "review/精准踩点中心_final.jpg",
+      "match": true
+    },
+    {
+      "path": "review/精准踩点中心_source.jpg",
+      "match": true
+    },
+    {
+      "path": "review/补充成片证据.json",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_000.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_002.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_003.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_003.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_004.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_004.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_005.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_005.9500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_009.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_011.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_011.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_013.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_013.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_015.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_019.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_023.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_027.2000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_029.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_030.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_031.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_035.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_039.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_042.8500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_045.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_046.7500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_050.7000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_054.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_055.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_056.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_060.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_064.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_069.3000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_073.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_073.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_075.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_079.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_082.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_082.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_083.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_086.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_087.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_088.6500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_093.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_098.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_101.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_104.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_104.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_105.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_105.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_106.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_106.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_110.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_113.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_117.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_119.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/phone_119.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_000.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_002.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_003.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_003.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_004.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_004.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_005.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_005.9500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_009.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_011.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_011.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_013.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_013.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_015.4000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_019.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_023.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_027.2000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_029.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_030.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_031.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_035.4500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_039.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_042.8500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_045.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_046.7500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_050.7000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_054.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_055.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_056.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_060.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_064.9000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_069.3000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_073.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_073.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_075.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_079.0500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_082.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_082.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_083.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_086.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_087.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_088.6500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_093.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_098.2500.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_101.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_104.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_104.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_105.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_105.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_106.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_106.8000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_110.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_113.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_117.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_119.0000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/UI5pct_119.5000.png",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/全画面文字测量.json",
+      "match": true
+    },
+    {
+      "path": "review/规范补查/补查范围与方法.json",
+      "match": true
+    },
+    {
+      "path": "review/视频制作核查清单_已填写.md",
+      "match": true
+    },
+    {
+      "path": "review/逐镜导演与阅读表.md",
+      "match": true
+    },
+    {
+      "path": "runtime_version.js",
+      "match": true
+    },
+    {
+      "path": "runtime_version.json",
+      "match": true
+    },
+    {
+      "path": "sample_gate.py",
+      "match": true
+    },
+    {
+      "path": "scenes.js",
+      "match": true
+    },
+    {
+      "path": "standards_audit.py",
+      "match": true
+    },
+    {
+      "path": "storyboard.md",
+      "match": true
+    },
+    {
+      "path": "timeline.json",
+      "match": true
+    },
+    {
+      "path": "内容来源.md",
+      "match": true
+    },
+    {
+      "path": "包装承诺对照.md",
+      "match": true
+    },
+    {
+      "path": "单集制作任务单.md",
+      "match": true
+    },
+    {
+      "path": "参考静帧对照.md",
+      "match": true
+    },
+    {
+      "path": "发布文案.md",
+      "match": true
+    },
+    {
+      "path": "字幕.srt",
+      "match": true
+    },
+    {
+      "path": "定稿文案.txt",
+      "match": true
+    },
+    {
+      "path": "实际质检记录.md",
+      "match": true
+    },
+    {
+      "path": "父版锁定输入.json",
+      "match": true
+    },
+    {
+      "path": "版本清单.json",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/AGENTS.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/Vibe风格与内容转化规范.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/单集制作任务单模板.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/四平台视频制作与交接方案.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/快照说明.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/横屏BGM复核与修复话术.txt",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/第一至第四集_横屏重制提示词.txt",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/视频制作总规范.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/视频制作核查清单.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/视频制作踩坑记录.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/视频发布复盘模板.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/视频节奏与验收规范.md",
+      "match": true
+    },
+    {
+      "path": "规范依据_v2.0/项目规范审查报告_20261022.md",
+      "match": true
+    },
+    {
+      "path": "踩点与阅读检查表.md",
+      "match": true
+    },
+    {
+      "path": "问题修复与最终验证.md",
+      "match": true
+    }
+  ],
+  "sha256_end": "43d465e085f8055f6e7696b24ce4a1fa31f7966c31797ccd8e68b0176892ec87"
+}

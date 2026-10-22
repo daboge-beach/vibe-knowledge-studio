@@ -1,0 +1,12 @@
+{
+  "parent": "historical-workspace\\横屏BGM连贯修订_20261022\\工程\\04_家的底色",
+  "sha256": {
+    "timeline.json": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c",
+    "music_sync.json": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9",
+    "music_sync.js": "b797e5e872fcc919f4b2026de2f5ee66def7b3035b1dc15e8b7917284fa1863e",
+    "字幕.srt": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab",
+    "定稿文案.txt": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f",
+    "audio/score.wav": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6"
+  },
+  "pace_normalized_text_sha256": "b73e516d6610ec1a053133b4194e8b9f8c7ff530cca6ffe0265ee35f6be18fc7"
+}

@@ -1,0 +1,359 @@
+{
+  "version": "horizontal-bgm-continuous-v3.0-20261022",
+  "key": "04_家的底色",
+  "episode": "第四集",
+  "duration": 119.95,
+  "frames": 7197,
+  "fps": 60,
+  "source_audio_sha256": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6",
+  "previous_project": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色",
+  "previous_final": "historical-workspace\\横屏节奏优化_20261021\\发布包\\04_家的底色\\横屏_节奏优化版_带BGM.mp4",
+  "latest_project": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集",
+  "input_files": [
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\art.js",
+      "sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\baseline_manifest.json",
+      "sha256": "87811deacef554da216bdc02e12a9324af5cc3568fd35a0d9e058ada75af9a99"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\BGM来源说明.md",
+      "sha256": "62e92380336f0fb331cc7381cf0e4ae34aecfe8189c67f214ac3f9b1406d2c30"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers.js",
+      "sha256": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers_export.py",
+      "sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\direction.json",
+      "sha256": "a312dba260b15b4da5218633ee32e281f3e861a13defef38fccbc96c5293263a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\engine.js",
+      "sha256": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\environment.json",
+      "sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\export_covers.py",
+      "sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\facts.md",
+      "sha256": "69e841238c4c702a812318d8e966ac67613b8caa626390bc9e4862acaa8f05ab"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\film.js",
+      "sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\filmtools.py",
+      "sha256": "c3caaec87e7aacb53f91e57f83931dbce19c7a5ad897f88b8e808d218990a96b"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\handoff.py",
+      "sha256": "3b8dedcf8c3cf9e8d1f04ae12f204541db9200b88b5633f569232719da6968e4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\index.html",
+      "sha256": "29124c994a917849ac0350fa64b343b57e567fd14ddfcde0500c04aea6cd06f3"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\layout.js",
+      "sha256": "695c8806ad42bcb57f57c5fc00bf433e139e429b56c89a51cc94b932b076c263"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\pace.js",
+      "sha256": "78bedcd48c865d3e2991f2f53c844e67b04222399c4d2241be4a4ac3380d1f4e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\package.py",
+      "sha256": "8eff3758d8d10176cc3c4bbe94c62dee561d4cccb01890fe6f4c8b1a84632870"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\qa.py",
+      "sha256": "aa04c86bbc8d60099163afe94a33ca6efb18f54154625d72d0be1f0115da1da1"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\quality.py",
+      "sha256": "6494afecc55961c7ea32318264e9c5d0a4b3e38a01da60dc5f362c6081ad2cce"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\README.md",
+      "sha256": "113129e3e0f22be339f2300b7211cb8377b57af30d9f1586d08bf63d46071243"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\refine.js",
+      "sha256": "707c9171f8cf2945b3d7d1f13e1a140c5dcd0c19fac373da2467adf252022140"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\render.py",
+      "sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\requirements.txt",
+      "sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\scenes.js",
+      "sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\storyboard.md",
+      "sha256": "4212c46fe5471cb70939d7d0caa2332135efd4f4c72e00562b92b32353d49e16"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\timeline.json",
+      "sha256": "14773f3056231153c04b3fd69e90f7a92ea3ea442927b931e3ac6967615b841a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\内容来源.md",
+      "sha256": "b36e3729a7967cdbf63cd077094c0e98d995e6fe8801e4a5fc9d845c2902c923"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\分镜与阅读复核.md",
+      "sha256": "dbeec8ac420ac91d31e89ec5ea730ee08e5861ded0386d75132347fb4cabb356"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\发布文案.md",
+      "sha256": "98ce20104495cca940cfc61a8c26e57cc9d5c996ef48532ed8e01bb0e2390104"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\字幕.srt",
+      "sha256": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\定稿文案.txt",
+      "sha256": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\工程SHA256.txt",
+      "sha256": "4ba1904a7a5bbbf5b546b7f33214a8a672a4774f906cfea03578da7b9291fad8"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\工程文件清单.json",
+      "sha256": "24e2a9f1e2c3868b5d150022858d09a02de2b3e91179483be31202e130c5132e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\版本清单.json",
+      "sha256": "3acf26ff77bdc59d65a5e9fa1e8828d099fa45c87389336307c431af0e9371d8"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\节奏修订记录.md",
+      "sha256": "5ee8f7c0e6f2f3c9d4620c84b2b51fe78ccb26e0e965e021e198640429e28fd0"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\质检说明.md",
+      "sha256": "9b104845f7dcd3ab08a0ca272a70ce08147c23efa519865b13b02a6a4f04f47d"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\assets\\NotoSansSC-VF.ttf",
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\assets\\NotoSerifSC-VF.ttf",
+      "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\assets\\OFL-NotoSansSC.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\assets\\OFL-NotoSerifSC.txt",
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\audio\\BGM来源说明.md",
+      "sha256": "7f0127ecc2faa408de7a45edd7673a4d78f5230357cdfbbf81b357217d3f8e63"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\audio\\github_reference_bgm.mp4",
+      "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\audio\\score.wav",
+      "sha256": "2f854306d3850a5ed7de764faefd0b1c202ba65c7520478e81f7b71901426b4b"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\audio\\编辑记录.json",
+      "sha256": "2f6fae21377fe22dd236095aa332940b52e32521c83c13aae47a0bcaa8dd8ab3"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers\\B站封面_16比9.jpg",
+      "sha256": "bb390124f5775c8328a97d4c1bf18e2ef106dac992c87d7d80edcb467b683c08"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers\\B站封面_16比9.png",
+      "sha256": "788e4510b9380cb825db9262604b4131f1c998b8ecb3beb3a04318209cdff96f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers\\B站封面_4比3备用.jpg",
+      "sha256": "d430df8a55d9cdbdf514aa87a96095a26c5f8127992701347087c77c44ec2175"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers\\B站封面_4比3备用.png",
+      "sha256": "bf523fa051da396ec92980ff64f12494c99f6a8d8090443aad44a50ab078b510"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers\\今日头条封面_16比9.jpg",
+      "sha256": "efa3af9df550605432bbeb2233d2cb4db3812173704abdf12315643577f97e02"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\covers\\今日头条封面_16比9.png",
+      "sha256": "a411d999545c323beeace572c85a92d8f55ed29422f47f49434110ab69da7d0d"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\old_horizontal_art.js",
+      "sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\old_horizontal_covers.js",
+      "sha256": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\old_horizontal_engine.js",
+      "sha256": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\old_horizontal_film.js",
+      "sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\old_horizontal_layout.js",
+      "sha256": "c20e4825e279c467935a96abc414f3422f24c342be3ed82fe942957d4b2c3d2f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\old_horizontal_scenes.js",
+      "sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\vertical_art.js",
+      "sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\vertical_engine.js",
+      "sha256": "9459a62f41f6ed7eea301bcd56ad44e371997ecfd3bffbd86af64ebcbce1debb"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\vertical_film.js",
+      "sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\vertical_pace.js",
+      "sha256": "63c00f17d8eb8da27ed7655efd5c0f63bc131dcdd9df3652a0a93b7aca455e5f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\04_家的底色\\reference\\vertical_scenes.js",
+      "sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\timeline.json",
+      "sha256": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\music_sync.json",
+      "sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\字幕.srt",
+      "sha256": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\定稿文案.txt",
+      "sha256": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\audio\\score.wav",
+      "sha256": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\audio\\BGM来源说明.md",
+      "sha256": "70f1b3974eac301681022d79b8249076c0cd1c94d2de3f1e915895b8b5d46f86"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\audio\\编辑记录.json",
+      "sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+    },
+    {
+      "origin": "continuous_original",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第四集\\baseline\\audio\\github_reference_bgm.mp4",
+      "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+    }
+  ]
+}

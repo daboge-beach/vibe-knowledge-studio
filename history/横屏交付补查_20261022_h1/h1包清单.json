@@ -1,0 +1,138 @@
+[
+  {
+    "episode": "04_家的底色",
+    "release_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\04_家的底色_横屏_v3.1_发布_h1.zip",
+      "sha256": "f3f37572a86961ef9b6c05bbfc4fafcc5017c57e4260ee44b5d1cdf4501871c3",
+      "file_count": 384
+    },
+    "source_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\04_家的底色_横屏_v3.1_工程_h1.zip",
+      "sha256": "ee9f84d704f94b6496b7251f69aef72a09bbed2a3add9c3898142c653548f652",
+      "parent_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\04_家的底色_横屏规范修订_可修改工程_v3.1.zip",
+      "parent_zip_sha256": "43d465e085f8055f6e7696b24ce4a1fa31f7966c31797ccd8e68b0176892ec87",
+      "file_count": 985
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\final_BGM.mp4",
+        "sha256": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_m02cbfa69_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\final_noBGM.mp4",
+        "sha256": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_mfac51357_无BGM.mp4"
+      }
+    ],
+    "status": "待验收候选",
+    "independent_new_h1_package_verification": "historical-workspace\\横屏交付补查_20261022_h1\\独立解压验证\\04_家的底色_结果.json",
+    "passed_package_scope_only": true
+  },
+  {
+    "episode": "01_长大的回路",
+    "release_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\01_长大的回路_横屏_v3.1_发布_h1.zip",
+      "sha256": "652c30cca31697e75ef28a622b8d47ecc18d162d6647d0fb7123b0b30f6db83e",
+      "file_count": 399
+    },
+    "source_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\01_长大的回路_横屏_v3.1_工程_h1.zip",
+      "sha256": "cc3c3a942df2135216e9724145e23df446627df9eaaa538a6a6c5546b345ee13",
+      "parent_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\01_长大的回路_横屏规范修订_可修改工程_v3.1.zip",
+      "parent_zip_sha256": "82786f96d67eeb8e1460e0ec71615554c5da97d5789d27a0aa33d98dcb3b1204",
+      "file_count": 1023
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\final_BGM.mp4",
+        "sha256": "157651c9c04433e25e93b422a885122bd7f308630e804cbe595bffe331180d86",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_m157651c9_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\final_noBGM.mp4",
+        "sha256": "864bed2c46ffdadfc9a3fea81533b2221a3ef9a452bbc8a3e727d047fad40852",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_m864bed2c_无BGM.mp4"
+      }
+    ],
+    "status": "待验收候选",
+    "independent_new_h1_package_verification": "historical-workspace\\横屏交付补查_20261022_h1\\独立解压验证\\01_长大的回路_结果.json",
+    "passed_package_scope_only": true
+  },
+  {
+    "episode": "02_一勺的变迁",
+    "release_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\02_一勺的变迁_横屏_v3.1_发布_h1.zip",
+      "sha256": "88c36abe1be98b8f21007e4516698a73e3dc0668a87b72aa6448a93fa7d7537b",
+      "file_count": 428
+    },
+    "source_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\02_一勺的变迁_横屏_v3.1_工程_h1.zip",
+      "sha256": "ddf29a75342979af5c6fa20c29b267ef9ed1476e0d680e7f99ee9a7647079bde",
+      "parent_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\02_一勺的变迁_横屏规范修订_可修改工程_v3.1.zip",
+      "parent_zip_sha256": "73782fa2fb214704bc076a2c8c15c3de52f0622b93cd81044eeb9bcbf37e41f7",
+      "file_count": 1095
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\final_BGM.mp4",
+        "sha256": "40d80ff2652821e7a5fd450a36df4861a245a1abbe9715e9bdc7e95f83b3db41",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_m40d80ff2_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\final_noBGM.mp4",
+        "sha256": "5c456bb45baa85171bb13fa409df3c8eaba62d86a7afeaee6036b3f9a40d53d2",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_m5c456bb4_无BGM.mp4"
+      }
+    ],
+    "status": "待验收候选",
+    "independent_new_h1_package_verification": "historical-workspace\\横屏交付补查_20261022_h1\\独立解压验证\\02_一勺的变迁_结果.json",
+    "passed_package_scope_only": true
+  },
+  {
+    "episode": "03_借你一点平静",
+    "release_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\03_借你一点平静_横屏_v3.1_发布_h1.zip",
+      "sha256": "78c3c1c9436f23833294f7188834ca52a61a50e042e6c2b8bfcd0ccc4164265a",
+      "file_count": 504
+    },
+    "source_zip": {
+      "path": "historical-workspace\\横屏交付补查_20261022_h1\\压缩包\\03_借你一点平静_横屏_v3.1_工程_h1.zip",
+      "sha256": "36ca3c80397e34e6d12b7be2f96b7445d3599715ef82269a78c80cfdffe1bb3b",
+      "parent_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\03_借你一点平静_横屏规范修订_可修改工程_v3.1.zip",
+      "parent_zip_sha256": "771aa4d41500821addfeef25c873a9698b5c88ccded25d8e4d7410142ba57d3b",
+      "file_count": 1303
+    },
+    "media": [
+      {
+        "variant": "带BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_带BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\final_BGM.mp4",
+        "sha256": "216841405bfc044071895463eb573ff91854ca2e00724fee234f85b9a893b2ea",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_m21684140_带BGM.mp4"
+      },
+      {
+        "variant": "无BGM",
+        "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_无BGM.mp4",
+        "independent_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\final_noBGM.mp4",
+        "sha256": "093da669198bd3ec1804be1283712e1cc3fe96d3feabf2e0ab5fa7ed87a9e0f2",
+        "path": "historical-workspace\\横屏交付补查_20261022_h1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_m093da669_无BGM.mp4"
+      }
+    ],
+    "status": "待验收候选",
+    "independent_new_h1_package_verification": "historical-workspace\\横屏交付补查_20261022_h1\\独立解压验证\\03_借你一点平静_结果.json",
+    "passed_package_scope_only": true
+  }
+]

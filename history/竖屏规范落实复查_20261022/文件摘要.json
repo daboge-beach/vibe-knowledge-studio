@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "source": {
+    "file": "四集竖屏_规范v2.0_独立源工程_a1.zip",
+    "bytes": 306975376,
+    "sha256": "0c6b0b489ae88ff34bc238e27e64398c17ffc448dfa981603487f5cb729b24d1",
+    "files_in_hash_manifest": 221,
+    "zip_crc_and_all_hashes_passed": true,
+    "all_runtime_sources_match_tested_extraction": true
+  },
+  "review": {
+    "file": "四集竖屏_规范v2.0_复查记录与样片.zip",
+    "bytes": 56743137,
+    "sha256": "02f7e5994beeee6f89b1b9d9e2fc038285b23dddd810ce3fe5ce17f2843346ee",
+    "files_in_hash_manifest": 799,
+    "zip_crc_and_all_hashes_passed": true
+  },
+  "locked_published_video_sha256": {
+    "第四集": "a347dc523617197f757961c107ef0ba77fa23fa38b9043cbd8d8f7509fa598cd",
+    "第一集": "4ca05026c990275e07135beb46a31647067df7d7825be6608d98686c9876eb1d",
+    "第二集": "493ec7a478ff2965b2842ce254dac943bf43306d2d6410184551b09f4af0a02b",
+    "第三集": "c45e7a30d84b2d2103c470972dea1957f1f04dada81c2d23df970916b8993003"
+  },
+  "state": "待验收候选"
+}

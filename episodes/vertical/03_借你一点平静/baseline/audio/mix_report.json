@@ -1,0 +1,61 @@
+{
+  "source_sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59",
+  "git_blob_sha1": "59438926b3dbe50355ac67ffb5e5a14b9c982d5e",
+  "duration": 130,
+  "music_stretched": false,
+  "music_looped": false,
+  "first_pass_loudness": {
+    "input_i": "-13.72",
+    "input_tp": "-1.97",
+    "input_lra": "3.30",
+    "input_thresh": "-23.74",
+    "output_i": "-14.42",
+    "output_tp": "-3.01",
+    "output_lra": "2.70",
+    "output_thresh": "-24.42",
+    "normalization_type": "dynamic",
+    "target_offset": "0.42"
+  },
+  "foley": [
+    {
+      "time": 1.127,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 1.46,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 1.74,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 2.055,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 2.325,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 100.836,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 103.06,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 105.284,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 107.36,
+      "type": "original quiet wood foley"
+    },
+    {
+      "time": 109.732,
+      "type": "original quiet wood foley"
+    }
+  ]
+}

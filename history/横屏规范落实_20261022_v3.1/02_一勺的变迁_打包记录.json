@@ -1,0 +1,15 @@
+{
+  "episode": "02_一勺的变迁",
+  "version": "v3.1",
+  "status": "待验收候选",
+  "release_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\02_一勺的变迁_横屏规范修订_发布包_v3.1.zip",
+  "release_sha256": "da00fbec2964ce1a99d6924bf0e24de198fc6f8aaa3c330993f5ff42ce611422",
+  "source_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\02_一勺的变迁_横屏规范修订_可修改工程_v3.1.zip",
+  "source_sha256": "73782fa2fb214704bc076a2c8c15c3de52f0622b93cd81044eeb9bcbf37e41f7",
+  "crc_and_in_archive_sha_checked": true,
+  "independent_unzip_run": "待实际执行后见独立工程解压验证记录",
+  "subjective_listening_seconds": 0,
+  "full_human_viewing": false,
+  "user_accepted": false,
+  "publicly_published": false
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-22",
+  "root": "repository-root",
+  "scope": "planning/documents only; no render or user acceptance",
+  "checks": {
+    "all_six_handoff_files_exist": true,
+    "all_local_markdown_targets_exist": true,
+    "prompts_use_E_root": true,
+    "new_plans_not_media_acceptance": true,
+    "第五集_下一步_制作方案.md_scene_budget_contiguous": true,
+    "第六集_被看见_制作方案.md_scene_budget_contiguous": true
+  },
+  "local_link_count": 76,
+  "missing_links": [],
+  "passed": true
+}

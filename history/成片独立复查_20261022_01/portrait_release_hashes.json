@@ -1,0 +1,442 @@
+[
+  {
+    "episode": "第一集",
+    "checks": [
+      {
+        "name": "BGM来源说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\BGM来源说明.md"
+        ]
+      },
+      {
+        "name": "music_sync.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\music_sync.json"
+        ]
+      },
+      {
+        "name": "SHA256校验.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\SHA256校验.txt"
+        ]
+      },
+      {
+        "name": "timeline.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\timeline.json"
+        ]
+      },
+      {
+        "name": "先读我.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\先读我.txt"
+        ]
+      },
+      {
+        "name": "内容来源.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\内容来源.md"
+        ]
+      },
+      {
+        "name": "字幕.srt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\字幕.srt"
+        ]
+      },
+      {
+        "name": "定稿文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\定稿文案.txt"
+        ]
+      },
+      {
+        "name": "封面_小红书_3x4.jpg",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\封面_小红书_3x4.jpg"
+        ]
+      },
+      {
+        "name": "封面_抖音_9x16.jpg",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\封面_抖音_9x16.jpg"
+        ]
+      },
+      {
+        "name": "平台加音乐版_竖屏.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\平台加音乐版_竖屏.mp4"
+        ]
+      },
+      {
+        "name": "标题文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\标题文案.txt"
+        ]
+      },
+      {
+        "name": "第一集_竖屏_BGM连贯版.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\第一集_竖屏_BGM连贯版.mp4"
+        ]
+      },
+      {
+        "name": "质检数据.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\质检数据.json"
+        ]
+      },
+      {
+        "name": "质检说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第一集_BGM连贯发布包\\第一集\\质检说明.md"
+        ]
+      }
+    ]
+  },
+  {
+    "episode": "第二集",
+    "checks": [
+      {
+        "name": "BGM来源说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\BGM来源说明.md"
+        ]
+      },
+      {
+        "name": "music_sync.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\music_sync.json"
+        ]
+      },
+      {
+        "name": "SHA256校验.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\SHA256校验.txt"
+        ]
+      },
+      {
+        "name": "timeline.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\timeline.json"
+        ]
+      },
+      {
+        "name": "先读我.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\先读我.txt"
+        ]
+      },
+      {
+        "name": "内容来源.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\内容来源.md"
+        ]
+      },
+      {
+        "name": "字幕.srt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\字幕.srt"
+        ]
+      },
+      {
+        "name": "定稿文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\定稿文案.txt"
+        ]
+      },
+      {
+        "name": "封面_小红书_3x4.jpg",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\封面_小红书_3x4.jpg"
+        ]
+      },
+      {
+        "name": "封面_抖音_9x16.jpg",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\封面_抖音_9x16.jpg"
+        ]
+      },
+      {
+        "name": "平台加音乐版_竖屏.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\平台加音乐版_竖屏.mp4"
+        ]
+      },
+      {
+        "name": "标题文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\标题文案.txt"
+        ]
+      },
+      {
+        "name": "第二集_竖屏_BGM连贯版.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\第二集_竖屏_BGM连贯版.mp4"
+        ]
+      },
+      {
+        "name": "质检数据.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\质检数据.json"
+        ]
+      },
+      {
+        "name": "质检说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第二集_BGM连贯发布包\\第二集\\质检说明.md"
+        ]
+      }
+    ]
+  },
+  {
+    "episode": "第三集",
+    "checks": [
+      {
+        "name": "BGM来源说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\BGM来源说明.md"
+        ]
+      },
+      {
+        "name": "music_sync.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\music_sync.json"
+        ]
+      },
+      {
+        "name": "SHA256校验.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\SHA256校验.txt"
+        ]
+      },
+      {
+        "name": "timeline.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\timeline.json"
+        ]
+      },
+      {
+        "name": "先读我.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\先读我.txt"
+        ]
+      },
+      {
+        "name": "内容来源.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\内容来源.md"
+        ]
+      },
+      {
+        "name": "字幕.srt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\字幕.srt"
+        ]
+      },
+      {
+        "name": "定稿文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\定稿文案.txt"
+        ]
+      },
+      {
+        "name": "封面_小红书3比4.png",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\封面_小红书3比4.png"
+        ]
+      },
+      {
+        "name": "封面_抖音9比16.png",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\封面_抖音9比16.png"
+        ]
+      },
+      {
+        "name": "平台加音乐版_竖屏.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\平台加音乐版_竖屏.mp4"
+        ]
+      },
+      {
+        "name": "标题文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\标题文案.txt"
+        ]
+      },
+      {
+        "name": "第三集_竖屏_BGM连贯版.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\第三集_竖屏_BGM连贯版.mp4"
+        ]
+      },
+      {
+        "name": "质检数据.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\质检数据.json"
+        ]
+      },
+      {
+        "name": "质检说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第三集_BGM连贯发布包\\第三集\\质检说明.md"
+        ]
+      }
+    ]
+  },
+  {
+    "episode": "第四集",
+    "checks": [
+      {
+        "name": "BGM来源说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\BGM来源说明.md"
+        ]
+      },
+      {
+        "name": "music_sync.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\music_sync.json"
+        ]
+      },
+      {
+        "name": "SHA256校验.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\SHA256校验.txt"
+        ]
+      },
+      {
+        "name": "timeline.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\timeline.json"
+        ]
+      },
+      {
+        "name": "先读我.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\先读我.txt"
+        ]
+      },
+      {
+        "name": "内容来源.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\内容来源.md"
+        ]
+      },
+      {
+        "name": "字幕.srt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\字幕.srt"
+        ]
+      },
+      {
+        "name": "定稿文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\定稿文案.txt"
+        ]
+      },
+      {
+        "name": "封面_小红书_3x4.jpg",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\封面_小红书_3x4.jpg"
+        ]
+      },
+      {
+        "name": "封面_抖音_9x16.jpg",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\封面_抖音_9x16.jpg"
+        ]
+      },
+      {
+        "name": "平台加音乐版_竖屏.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\平台加音乐版_竖屏.mp4"
+        ]
+      },
+      {
+        "name": "标题文案.txt",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\标题文案.txt"
+        ]
+      },
+      {
+        "name": "第四集_竖屏_BGM连贯版.mp4",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\第四集_竖屏_BGM连贯版.mp4"
+        ]
+      },
+      {
+        "name": "质检数据.json",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\质检数据.json"
+        ]
+      },
+      {
+        "name": "质检说明.md",
+        "matches": true,
+        "found": [
+          "historical-workspace\\成片独立复查_20261022_01\\packages\\第四集_BGM连贯发布包\\第四集\\质检说明.md"
+        ]
+      }
+    ]
+  }
+]

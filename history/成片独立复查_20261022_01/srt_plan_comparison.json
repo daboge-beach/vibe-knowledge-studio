@@ -1,0 +1,58 @@
+[
+  {
+    "episode": "第一集",
+    "mode": "竖屏",
+    "srt_count": 26,
+    "plan_count": 26,
+    "matches": true
+  },
+  {
+    "episode": "第一集",
+    "mode": "横屏",
+    "srt_count": 26,
+    "plan_count": 26,
+    "matches": true
+  },
+  {
+    "episode": "第二集",
+    "mode": "竖屏",
+    "srt_count": 29,
+    "plan_count": 29,
+    "matches": true
+  },
+  {
+    "episode": "第二集",
+    "mode": "横屏",
+    "srt_count": 29,
+    "plan_count": 29,
+    "matches": true
+  },
+  {
+    "episode": "第三集",
+    "mode": "竖屏",
+    "srt_count": 18,
+    "plan_count": 18,
+    "matches": true
+  },
+  {
+    "episode": "第三集",
+    "mode": "横屏",
+    "srt_count": 18,
+    "plan_count": 18,
+    "matches": true
+  },
+  {
+    "episode": "第四集",
+    "mode": "竖屏",
+    "srt_count": 25,
+    "plan_count": 25,
+    "matches": true
+  },
+  {
+    "episode": "第四集",
+    "mode": "横屏",
+    "srt_count": 25,
+    "plan_count": 25,
+    "matches": true
+  }
+]

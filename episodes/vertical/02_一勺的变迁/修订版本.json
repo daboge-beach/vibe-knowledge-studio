@@ -1,0 +1,14 @@
+{
+  "version": "portrait-chart-v2.1-r1",
+  "content_parent": "bgm-continuous-v2",
+  "source_parent": "source-metadata-a1",
+  "scope": "9:16 only",
+  "status": "返修后待复核候选",
+  "locked": [
+    "timeline.json",
+    "字幕.srt",
+    "定稿文案.txt",
+    "audio/score.wav"
+  ],
+  "user_acceptance": "未记录"
+}

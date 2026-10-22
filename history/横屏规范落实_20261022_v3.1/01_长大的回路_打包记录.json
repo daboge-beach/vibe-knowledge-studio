@@ -1,0 +1,15 @@
+{
+  "episode": "01_长大的回路",
+  "version": "v3.1",
+  "status": "待验收候选",
+  "release_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\01_长大的回路_横屏规范修订_发布包_v3.1.zip",
+  "release_sha256": "9d4837c2b647e41757adece0037b378c3607c839ed303be5d97b954c14c79435",
+  "source_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\01_长大的回路_横屏规范修订_可修改工程_v3.1.zip",
+  "source_sha256": "82786f96d67eeb8e1460e0ec71615554c5da97d5789d27a0aa33d98dcb3b1204",
+  "crc_and_in_archive_sha_checked": true,
+  "independent_unzip_run": "待实际执行后见独立工程解压验证记录",
+  "subjective_listening_seconds": 0,
+  "full_human_viewing": false,
+  "user_accepted": false,
+  "publicly_published": false
+}

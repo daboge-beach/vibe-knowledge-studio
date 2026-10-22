@@ -1,0 +1,30 @@
+{
+  "version": "horizontal-standards-v3.1-20261022",
+  "duration": 119.95,
+  "fps": 60,
+  "frames": 7197,
+  "content_mapping_count": 1,
+  "music_visual_mapping_count": 1,
+  "preview_template_sha256": "91602598281977136183877bf8e35bf2f7a31ffc23f1dde85a680cadbc4e86f5",
+  "inputs": {
+    "art.js": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6",
+    "assets/NotoSansSC-VF.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "assets/NotoSerifSC-VF.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+    "assets/OFL-NotoSansSC.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "assets/OFL-NotoSerifSC.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+    "audio/score.wav": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6",
+    "covers.js": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a",
+    "direction.js": "f4aa6e63aefc2e72bbff1b28612ed4ec7e5188fd2d56aaff0362ce5ec16f2896",
+    "engine.js": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47",
+    "film.js": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f",
+    "filmtools.py": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+    "layout.js": "695c8806ad42bcb57f57c5fc00bf433e139e429b56c89a51cc94b932b076c263",
+    "music_sync.js": "b797e5e872fcc919f4b2026de2f5ee66def7b3035b1dc15e8b7917284fa1863e",
+    "music_sync.json": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9",
+    "pace.js": "8e7a2dc2c0515745237665614e452408311f7f63c111de0c11a877c63ba7be6f",
+    "refine.js": "707c9171f8cf2945b3d7d1f13e1a140c5dcd0c19fac373da2467adf252022140",
+    "scenes.js": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f",
+    "timeline.json": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c"
+  },
+  "id": "51824e6a81f43338f6d3f20f15f2c342aa5893e4df2b7a227ce3a02b470937b9"
+}

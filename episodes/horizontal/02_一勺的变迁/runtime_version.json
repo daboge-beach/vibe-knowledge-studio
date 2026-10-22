@@ -1,0 +1,32 @@
+{
+  "version": "horizontal-standards-v3.1-20261022",
+  "duration": 120.7,
+  "fps": 60,
+  "frames": 7242,
+  "content_mapping_count": 1,
+  "music_visual_mapping_count": 1,
+  "preview_template_sha256": "834ff269c7bb0ad9f2dcda81bb8d9b30c06b7c12c01aab10875090497c8fc9bb",
+  "inputs": {
+    "art.js": "1ca2ffc50b841c32a161d096651141da296498682c05c513c9f401405975984a",
+    "assets/NotoSansSC-VF.ttf": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "assets/NotoSerifSC-VF.ttf": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9",
+    "assets/OFL-NotoSansSC.txt": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+    "assets/OFL-NotoSerifSC.txt": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+    "audio/score.wav": "8e4eaa4f3449c9b976eff56d0f6005e453f4af2fec9d82821435d1f0892c77dd",
+    "covers.js": "f657675a9457c08d79544daae78cd9495990b4802db56816b0fc9ef808aafe60",
+    "direction.js": "8e7bbf48e4c1527b71bdff0e4bab26a2334a2f2590b06b86ab8f739a0f7670ee",
+    "engine.js": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c",
+    "episode.js": "22803698dfbdc09b6c63e49727218809b453ef0f54d147eca92347fcd4c97bd8",
+    "film.js": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353",
+    "filmtools.py": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602",
+    "layout.js": "832bd583cb5ca3077e35c4970db181c7cdd5101aab86a6f2b4a86a52f27af193",
+    "music_sync.js": "84f9097a96899afba99389f9c4f2f80b4edb448abae87ccdc9bb317eaee022cd",
+    "music_sync.json": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953",
+    "pace.js": "9c4d355ca4d33e3fd8e9a451686f21caaf130be7ba60d2a6014afaf9dfe4c970",
+    "people.js": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e",
+    "refine.js": "5c1f484018d356efd89af68b55b24a2a90d06c390b37b8d115750d9f6a4c00a0",
+    "scenes.js": "f55c0477ba41f152183b55620c90cd3714cbf2bb2588144e29cef49b4765ea23",
+    "timeline.json": "22cff652e9a9b8e5fd931c54aeee2d3a1290e3556cabbd15707405ef274c5dc3"
+  },
+  "id": "e75f056785046bf02173b9a3727fe6b6a8685121ca96d93feb3558ff81fcc594"
+}

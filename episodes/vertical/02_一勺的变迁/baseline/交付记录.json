@@ -1,0 +1,28 @@
+{
+  "episode": "第二集",
+  "publish_zip": "historical-workspace\\第二集_辅食规则50年反转史_重制版\\第二集_辅食规则50年反转史_重制发布包.zip",
+  "source_zip": "historical-workspace\\第二集_辅食规则50年反转史_重制版\\第二集_辅食规则50年反转史_可修改工程.zip",
+  "publication_MB": 83.2,
+  "source_MB": 43.2,
+  "files": [
+    "BGM来源说明.md",
+    "先读我.txt",
+    "内容来源.md",
+    "媒体质检数据.json",
+    "字体覆盖检查.json",
+    "字幕.srt",
+    "封面_小红书_3x4.jpg",
+    "封面_抖音_9x16.jpg",
+    "封面_横屏_16x9.jpg",
+    "平台加音乐版_竖屏.mp4",
+    "文字边界检查.json",
+    "最终成片抽帧比对.json",
+    "标题文案.txt",
+    "画面检查数据.json",
+    "第二集_横屏完整版.mp4",
+    "第二集_竖屏完整版.mp4",
+    "质检说明.md",
+    "SHA256校验.txt"
+  ],
+  "silent_video_stream_identical": true
+}

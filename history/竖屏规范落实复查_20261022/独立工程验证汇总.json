@@ -1,0 +1,33 @@
+{
+  "all_four_passed": true,
+  "results": [
+    {
+      "episode": "第四集",
+      "actual_output_duration": 2,
+      "render_sha256": "3501dd8869c0a019276df282cce48632f37e8cbf17a74ae764a44c5411f72caf",
+      "all_source_hashes_equal": true,
+      "status": "通过：解压、摘要、预览、代表片段渲染、9:16封面重导；不代表全片观影、试听或双平台裁切验收"
+    },
+    {
+      "episode": "第一集",
+      "actual_output_duration": 2,
+      "render_sha256": "5d7c73a277b0dc8fceaa1f6a8ce6adb7bc4097586ff5c01b0c9be2caafdcc102",
+      "all_source_hashes_equal": true,
+      "status": "通过：解压、摘要、预览、代表片段渲染、9:16封面重导；不代表全片观影、试听或双平台裁切验收"
+    },
+    {
+      "episode": "第二集",
+      "actual_output_duration": 2,
+      "render_sha256": "862ce091e65ab337d7d343413b07e7537c57fcf76d212df89fa30c8cacb96893",
+      "all_source_hashes_equal": true,
+      "status": "通过：解压、摘要、预览、代表片段渲染、9:16封面重导；不代表全片观影、试听或双平台裁切验收"
+    },
+    {
+      "episode": "第三集",
+      "actual_output_duration": 2,
+      "render_sha256": "f41d54d2d8df77aafeb3afca886d6f2ef181a2dd4d316848a945af8adc2999ce",
+      "all_source_hashes_equal": true,
+      "status": "通过：解压、摘要、预览、代表片段渲染、9:16封面重导；不代表全片观影、试听或双平台裁切验收"
+    }
+  ]
+}

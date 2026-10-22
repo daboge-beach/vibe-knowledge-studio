@@ -1,0 +1,28 @@
+{
+  "episode": "第二集",
+  "version": "portrait-chart-v2.1-r1",
+  "video": "historical-workspace/竖屏返修_20261022_r1/发布包/第二集/第二集_竖屏_图表优化_v2.1r1_带BGM.mp4",
+  "dry": "historical-workspace/竖屏返修_20261022_r1/发布包/第二集/第二集_竖屏_图表优化_v2.1r1_无BGM.mp4",
+  "video_sha256": "239bb5bd08e326f274f0d3b630d50f0449276f7d4d659157769be7c3877c39cb",
+  "dry_sha256": "2864916e6a08155f990445e3aa9fe8aa6dc593c0f6f4977158672050284eb24a",
+  "video_packet_hash": "SHA256=6cb49316f79b0ebf1f2297e9880bf8ee70000ef559b1c9b8baa44f65ef02206e",
+  "duration": 120.7,
+  "fps": 60,
+  "frames": 7242,
+  "size": [
+    1440,
+    2560
+  ],
+  "mix_sha256": "8e4eaa4f3449c9b976eff56d0f6005e453f4af2fec9d82821435d1f0892c77dd",
+  "foley_sha256": null,
+  "locked_files_unchanged": true,
+  "technical_audio_windows": 39,
+  "samples": 307,
+  "lufs": -14.01,
+  "true_peak_dbtp": -2.32,
+  "normal_speed_full_viewing_seconds": 0,
+  "subjective_listening_seconds": 0,
+  "platform_ui": "未验证",
+  "user_acceptance": "未记录",
+  "state": "返修后待复核候选，非发布就绪"
+}

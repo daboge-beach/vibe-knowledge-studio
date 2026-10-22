@@ -1,0 +1,12 @@
+{
+  "python": "Python 3.13.3",
+  "dependencies": {
+    "playwright": "1.64.0",
+    "numpy": "2.4.4",
+    "Pillow": "12.1.1",
+    "scipy": "1.17.1"
+  },
+  "ffmpeg": "ffmpeg version 8.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+  "render_encoder": "h264_nvenc p6 hq cq17; use libx264 fallback if NVIDIA unavailable",
+  "fonts": "Noto Sans SC / Noto Serif SC, assets/OFL-*.txt"
+}

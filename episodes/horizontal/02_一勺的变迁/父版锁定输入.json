@@ -1,0 +1,12 @@
+{
+  "parent": "historical-workspace\\横屏BGM连贯修订_20261022\\工程\\02_一勺的变迁",
+  "sha256": {
+    "timeline.json": "22cff652e9a9b8e5fd931c54aeee2d3a1290e3556cabbd15707405ef274c5dc3",
+    "music_sync.json": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953",
+    "music_sync.js": "84f9097a96899afba99389f9c4f2f80b4edb448abae87ccdc9bb317eaee022cd",
+    "字幕.srt": "c3c45458572eb8497476d1c0dd7522e2951d85183e1099f3df1f079af302a6d8",
+    "定稿文案.txt": "3e7bf4fc745e7b00e0f19cd466a2b12bd523f8d4e843f3c3792294bcadb978d0",
+    "audio/score.wav": "8e4eaa4f3449c9b976eff56d0f6005e453f4af2fec9d82821435d1f0892c77dd"
+  },
+  "pace_normalized_text_sha256": "19a5923e865379874b86cbbdff21fc7dd4f3be14564b2dc0582ee93e64e4298c"
+}

@@ -1,0 +1,12 @@
+{
+  "python": "3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "libraries": {
+    "Pillow": "12.1.1",
+    "numpy": "2.4.4",
+    "scipy": "1.17.1",
+    "playwright": "1.64.0"
+  },
+  "ffmpeg": "ffmpeg version 8.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+  "ffprobe": "ffprobe version 8.1-full_build-www.gyan.dev Copyright (c) 2007-2026 the FFmpeg developers"
+}

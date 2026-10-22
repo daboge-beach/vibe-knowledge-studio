@@ -1,0 +1,15 @@
+{
+  "episode": "03_借你一点平静",
+  "version": "v3.1",
+  "status": "待验收候选",
+  "release_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\03_借你一点平静_横屏规范修订_发布包_v3.1.zip",
+  "release_sha256": "c20148714ff4046d285943fff385e16bb579648cf11e64ade6e723563e55b671",
+  "source_zip": "historical-workspace\\横屏规范落实_20261022_v3.1\\压缩包\\03_借你一点平静_横屏规范修订_可修改工程_v3.1.zip",
+  "source_sha256": "771aa4d41500821addfeef25c873a9698b5c88ccded25d8e4d7410142ba57d3b",
+  "crc_and_in_archive_sha_checked": true,
+  "independent_unzip_run": "待实际执行后见独立工程解压验证记录",
+  "subjective_listening_seconds": 0,
+  "full_human_viewing": false,
+  "user_accepted": false,
+  "publicly_published": false
+}

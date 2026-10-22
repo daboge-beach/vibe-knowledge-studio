@@ -1,0 +1,217 @@
+{
+  "episode": "第二集",
+  "version": "bgm-continuous-v2",
+  "duration": 120.7,
+  "fps": 60,
+  "music_source": {
+    "file": "baseline/audio/github_reference_bgm.mp4",
+    "source_start": 0,
+    "source_end": 120.7,
+    "playback_rate": 1,
+    "internal_splices": 0,
+    "looped": false,
+    "source_sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+  },
+  "captions_locked": true,
+  "cues": [
+    {
+      "label": "场景2叠化中心",
+      "old_output_time": 13.316,
+      "new_output_time": 13.383333333333333,
+      "source_music_attack": 13.37959,
+      "attack_strength": 0.18009,
+      "visual_shift_seconds": 0.0673333,
+      "error_to_attack_ms": 3.743
+    },
+    {
+      "label": "场景3叠化中心",
+      "old_output_time": 25.415,
+      "new_output_time": 25.6,
+      "source_music_attack": 25.59184,
+      "attack_strength": 0.54703,
+      "visual_shift_seconds": 0.185,
+      "error_to_attack_ms": 8.16
+    },
+    {
+      "label": "场景4叠化中心",
+      "old_output_time": 34.615,
+      "new_output_time": 34.63333333333333,
+      "source_music_attack": 34.63129,
+      "attack_strength": 0.42377,
+      "visual_shift_seconds": 0.0183333,
+      "error_to_attack_ms": 2.043
+    },
+    {
+      "label": "场景6叠化中心",
+      "old_output_time": 53.399,
+      "new_output_time": 53.483333333333334,
+      "source_music_attack": 53.48844,
+      "attack_strength": 0.32514,
+      "visual_shift_seconds": 0.0843333,
+      "error_to_attack_ms": 5.107
+    },
+    {
+      "label": "场景7叠化中心",
+      "old_output_time": 64.415,
+      "new_output_time": 64.4,
+      "source_music_attack": 64.39365,
+      "attack_strength": 0.3846,
+      "visual_shift_seconds": -0.015,
+      "error_to_attack_ms": 6.35
+    },
+    {
+      "label": "场景8叠化中心",
+      "old_output_time": 71.987,
+      "new_output_time": 71.83333333333333,
+      "source_music_attack": 71.82676,
+      "attack_strength": 0.21661,
+      "visual_shift_seconds": -0.1536667,
+      "error_to_attack_ms": 6.573
+    },
+    {
+      "label": "场景9叠化中心",
+      "old_output_time": 82.892,
+      "new_output_time": 82.98333333333333,
+      "source_music_attack": 82.98141,
+      "attack_strength": 0.39267,
+      "visual_shift_seconds": 0.0913333,
+      "error_to_attack_ms": 1.923
+    },
+    {
+      "label": "场景10叠化中心",
+      "old_output_time": 94.615,
+      "new_output_time": 94.66666666666667,
+      "source_music_attack": 94.67483,
+      "attack_strength": 0.68353,
+      "visual_shift_seconds": 0.0516667,
+      "error_to_attack_ms": 8.163
+    },
+    {
+      "label": "场景11叠化中心",
+      "old_output_time": 105.471,
+      "new_output_time": 105.56666666666666,
+      "source_music_attack": 105.57007,
+      "attack_strength": 0.3012,
+      "visual_shift_seconds": 0.0956667,
+      "error_to_attack_ms": 3.403
+    },
+    {
+      "label": "场景12叠化中心",
+      "old_output_time": 113.442,
+      "new_output_time": 113.55,
+      "source_music_attack": 113.54195,
+      "attack_strength": 0.36844,
+      "visual_shift_seconds": 0.108,
+      "error_to_attack_ms": 8.05
+    }
+  ],
+  "visual_warp": {
+    "new_times": [
+      0,
+      13.383333333333333,
+      25.6,
+      34.63333333333333,
+      53.483333333333334,
+      64.4,
+      71.83333333333333,
+      82.98333333333333,
+      94.66666666666667,
+      105.56666666666666,
+      113.55,
+      120.7
+    ],
+    "old_times": [
+      0,
+      13.316,
+      25.415,
+      34.615,
+      53.399,
+      64.415,
+      71.987,
+      82.892,
+      94.615,
+      105.471,
+      113.442,
+      120.7
+    ],
+    "pchip_coefficients": [
+      [
+        3.6042756421175375e-07,
+        0.00011260601241094702,
+        -0.0002860439280130708,
+        5.337806566009609e-05,
+        -6.060419741825727e-06,
+        -0.000431993398844434,
+        0.00027090104007032644,
+        -0.00012247554616063544,
+        4.181171046056614e-05,
+        0.00011337126178018642,
+        -7.324310052225165e-06
+      ],
+      [
+        -0.0001845314370792841,
+        -0.0015606622109685722,
+        0.004082349194667037,
+        -0.0016505121936810567,
+        0.0005956126155590727,
+        0.00381624308881872,
+        -0.004926923201014601,
+        0.0025389324917000104,
+        -0.0007914494331268378,
+        -0.0007568577441897072,
+        0.001204943379276556
+      ],
+      [
+        0.9973739550000299,
+        0.9926283359819177,
+        1.0049144657958067,
+        1.0086444008554314,
+        1.003319374360184,
+        1.0141568568167767,
+        0.9992830049667657,
+        0.9904499012465696,
+        0.9996224522535578,
+        0.9972718025708524,
+        1.0068639869837133
+      ],
+      [
+        0.0,
+        13.316,
+        25.415,
+        34.615,
+        53.399,
+        64.415,
+        71.987,
+        82.892,
+        94.615,
+        105.471,
+        113.442
+      ]
+    ],
+    "min_speed": 0.9694140754746008,
+    "max_speed": 1.0253944596537392
+  },
+  "music_fade_in": 0.035,
+  "music_fade_out": 2.8,
+  "foley": [],
+  "static_gain_db": -3.6500000000000004,
+  "audio_samples": 5793600,
+  "audio_sha256": "8e4eaa4f3449c9b976eff56d0f6005e453f4af2fec9d82821435d1f0892c77dd",
+  "premix_measurement": {
+    "input_i": "-10.35",
+    "input_tp": "1.38",
+    "input_lra": "3.50",
+    "input_thresh": "-20.41",
+    "output_i": "-14.42",
+    "output_tp": "-3.01",
+    "output_lra": "2.90",
+    "output_thresh": "-24.45",
+    "normalization_type": "dynamic",
+    "target_offset": "0.42"
+  },
+  "continuity_verification": {
+    "max_music_residual_before_quantization": 0.0,
+    "same_source_sample_clock_everywhere": true
+  },
+  "verification_scope": "Continuous source slice, event/attack calculation and encoded-audio checks; no claim of full human listening."
+}

@@ -1,0 +1,329 @@
+{
+  "version": "horizontal-bgm-continuous-v3.0-20261022",
+  "key": "03_借你一点平静",
+  "episode": "第三集",
+  "duration": 109.03333333333333,
+  "frames": 6542,
+  "fps": 60,
+  "source_audio_sha256": "b7c6583dd8bebd80a3602e7a66f9189ea283f45442039ecf699eee6c02ccfb61",
+  "previous_project": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静",
+  "previous_final": "historical-workspace\\横屏节奏优化_20261021\\发布包\\03_借你一点平静\\横屏_节奏优化版_带BGM.mp4",
+  "latest_project": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集",
+  "input_files": [
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\baseline_manifest.json",
+      "sha256": "222de9092e610768dcec4e09ec3d2f724343bb333437e344f1450324e8cd9c51"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\BGM来源说明.md",
+      "sha256": "5bb3b49de6aee91ec17d9cbcd589869335f97e767a12e5f6a5e30f45de5bec4d"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers.js",
+      "sha256": "df15b6075068194d1d956d83704ae8767295988529bdf1730f8827f6602f7b90"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers_export.py",
+      "sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\direction.json",
+      "sha256": "3c966d2d6f61467ff951ea87f40ee19c46739d298ad5d125b4c69db130265ae3"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\environment.json",
+      "sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\export_covers.py",
+      "sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\facts.md",
+      "sha256": "4a301534f5d1eeed80a5187a02ffde8f6cf0426cac302c756b23f92229fb7938"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\film.js",
+      "sha256": "f916274efc41381466bcb1f00c1b5bdbe3eb047023051ca4e7cca532ecb65013"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\filmtools.py",
+      "sha256": "c3caaec87e7aacb53f91e57f83931dbce19c7a5ad897f88b8e808d218990a96b"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\handoff.py",
+      "sha256": "3b8dedcf8c3cf9e8d1f04ae12f204541db9200b88b5633f569232719da6968e4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\index.html",
+      "sha256": "3d6213d9ac32df109b0d10fb8acc19e9675b8d575f04e62c487a42564dce80bd"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\layout.js",
+      "sha256": "a743796d7f5e492fe15fb76cdb0bc65df425c9b06cf72f1e6daf4bd2ff6448a2"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\music_timing.json",
+      "sha256": "8a73d8ef8a5cd5ea6b454c2239fa3816f338a2e54b0728c347844b8df72f533f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\pace.js",
+      "sha256": "5f29cd76780adcacb178f08b788212e936d1a29d1dd404c82078e273cf88493e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\package.py",
+      "sha256": "8eff3758d8d10176cc3c4bbe94c62dee561d4cccb01890fe6f4c8b1a84632870"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\qa.py",
+      "sha256": "aa04c86bbc8d60099163afe94a33ca6efb18f54154625d72d0be1f0115da1da1"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\quality.py",
+      "sha256": "6494afecc55961c7ea32318264e9c5d0a4b3e38a01da60dc5f362c6081ad2cce"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\README.md",
+      "sha256": "b33dd29f20e9d5d501a4e6ae01bc8f23c03e33436754d7c1e70dc1c315379597"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\refine.js",
+      "sha256": "a7fa39df39c7a9f0760d8a63934f8f4a0d5f88941437e5a120d9166653e2f91c"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\render.py",
+      "sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\requirements.txt",
+      "sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\storyboard.md",
+      "sha256": "9a352e56b0b14325fcd42b81af0274af2aa15dd68ea267f2cfe1a66b78fbc3af"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\timeline.json",
+      "sha256": "1149d968ef3b6df2f526afabc2d29f6c1d6a1d027203fee166db5d367da5a895"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\内容来源.md",
+      "sha256": "a9cefdf023689501feac5c570ccc18626bfce705ad91315f13ddc3c5e824350d"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\分镜与阅读复核.md",
+      "sha256": "30c6ea3c277c6c13bdecd944a31746699404b7c30ce48e91e00e1d2b2c3801fb"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\发布文案.md",
+      "sha256": "67e63743dc9453cdeee55f9237e5ed506b0f4266f880a467da2971c3a62506f1"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\字幕.srt",
+      "sha256": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\定稿文案.txt",
+      "sha256": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\工程SHA256.txt",
+      "sha256": "5e73c7b7235354397be74eef5ff2008f3a061df23e9277c4b00249bbebb4e682"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\工程文件清单.json",
+      "sha256": "e4d47b85cf71828fba0086dd91c21d03d7a5ad51aa48b27b6860ab8e18eaf571"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\版本清单.json",
+      "sha256": "16975c5f6690e31fb7bd1e3ff7bc5e8dc32d6cbf598289cc9f492e12418363e0"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\节奏修订记录.md",
+      "sha256": "ad941b1b031e2836ac7a8213643f27037198b895c458f1f5ee1c856b5651e54a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\质检说明.md",
+      "sha256": "a5f6691017071e8e126bfdeceee54f6fc80e22000d5d8e2b226b464e1c30f56a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\assets\\NotoSansSC-VF.ttf",
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\assets\\NotoSerifSC-VF.ttf",
+      "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\assets\\OFL-NotoSansSC.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\assets\\OFL-NotoSerifSC.txt",
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\audio\\BGM来源说明.md",
+      "sha256": "38372b63314ac42b07bd720d204e64a25fe819f3947bfda4c62ad29e94c6d844"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\audio\\foley_only.wav",
+      "sha256": "1c489a987143e19d8acc02d25a785e74131f22d0b3b0e1745d92aac1e2aad397"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\audio\\github_reference_bgm.mp4",
+      "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\audio\\score.wav",
+      "sha256": "08c7156f6edb794c8b1a42b1069801e085a3dff414c07cc04b4e89405e73bd29"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\audio\\编辑记录.json",
+      "sha256": "8f4e93458bb7a1b8c11de6882adaef87d258674941425bf895825462a6789301"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers\\B站封面_16比9.jpg",
+      "sha256": "276200399e8a380bbb8452af42bffdaa4603f47eddb53e67998c30d1bc9a842f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers\\B站封面_16比9.png",
+      "sha256": "dcafc2f58183907816e1ec6be43842971cfac1f4d88ed9a89191b4e5711c8925"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers\\B站封面_4比3备用.jpg",
+      "sha256": "3f9a58c2100dce1a886654ec7c692cccd339f918fdd3ea6869885e5a3a1fc135"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers\\B站封面_4比3备用.png",
+      "sha256": "ce7a5b0c97157563d8ca1fd569c9c13380daa85d7d9c8afc062fa9827deb0945"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers\\今日头条封面_16比9.jpg",
+      "sha256": "573bd61c8a6d18d6ff3d561fadaa66001a23b7c27b175032c55a78c93b0bcb6f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\covers\\今日头条封面_16比9.png",
+      "sha256": "c9aa530d8e6f71f78af3045504356fda1e9f384d0416aface5f1a38326c4f4c1"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\reference\\old_horizontal_covers.js",
+      "sha256": "df15b6075068194d1d956d83704ae8767295988529bdf1730f8827f6602f7b90"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\reference\\old_horizontal_film.js",
+      "sha256": "f916274efc41381466bcb1f00c1b5bdbe3eb047023051ca4e7cca532ecb65013"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\reference\\old_horizontal_layout.js",
+      "sha256": "58c0927074de35942a566d2d4d9e3525137ec639cd3a823c4daac1e1585e68f6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\reference\\vertical_film.js",
+      "sha256": "93b516876dd6811041b95d4d7c88a975b76b2c96c3650125781ed4d5e0c22405"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\03_借你一点平静\\reference\\vertical_pace.js",
+      "sha256": "9fd127204749cb2305705fe13dbb5570ca72c53ce8c5c2cfb9cd35183644f3f2"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\timeline.json",
+      "sha256": "fd4b45039b90372ce5542378b557111bef9c169003f441fe258d008af3e4b691"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\music_sync.json",
+      "sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\字幕.srt",
+      "sha256": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\定稿文案.txt",
+      "sha256": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\audio\\score.wav",
+      "sha256": "b7c6583dd8bebd80a3602e7a66f9189ea283f45442039ecf699eee6c02ccfb61"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\audio\\foley_only.wav",
+      "sha256": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\audio\\BGM来源说明.md",
+      "sha256": "8b1a6425328fd240a2617d0a0148b7a62297d2d1d6f8a2ddbfc21c753389dbcf"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\audio\\编辑记录.json",
+      "sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451"
+    },
+    {
+      "origin": "continuous_original",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第三集\\baseline\\audio\\github_reference_bgm.mp4",
+      "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+    }
+  ]
+}

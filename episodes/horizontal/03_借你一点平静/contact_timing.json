@@ -1,0 +1,78 @@
+{
+  "version": "horizontal-contact-v3.0",
+  "events": [
+    {
+      "index": 1,
+      "actual_time": 1.1333333333333333,
+      "story_time": 1.2503542793212754,
+      "old_wide_progress_at_same_audio_time": 0.26617969722630197,
+      "kind": "fall"
+    },
+    {
+      "index": 2,
+      "actual_time": 1.4280625,
+      "story_time": 1.619945501046283,
+      "old_wide_progress_at_same_audio_time": 0.726158586328237,
+      "kind": "fall"
+    },
+    {
+      "index": 3,
+      "actual_time": 1.6666666666666667,
+      "story_time": 1.9304493753496177,
+      "old_wide_progress_at_same_audio_time": 0.9593238952266757,
+      "kind": "fall"
+    },
+    {
+      "index": 4,
+      "actual_time": 1.9333333333333333,
+      "story_time": 2.279927279507738,
+      "old_wide_progress_at_same_audio_time": 1,
+      "kind": "fall"
+    },
+    {
+      "index": 5,
+      "actual_time": 2.2,
+      "story_time": 2.5794797687861273,
+      "old_wide_progress_at_same_audio_time": 0.9999994344173185,
+      "kind": "fall"
+    },
+    {
+      "index": 6,
+      "actual_time": 85.9,
+      "story_time": 105.20003919012888,
+      "old_wide_progress_at_same_audio_time": 0.12856303604725286,
+      "kind": "rebuild"
+    },
+    {
+      "index": 7,
+      "actual_time": 88.03333333333333,
+      "story_time": 106.70003134760672,
+      "old_wide_progress_at_same_audio_time": 0.02520908422496099,
+      "kind": "rebuild"
+    },
+    {
+      "index": 8,
+      "actual_time": 90.29429166666667,
+      "story_time": 108.20070784793103,
+      "old_wide_progress_at_same_audio_time": 0.2499621784401594,
+      "kind": "rebuild"
+    },
+    {
+      "index": 9,
+      "actual_time": 92.46677083333333,
+      "story_time": 109.60064582838028,
+      "old_wide_progress_at_same_audio_time": 0.5297796409259043,
+      "kind": "rebuild"
+    },
+    {
+      "index": 10,
+      "actual_time": 94.93333333333334,
+      "story_time": 111.20000782004027,
+      "old_wide_progress_at_same_audio_time": 0.6432957539267788,
+      "kind": "rebuild"
+    }
+  ],
+  "release_start_story": 112.05796352966885,
+  "release_end_story": 112.65339372737824,
+  "note": "仅按已有音效采样起点调整木块落定及手臂轨迹；同一音乐、总时长和字幕时间均不变。"
+}

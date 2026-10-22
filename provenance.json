@@ -1,0 +1,2317 @@
+{
+  "description": "Original source hashes before portability edits; historical-workspace labels refer to the original local archive, which is not required to run this repository.",
+  "files": [
+    {
+      "source": "AGENTS.md",
+      "destination": "AGENTS.md",
+      "original_sha256": "48d55b3c68b686eb5542fbf892d2263df41758a9e45e5534e2f84ac55df50383"
+    },
+    {
+      "source": "Vibe育儿视频_完整工作流话术.txt",
+      "destination": "Vibe育儿视频_完整工作流话术.txt",
+      "original_sha256": "f89bc3c6bf9e54dc6fe395f9fb266500a6543b6b5b4f327af4806b69540748b1"
+    },
+    {
+      "source": "Vibe风格与内容转化规范.md",
+      "destination": "Vibe风格与内容转化规范.md",
+      "original_sha256": "b145bdbb651ef37a0c81ba83528ab21697620bd4ef58d2a5589dd94bde1337ef"
+    },
+    {
+      "source": "单集制作任务单模板.md",
+      "destination": "单集制作任务单模板.md",
+      "original_sha256": "1cb9c16dc7173af8a05a4adb7f11554b2bb7b404a54331dfed2d88d16c80e17e"
+    },
+    {
+      "source": "四平台视频制作与交接方案.md",
+      "destination": "四平台视频制作与交接方案.md",
+      "original_sha256": "53aa4b8df8b425774eb66f9effeff66c079c557f96f491c847572e7be4085deb"
+    },
+    {
+      "source": "新工作区使用说明.md",
+      "destination": "新工作区使用说明.md",
+      "original_sha256": "8936dc9ee39ab043a8d6fbce3c41a0fff6ee60171877f6c57de9dca55dca38a1"
+    },
+    {
+      "source": "横屏BGM复核与修复话术.txt",
+      "destination": "横屏BGM复核与修复话术.txt",
+      "original_sha256": "e7d5fe062ad514f73d80d9fcc2c0e9c241dae0ae52d4e3c1178d8ef1d6827a26"
+    },
+    {
+      "source": "横屏制作执行入口.md",
+      "destination": "横屏制作执行入口.md",
+      "original_sha256": "c74a1835397352050be1f5aa7319cfaa7c81e46705292f823fa1fb8298616e06"
+    },
+    {
+      "source": "横屏当前交付清单.json",
+      "destination": "横屏当前交付清单.json",
+      "original_sha256": "df290f9d8e473da7445865301c2630ee8143a66f3277ae7a37c9a1829821e222"
+    },
+    {
+      "source": "第一至第四集_横屏重制提示词.txt",
+      "destination": "第一至第四集_横屏重制提示词.txt",
+      "original_sha256": "b6892907dbbd08deca4731c88cb4eb1747b17746b7c1f26b297e62527fe3c376"
+    },
+    {
+      "source": "视频制作总规范.md",
+      "destination": "视频制作总规范.md",
+      "original_sha256": "40be4f9f657f6534f0f6858686fd3104df5e618833976fd48da1a660ed855c5d"
+    },
+    {
+      "source": "视频制作核查清单.md",
+      "destination": "视频制作核查清单.md",
+      "original_sha256": "39dd99fb62362f34e21ed23ca596e4a8cd2716f646a1fe443acd6d30e3edb06a"
+    },
+    {
+      "source": "视频制作踩坑记录.md",
+      "destination": "视频制作踩坑记录.md",
+      "original_sha256": "b2fd4f4e0757110ce290dbb8db65d453967c5ca2feda7a1e31e95113bf89bcb2"
+    },
+    {
+      "source": "视频发布复盘模板.md",
+      "destination": "视频发布复盘模板.md",
+      "original_sha256": "f1d48f5a84a94956d465d413bd7cd9fdbeefdf648146491a9842865ac359726a"
+    },
+    {
+      "source": "视频节奏与验收规范.md",
+      "destination": "视频节奏与验收规范.md",
+      "original_sha256": "c0eb3c567672afea2470d6de640dfe26c36a55b9d8a0670e307de4ff9e48af08"
+    },
+    {
+      "source": "项目规范审查报告_20261022.md",
+      "destination": "项目规范审查报告_20261022.md",
+      "original_sha256": "8e4585315e6fdfa5ae66c4f29ce134cc974b9ab3329836bb5df7c6d3d62e72f0"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/SHA256.json",
+      "destination": "planning/SHA256.json",
+      "original_sha256": "170ff70dc799a6effbdc781c97474e782406a9271c9381033d951f6509219f2d"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/两集事实来源与表达边界.md",
+      "destination": "planning/两集事实来源与表达边界.md",
+      "original_sha256": "5aa841d5fd1f6514e547516689882a36c33f9bb04590a8002680e039762c73d3"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/交接文件核查.json",
+      "destination": "planning/交接文件核查.json",
+      "original_sha256": "5f85e5de60dc8ff5c86bc40e97bd85098fdc9ae787bf968f661c802d39af1ba4"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/本次同步规范清单.json",
+      "destination": "planning/本次同步规范清单.json",
+      "original_sha256": "659074a6ebefa7aa38bebf1f801ba7f9080019ecb55cf252863ffe4a8e0792e3"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/第五集_下一步_制作方案.md",
+      "destination": "planning/第五集_下一步_制作方案.md",
+      "original_sha256": "3c306d234b780af4babe198b5d06717073bc3090fa0e27c72236b2ba097b1137"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/第六集_被看见_制作方案.md",
+      "destination": "planning/第六集_被看见_制作方案.md",
+      "original_sha256": "cb92f1f0d2b47863cfb4647985555a68a8de949ce9caaae992cd6d1c1dce35c5"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/转发给横屏会话.txt",
+      "destination": "planning/转发给横屏会话.txt",
+      "original_sha256": "7a752ff49cca17675369f16cf16dd3a173b51660902440d5131d8db37e46ea04"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/转发给竖屏会话.txt",
+      "destination": "planning/转发给竖屏会话.txt",
+      "original_sha256": "d0ace1f41af4f0f89a7026d2aba4b9478f680806b274e920d2b6712909111a73"
+    },
+    {
+      "source": "第五第六集_选题与制作方案_20261022/选题总览与交接.md",
+      "destination": "planning/选题总览与交接.md",
+      "original_sha256": "3764bdfb80f9d3f37ef69a00ff58151f0fcea7fd665cb6509a8360aa6cff0654"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/index.html",
+      "destination": "episodes/vertical/01_长大的回路/index.html",
+      "original_sha256": "f4eb9e6ca70652ec37915a698b6b7cc1ee7b3fdcdb49961e69459abf41b691b7"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/music_sync.js",
+      "destination": "episodes/vertical/01_长大的回路/music_sync.js",
+      "original_sha256": "41626eb05e8a2894581ab940a0fc3707c8a0d6cd2820b98a1fd7173bf1319f45"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/music_sync.json",
+      "destination": "episodes/vertical/01_长大的回路/music_sync.json",
+      "original_sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/pace.js",
+      "destination": "episodes/vertical/01_长大的回路/pace.js",
+      "original_sha256": "1b730f6f6592b81a96be22569394c2b2970d88ec0c752bcd482316ee5d116ebd"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/README.md",
+      "destination": "episodes/vertical/01_长大的回路/README.md",
+      "original_sha256": "7487882e5b7295c200a7cae85b76193fbf1013125af007cec07ae70452013d8a"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/render.py",
+      "destination": "episodes/vertical/01_长大的回路/render.py",
+      "original_sha256": "f6b388a325ca832554960ee382e78a67af6b4249335f60b81e890cad18a402b7"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/timeline.json",
+      "destination": "episodes/vertical/01_长大的回路/timeline.json",
+      "original_sha256": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/字幕.srt",
+      "destination": "episodes/vertical/01_长大的回路/字幕.srt",
+      "original_sha256": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/定稿文案.txt",
+      "destination": "episodes/vertical/01_长大的回路/定稿文案.txt",
+      "original_sha256": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/工程清单.json",
+      "destination": "episodes/vertical/01_长大的回路/工程清单.json",
+      "original_sha256": "f52a6eec2fc08ca161fed4118f3624a78fe5f81edcab6ec3df3dc0a58aae4591"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/质检数据.json",
+      "destination": "episodes/vertical/01_长大的回路/质检数据.json",
+      "original_sha256": "cc12dc7cd00afb627ffa05046e58d87fdfe7f12e16034f2d549ad709d543a36f"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/01_长大的回路/audio/BGM来源说明.md",
+      "original_sha256": "435c334cd74d41836acafddfa5491dd3059ccf2ecd4f7896390babc99cae5930"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/audio/编辑记录.json",
+      "destination": "episodes/vertical/01_长大的回路/audio/编辑记录.json",
+      "original_sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/art.js",
+      "destination": "episodes/vertical/01_长大的回路/baseline/art.js",
+      "original_sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/check_exports.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/check_exports.py",
+      "original_sha256": "212865def540ce0bba14c26dc57931ec288ab186d8a6118d5494671662cc20ff"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/engine.js",
+      "destination": "episodes/vertical/01_长大的回路/baseline/engine.js",
+      "original_sha256": "d101f7b130dd4b08953ac121228a4546a790ad8d5d9e4b2a1c6ed7c259d77ffc"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/episode.js",
+      "destination": "episodes/vertical/01_长大的回路/baseline/episode.js",
+      "original_sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/episode.json",
+      "destination": "episodes/vertical/01_长大的回路/baseline/episode.json",
+      "original_sha256": "d7d0b40fea86c62527548a39d971962f6ae5382c6a1069234740f0a735c36c62"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/facts.md",
+      "destination": "episodes/vertical/01_长大的回路/baseline/facts.md",
+      "original_sha256": "465e454263f115909cce3294492aaa8290ea0124bbc37c46755cc02cd71bacbf"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/film.js",
+      "destination": "episodes/vertical/01_长大的回路/baseline/film.js",
+      "original_sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/font_check.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/font_check.py",
+      "original_sha256": "d1ed34b2c81dcaa265050e7d05ddb75b4697017faff17459f5bed4ceee0f6c09"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/index.html",
+      "destination": "episodes/vertical/01_长大的回路/baseline/index.html",
+      "original_sha256": "ef4b8cd295e0ef336660e1bb272da35a19f477f79a7f751cfb85eda7b62a089f"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/package_episode.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/package_episode.py",
+      "original_sha256": "0608f6d5cafe5e5bca2568d36778948f250ed0a1b92d5594818d15e574be09f4"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/people.js",
+      "destination": "episodes/vertical/01_长大的回路/baseline/people.js",
+      "original_sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/qa.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/qa.py",
+      "original_sha256": "1167257e6ffaf8bf48bcae9eaccec41fe43c8564acae3be6fa173ceaf2e190d9"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/README.md",
+      "destination": "episodes/vertical/01_长大的回路/baseline/README.md",
+      "original_sha256": "0a46d7800b64e26e253e254fdc32506233ed7c82dea800f303439e0b9f2894c4"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/render.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/render.py",
+      "original_sha256": "6cff1a974f639f825320eabaf1e67aac354dad76e5ed0b5b84d5e19bae85be0a"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/requirements.txt",
+      "destination": "episodes/vertical/01_长大的回路/baseline/requirements.txt",
+      "original_sha256": "378385ecb2156019db2fd9058d6d44d0cc5259a451c3620dd779d49b5efec8cd"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/scenes.js",
+      "destination": "episodes/vertical/01_长大的回路/baseline/scenes.js",
+      "original_sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/storyboard.md",
+      "destination": "episodes/vertical/01_长大的回路/baseline/storyboard.md",
+      "original_sha256": "5aa7098f577aac8802bb79ad9aaffc798b8bc733059c3f634aecd2c475862edd"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/text_layout_audit.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/text_layout_audit.py",
+      "original_sha256": "0c32c16439d6c3b8b6cda37de735b960ddb7fcdf467667251bb6a316ac0bb7e9"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/visual_check.py",
+      "destination": "episodes/vertical/01_长大的回路/baseline/visual_check.py",
+      "original_sha256": "4d9596aea78fb8fe3773660e718af79f00ac9bf90cf83493061560adadf39a08"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/交付记录.json",
+      "destination": "episodes/vertical/01_长大的回路/baseline/交付记录.json",
+      "original_sha256": "2cedd7e6245b1bfcf1a332d9c554331884778808bb4addbcc0bb26a8e98eb658"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/字幕.srt",
+      "destination": "episodes/vertical/01_长大的回路/baseline/字幕.srt",
+      "original_sha256": "8fbe7d45e356219943affb2b8a137f4ff54aee1b51bc40a68c6a14471e2529be"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/标题文案.txt",
+      "destination": "episodes/vertical/01_长大的回路/baseline/标题文案.txt",
+      "original_sha256": "9e07823563706135f6c093df36010589bd20c71933da5384314e03bf656ce6a0"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/质检说明.md",
+      "destination": "episodes/vertical/01_长大的回路/baseline/质检说明.md",
+      "original_sha256": "e9fe62dfa8c72633f96871448bb95d38073a8a6b6b0b4447406e24965060a7d5"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/vertical/01_长大的回路/baseline/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/vertical/01_长大的回路/baseline/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第一集/baseline/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/01_长大的回路/baseline/audio/BGM来源说明.md",
+      "original_sha256": "f30b25ff6f22250853d23110b45a3b4d26f8c7551130ddd6cfd7745c029a9551"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/index.html",
+      "destination": "episodes/vertical/02_一勺的变迁/index.html",
+      "original_sha256": "9a2a1ec0a7b5906ab68bb292a053dd217cb45feb2227403a0fd758166a41567c"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/music_sync.js",
+      "destination": "episodes/vertical/02_一勺的变迁/music_sync.js",
+      "original_sha256": "d5881cb9f30a960df12d34fd8c1181bbe531726725f09aecc1c13e8f0a5f8c29"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/music_sync.json",
+      "destination": "episodes/vertical/02_一勺的变迁/music_sync.json",
+      "original_sha256": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/pace.js",
+      "destination": "episodes/vertical/02_一勺的变迁/pace.js",
+      "original_sha256": "e8a6a2c31969ee6876b99b5d19dd3498c281379bda67a06d52cede2be5127d5d"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/portrait_repair.js",
+      "destination": "episodes/vertical/02_一勺的变迁/portrait_repair.js",
+      "original_sha256": "f808fe061eefb96a7b8c476dc491794749c285d0971d085ce7f2f91503fb58b4"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/README.md",
+      "destination": "episodes/vertical/02_一勺的变迁/README.md",
+      "original_sha256": "54a47a761fdd3bb73ba4021e00d9e99d54e7380d318d5db90f107b5e0c145ff0"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/render.py",
+      "destination": "episodes/vertical/02_一勺的变迁/render.py",
+      "original_sha256": "7f58b5cf7a4c27c9cd2c4ed0ad142a167e63e6f5762c7499e289f8ea6a5f7d5a"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/requirements.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/requirements.txt",
+      "original_sha256": "1db801f5d475eb5fbbec38625d752ccea8ff91ebeda00102fe8e159934c44612"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/timeline.json",
+      "destination": "episodes/vertical/02_一勺的变迁/timeline.json",
+      "original_sha256": "22cff652e9a9b8e5fd931c54aeee2d3a1290e3556cabbd15707405ef274c5dc3"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/任务单.md",
+      "destination": "episodes/vertical/02_一勺的变迁/任务单.md",
+      "original_sha256": "87aab52f2eb20425eb6ba59738b196a2a8e9a5229465a7f3ca8437d92b53c70d"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/修订版本.json",
+      "destination": "episodes/vertical/02_一勺的变迁/修订版本.json",
+      "original_sha256": "3ac5fe5754530830efdd3177e30a909196063b2e3f159eabf817b3d86f9c41be"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/内容来源.md",
+      "destination": "episodes/vertical/02_一勺的变迁/内容来源.md",
+      "original_sha256": "c7d510072de183664e29db4c752fdeaaa5ad7ec118a04c9fa0715723972f2faf"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/发布文案.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/发布文案.txt",
+      "original_sha256": "b89c9174ed7a479318b54040c0da2697ba5eee1a4966ff1c0cc8e5e38ee0efc3"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/字幕.srt",
+      "destination": "episodes/vertical/02_一勺的变迁/字幕.srt",
+      "original_sha256": "c3c45458572eb8497476d1c0dd7522e2951d85183e1099f3df1f079af302a6d8"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/定稿文案.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/定稿文案.txt",
+      "original_sha256": "3e7bf4fc745e7b00e0f19cd466a2b12bd523f8d4e843f3c3792294bcadb978d0"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/本轮质检数据.json",
+      "destination": "episodes/vertical/02_一勺的变迁/本轮质检数据.json",
+      "original_sha256": "dadef83dbcc7f6847b116dd563792a7c9b9f2eaf77dbefda87460ff666ff4cc4"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/02_一勺的变迁/audio/BGM来源说明.md",
+      "original_sha256": "52167b34df58c2a6625bf433175b6330a58fd8201ddbe538d26bc79d266b11fc"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/audio/编辑记录.json",
+      "destination": "episodes/vertical/02_一勺的变迁/audio/编辑记录.json",
+      "original_sha256": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/art.js",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/art.js",
+      "original_sha256": "1ca2ffc50b841c32a161d096651141da296498682c05c513c9f401405975984a"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/check_exports.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/check_exports.py",
+      "original_sha256": "212865def540ce0bba14c26dc57931ec288ab186d8a6118d5494671662cc20ff"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/engine.js",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/engine.js",
+      "original_sha256": "d101f7b130dd4b08953ac121228a4546a790ad8d5d9e4b2a1c6ed7c259d77ffc"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/episode.js",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/episode.js",
+      "original_sha256": "22803698dfbdc09b6c63e49727218809b453ef0f54d147eca92347fcd4c97bd8"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/episode.json",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/episode.json",
+      "original_sha256": "ae3f1bbd2acadcd1177d190d273eefb064eba8f6bb1b210f50963bc3bbd4a42d"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/facts.md",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/facts.md",
+      "original_sha256": "c7d510072de183664e29db4c752fdeaaa5ad7ec118a04c9fa0715723972f2faf"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/film.js",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/film.js",
+      "original_sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/font_check.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/font_check.py",
+      "original_sha256": "d1ed34b2c81dcaa265050e7d05ddb75b4697017faff17459f5bed4ceee0f6c09"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/index.html",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/index.html",
+      "original_sha256": "d82f76333119828f27a7b05519a154378b1956ac2f64878bbb0438a630fbd6af"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/package_episode.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/package_episode.py",
+      "original_sha256": "0608f6d5cafe5e5bca2568d36778948f250ed0a1b92d5594818d15e574be09f4"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/people.js",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/people.js",
+      "original_sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/qa.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/qa.py",
+      "original_sha256": "1167257e6ffaf8bf48bcae9eaccec41fe43c8564acae3be6fa173ceaf2e190d9"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/README.md",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/README.md",
+      "original_sha256": "70beb86a8e0b656cf3ab09f1dedc80d52268947dbc6b7f0c38b8161d3c0e93b7"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/render.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/render.py",
+      "original_sha256": "6cff1a974f639f825320eabaf1e67aac354dad76e5ed0b5b84d5e19bae85be0a"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/requirements.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/requirements.txt",
+      "original_sha256": "378385ecb2156019db2fd9058d6d44d0cc5259a451c3620dd779d49b5efec8cd"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/scenes.js",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/scenes.js",
+      "original_sha256": "efd5d79936bca1ae2c2d83e8564a8c45af6d5a3761c3ba79627a5963166b3f07"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/storyboard.md",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/storyboard.md",
+      "original_sha256": "5644614b86051d64b0f5c7341447b9d5cd08150537e43538f51b8c4890850072"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/text_layout_audit.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/text_layout_audit.py",
+      "original_sha256": "0c32c16439d6c3b8b6cda37de735b960ddb7fcdf467667251bb6a316ac0bb7e9"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/visual_check.py",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/visual_check.py",
+      "original_sha256": "4d9596aea78fb8fe3773660e718af79f00ac9bf90cf83493061560adadf39a08"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/交付记录.json",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/交付记录.json",
+      "original_sha256": "b66d7d80559adc852de24f753b446dba3331cfbed804df8736090471e347144b"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/字幕.srt",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/字幕.srt",
+      "original_sha256": "c0dff340f0eb576bb073b83305c1cf84e0b6c995e87fa560b3521dabd150905a"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/标题文案.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/标题文案.txt",
+      "original_sha256": "c579635c7be49de2064486ab8c200c78076db0db025cf6cff3ab7460191705e9"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/质检说明.md",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/质检说明.md",
+      "original_sha256": "3b13f743e78b700ba88a8aa3bfc78106875993fbf48523f1b25864b7531ac83e"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第二集/baseline/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/02_一勺的变迁/baseline/audio/BGM来源说明.md",
+      "original_sha256": "8bb6b57f2b916d9f0b9cdc6f65083ced40ab93e6326cb586c5570d20d806de7b"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/contact_timing.json",
+      "destination": "episodes/vertical/03_借你一点平静/contact_timing.json",
+      "original_sha256": "207707119f79fe6289dd393ed51bbd1b5ed076be8eb2dcd87cafca1ced0ab7ca"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/index.html",
+      "destination": "episodes/vertical/03_借你一点平静/index.html",
+      "original_sha256": "30a3da5740a769cbdc5356335d1a5df9160fa48fdb05089b8f911f8d9916d9c9"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/music_sync.js",
+      "destination": "episodes/vertical/03_借你一点平静/music_sync.js",
+      "original_sha256": "af715154b942f829ff5d5ad0613c05cc48460943c32ed6c87fa9dc94b5e3d3ff"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/music_sync.json",
+      "destination": "episodes/vertical/03_借你一点平静/music_sync.json",
+      "original_sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/pace.js",
+      "destination": "episodes/vertical/03_借你一点平静/pace.js",
+      "original_sha256": "4afed000915b7b0ba41aecadeba72ed6185632a9f59b1e7772bc83a7adecd699"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/portrait_repair.js",
+      "destination": "episodes/vertical/03_借你一点平静/portrait_repair.js",
+      "original_sha256": "5afa6ed25c808445dff49096c987bbe52278a1f3ca993ed2bff53360097d0af1"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/README.md",
+      "destination": "episodes/vertical/03_借你一点平静/README.md",
+      "original_sha256": "2d550fd94035772554c2981a70963b1b409cc16361abc7ffdecb162f55501dd5"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/render.py",
+      "destination": "episodes/vertical/03_借你一点平静/render.py",
+      "original_sha256": "4740c34e00ab3a767c3413f2f70594500562e80b78f0b5b9777a2eba814afb67"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/requirements.txt",
+      "destination": "episodes/vertical/03_借你一点平静/requirements.txt",
+      "original_sha256": "1db801f5d475eb5fbbec38625d752ccea8ff91ebeda00102fe8e159934c44612"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/timeline.json",
+      "destination": "episodes/vertical/03_借你一点平静/timeline.json",
+      "original_sha256": "fd4b45039b90372ce5542378b557111bef9c169003f441fe258d008af3e4b691"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/任务单.md",
+      "destination": "episodes/vertical/03_借你一点平静/任务单.md",
+      "original_sha256": "9b2cc83510ab8e45a458d887066f246121389e546a688565ae4fa87df059a01e"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/修订版本.json",
+      "destination": "episodes/vertical/03_借你一点平静/修订版本.json",
+      "original_sha256": "86580a945518ccc10afcb3d0ce6e7cab7cfdc61aeef3a900c5d93d3eec5ef451"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/字幕.srt",
+      "destination": "episodes/vertical/03_借你一点平静/字幕.srt",
+      "original_sha256": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/定稿文案.txt",
+      "destination": "episodes/vertical/03_借你一点平静/定稿文案.txt",
+      "original_sha256": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/本轮质检数据.json",
+      "destination": "episodes/vertical/03_借你一点平静/本轮质检数据.json",
+      "original_sha256": "8e8f492fb39cbace610145971cc265b529acf1bad0b5d7f412ea47db051e4222"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/03_借你一点平静/audio/BGM来源说明.md",
+      "original_sha256": "8b1a6425328fd240a2617d0a0148b7a62297d2d1d6f8a2ddbfc21c753389dbcf"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/audio/编辑记录.json",
+      "destination": "episodes/vertical/03_借你一点平静/audio/编辑记录.json",
+      "original_sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/facts.md",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/facts.md",
+      "original_sha256": "4a301534f5d1eeed80a5187a02ffde8f6cf0426cac302c756b23f92229fb7938"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/film.js",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/film.js",
+      "original_sha256": "aa393835d5e736bba832758242e09ced85967a9146e7f409065a68bde7ad8985"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/index.html",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/index.html",
+      "original_sha256": "1bec99fa2f6d894101efe41754c6aa3ea784f37973cb88a9339587ed0bc4bacc"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/mix_reference.py",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/mix_reference.py",
+      "original_sha256": "ff7e603125809efdff4a73ac2ae1a40ebc10f9df4a0659f715b4609ab458168b"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/music_timing.json",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/music_timing.json",
+      "original_sha256": "8a73d8ef8a5cd5ea6b454c2239fa3816f338a2e54b0728c347844b8df72f533f"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/package.py",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/package.py",
+      "original_sha256": "2a12ffc4cb8b0f355a28bf856536dfa39555bab595a351f2ce071363c6c98706"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/platform_version.py",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/platform_version.py",
+      "original_sha256": "79625508da177669c2fa2611a35a0379cefdbb7484f62481728837f5989c2711"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/publishing.md",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/publishing.md",
+      "original_sha256": "bfae8f978d86c1007c843b6f04f6c82e00ebb5b8c0bf364eb0f0d662720a9088"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/qa.py",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/qa.py",
+      "original_sha256": "e10e9ff5c449e6f040eefe704b1b26ccb35f951b10d3a6527e20ad9accca41fb"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/README.md",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/README.md",
+      "original_sha256": "dae87e1f9d308278c0ad5904ee25f673bcf5b1b77f5c36e7c204b0751adba78f"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/render.py",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/render.py",
+      "original_sha256": "2ffede1d38bc0ebd8667a89a1e8cb945ebf204cb4922b80f9f1d65c082c66a80"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/storyboard.md",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/storyboard.md",
+      "original_sha256": "9a352e56b0b14325fcd42b81af0274af2aa15dd68ea267f2cfe1a66b78fbc3af"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/update_ending.py",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/update_ending.py",
+      "original_sha256": "779f2a7ff759a427785ed02fe38b1b432726f22d9b9a17726260cd06b4de88ee"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/字幕.srt",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/字幕.srt",
+      "original_sha256": "a3190234bde6128b3c69c96e4f1dd144e077abb706c4c5d8f43c461103194c95"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/audio/BGM来源说明.md",
+      "original_sha256": "fb4c9c87d6010bf44ff9bee7fa06032ec4589d82ce4d636c65a3b9fed05db33d"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/audio/mix_report.json",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/audio/mix_report.json",
+      "original_sha256": "81446acd07ad012e2af24dc6c0cb5babcfc03cc2e692930fc1671145567c6203"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/baseline/audio/reference_analysis.json",
+      "destination": "episodes/vertical/03_借你一点平静/baseline/audio/reference_analysis.json",
+      "original_sha256": "c4ea97618e81fd7edb335c728bb49ac1ff0643ef617023f53913080337c57345"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/工程/第三集/audio/foley_only.wav",
+      "destination": "assets/foley/vertical-03.wav.gz",
+      "original_sha256": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca",
+      "storage": "gzip lossless original synthesized sound only"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/index.html",
+      "destination": "episodes/vertical/04_家的底色/index.html",
+      "original_sha256": "f5c14d905b39ab9069c5ba4ac8de1f0ca5a1b5a9b5c80491dd8604d630b70d96"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/music_sync.js",
+      "destination": "episodes/vertical/04_家的底色/music_sync.js",
+      "original_sha256": "f45eccf175b56629f2d67ef28a5caa6651bc7ccf76ef3a05a24fe9a41a8141e3"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/music_sync.json",
+      "destination": "episodes/vertical/04_家的底色/music_sync.json",
+      "original_sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/pace.js",
+      "destination": "episodes/vertical/04_家的底色/pace.js",
+      "original_sha256": "27a6ecaf725ece7aa24a697ce82d7e6fa1e62bbf634c47d06a6ff5764a4dabbf"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/README.md",
+      "destination": "episodes/vertical/04_家的底色/README.md",
+      "original_sha256": "d1052cc3263e586998e84a3cdc2382d62a669e1ab0a7123ffb4f6241065bd352"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/render.py",
+      "destination": "episodes/vertical/04_家的底色/render.py",
+      "original_sha256": "d3736f9621497167ffb47d133a937490a55850ce041331fd11a4d70d3ddfd5cc"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/timeline.json",
+      "destination": "episodes/vertical/04_家的底色/timeline.json",
+      "original_sha256": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/字幕.srt",
+      "destination": "episodes/vertical/04_家的底色/字幕.srt",
+      "original_sha256": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/定稿文案.txt",
+      "destination": "episodes/vertical/04_家的底色/定稿文案.txt",
+      "original_sha256": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/工程清单.json",
+      "destination": "episodes/vertical/04_家的底色/工程清单.json",
+      "original_sha256": "f399fe77b6fc5595c6a47934d69b5ee0dc070cf59d1e1493683478e93934c3d5"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/质检数据.json",
+      "destination": "episodes/vertical/04_家的底色/质检数据.json",
+      "original_sha256": "e169d399b6e3a659702c6c2102c1d9a184ba63d3614f274c081262d3bae12452"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/04_家的底色/audio/BGM来源说明.md",
+      "original_sha256": "70f1b3974eac301681022d79b8249076c0cd1c94d2de3f1e915895b8b5d46f86"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/audio/编辑记录.json",
+      "destination": "episodes/vertical/04_家的底色/audio/编辑记录.json",
+      "original_sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/art.js",
+      "destination": "episodes/vertical/04_家的底色/baseline/art.js",
+      "original_sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/engine.js",
+      "destination": "episodes/vertical/04_家的底色/baseline/engine.js",
+      "original_sha256": "9459a62f41f6ed7eea301bcd56ad44e371997ecfd3bffbd86af64ebcbce1debb"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/facts.md",
+      "destination": "episodes/vertical/04_家的底色/baseline/facts.md",
+      "original_sha256": "69e841238c4c702a812318d8e966ac67613b8caa626390bc9e4862acaa8f05ab"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/film.js",
+      "destination": "episodes/vertical/04_家的底色/baseline/film.js",
+      "original_sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/index.html",
+      "destination": "episodes/vertical/04_家的底色/baseline/index.html",
+      "original_sha256": "8152fbc89a2ee90b48fdc6b9193256042a380683562807e28f0e1911b4f5e305"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/package.py",
+      "destination": "episodes/vertical/04_家的底色/baseline/package.py",
+      "original_sha256": "0ef5faad2698f3345f58fbefb01f667f39f2b077d9c5e2cbb40c349a082a9a29"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/qa.py",
+      "destination": "episodes/vertical/04_家的底色/baseline/qa.py",
+      "original_sha256": "47b548f9e2a6d1ff068a468830cabbb354a51bd1f3fd9e4cd9506408b3a797be"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/README.md",
+      "destination": "episodes/vertical/04_家的底色/baseline/README.md",
+      "original_sha256": "19f07ca10272f76b9b285a27dc56ca73a264ad29d0eb370f21f0fc2cacc9c1b2"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/render.py",
+      "destination": "episodes/vertical/04_家的底色/baseline/render.py",
+      "original_sha256": "6cff1a974f639f825320eabaf1e67aac354dad76e5ed0b5b84d5e19bae85be0a"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/scenes.js",
+      "destination": "episodes/vertical/04_家的底色/baseline/scenes.js",
+      "original_sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/storyboard.md",
+      "destination": "episodes/vertical/04_家的底色/baseline/storyboard.md",
+      "original_sha256": "4212c46fe5471cb70939d7d0caa2332135efd4f4c72e00562b92b32353d49e16"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/字幕.srt",
+      "destination": "episodes/vertical/04_家的底色/baseline/字幕.srt",
+      "original_sha256": "f0db041ecddf668be7cc16ae5c3338384476fed801461c598ad2f3cd35cacca7"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/标题文案.txt",
+      "destination": "episodes/vertical/04_家的底色/baseline/标题文案.txt",
+      "original_sha256": "5a282b5241ba036d7f1994c2d7bf3270f9faebc3306db020cab1165904645869"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/质检说明.md",
+      "destination": "episodes/vertical/04_家的底色/baseline/质检说明.md",
+      "original_sha256": "6ca0a7287074b5efcb02ef0cad7b8e9b2b2913527e285e798bffe43b69b3a4cb"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/vertical/04_家的底色/baseline/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/vertical/04_家的底色/baseline/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "BGM连贯修订_20261021/工程/第四集/baseline/audio/BGM来源说明.md",
+      "destination": "episodes/vertical/04_家的底色/baseline/audio/BGM来源说明.md",
+      "original_sha256": "7c5cee4cb255e4ffe33fffb1e6deda071b1611e3df2f01b9e8e78203375d8319"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/art.js",
+      "destination": "episodes/horizontal/01_长大的回路/art.js",
+      "original_sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/audio_checks.py",
+      "destination": "episodes/horizontal/01_长大的回路/audio_checks.py",
+      "original_sha256": "63ca2a6955f66a331b5b2d1f5c62a00402711d30ac944cb8fe36f174368f6892"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/audio_export.py",
+      "destination": "episodes/horizontal/01_长大的回路/audio_export.py",
+      "original_sha256": "eea1b5705e3e3bb46383894ad204153c4e3f6b6c85a8601d37676f2509dbda6f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/baseline_manifest.json",
+      "destination": "episodes/horizontal/01_长大的回路/baseline_manifest.json",
+      "original_sha256": "288042205fba78c0276ac734fe51858fdf7430d7676f6f316e79f813867a895e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/BGM来源说明.md",
+      "destination": "episodes/horizontal/01_长大的回路/BGM来源说明.md",
+      "original_sha256": "28326fdcfdf3de1157e82372e51f3a45a84f1c842e00ffbfe06875fe3c440ee3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/candidate_package.py",
+      "destination": "episodes/horizontal/01_长大的回路/candidate_package.py",
+      "original_sha256": "90ea87c755b8c54bc6954d3216d465b198abdfa3acabaed04c93f6ea916973ef"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/covers.js",
+      "destination": "episodes/horizontal/01_长大的回路/covers.js",
+      "original_sha256": "f655354ac09af074580cfb217073f693712fdc9cba698b555106a075c967d20a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/covers_export.py",
+      "destination": "episodes/horizontal/01_长大的回路/covers_export.py",
+      "original_sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/cue_frames.py",
+      "destination": "episodes/horizontal/01_长大的回路/cue_frames.py",
+      "original_sha256": "64d63da680a23119d08358f309728dcabf4b17a976ef031a7067779260399e55"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/deliver.py",
+      "destination": "episodes/horizontal/01_长大的回路/deliver.py",
+      "original_sha256": "a60462f7b55f099d29ee9fb8cb5f47b8343118d3ddbf36a7adfffc4db83052e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/direction.js",
+      "destination": "episodes/horizontal/01_长大的回路/direction.js",
+      "original_sha256": "370ed69289e256eb3de610d5ceab1413a0da5500eb6b3ed673fd601211497b12"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/direction.json",
+      "destination": "episodes/horizontal/01_长大的回路/direction.json",
+      "original_sha256": "354a10db6e84b060ed68f02385c4522a91f714e33ac2b2a417de445f71ad33c7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/engine.js",
+      "destination": "episodes/horizontal/01_长大的回路/engine.js",
+      "original_sha256": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/environment.json",
+      "destination": "episodes/horizontal/01_长大的回路/environment.json",
+      "original_sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/episode.js",
+      "destination": "episodes/horizontal/01_长大的回路/episode.js",
+      "original_sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/export_covers.py",
+      "destination": "episodes/horizontal/01_长大的回路/export_covers.py",
+      "original_sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/facts.md",
+      "destination": "episodes/horizontal/01_长大的回路/facts.md",
+      "original_sha256": "465e454263f115909cce3294492aaa8290ea0124bbc37c46755cc02cd71bacbf"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/film.js",
+      "destination": "episodes/horizontal/01_长大的回路/film.js",
+      "original_sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/filmtools.py",
+      "destination": "episodes/horizontal/01_长大的回路/filmtools.py",
+      "original_sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/index.html",
+      "destination": "episodes/horizontal/01_长大的回路/index.html",
+      "original_sha256": "8517e65dc45123e9bc7396ad87db3e516473dda95590880c1c3142d989b5e2e0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/layout.js",
+      "destination": "episodes/horizontal/01_长大的回路/layout.js",
+      "original_sha256": "3de0c99d4f5b0d98266ed30b688d3fefbf9a13ebdce6e011efbdf90820796753"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/music_sync.js",
+      "destination": "episodes/horizontal/01_长大的回路/music_sync.js",
+      "original_sha256": "154ca138d4852ac3cd0a617a1246c9294df6d0f9c61d6d22db90a4e6be21680c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/music_sync.json",
+      "destination": "episodes/horizontal/01_长大的回路/music_sync.json",
+      "original_sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/pace.js",
+      "destination": "episodes/horizontal/01_长大的回路/pace.js",
+      "original_sha256": "8a330653634a280fb6d7db3e270fbb7a8c76f91d4c0e33ecb412d8a07ce3e2b0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/package.py",
+      "destination": "episodes/horizontal/01_长大的回路/package.py",
+      "original_sha256": "2733c0279e5edb070a4ae89cdcb9c56a9585a4fe42af4e039d807d951b291ce5"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/people.js",
+      "destination": "episodes/horizontal/01_长大的回路/people.js",
+      "original_sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/post_evidence.py",
+      "destination": "episodes/horizontal/01_长大的回路/post_evidence.py",
+      "original_sha256": "cc7ae3cef47d6068b47bdf219888550f8ff6fada1a2e81ab3953018694f68199"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/qa.py",
+      "destination": "episodes/horizontal/01_长大的回路/qa.py",
+      "original_sha256": "aa033dd60112d8c36116117d6b8d57f3f6d88659810855c931ccf6e3fe965f4c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/quality.py",
+      "destination": "episodes/horizontal/01_长大的回路/quality.py",
+      "original_sha256": "16e03dedf354bc81fce032a3a8bb5f487f5512a7486675171ee1a458765970c9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/README.md",
+      "destination": "episodes/horizontal/01_长大的回路/README.md",
+      "original_sha256": "4a05e42003b04554b389354ef314e6c2392aa1dd9f329f567492d89edcd55279"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/refine.js",
+      "destination": "episodes/horizontal/01_长大的回路/refine.js",
+      "original_sha256": "14e9c7d4c6e6f08ed7e78ec5a247395f8c723505e5d023752e641bef48383e88"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/render.py",
+      "destination": "episodes/horizontal/01_长大的回路/render.py",
+      "original_sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/requirements.txt",
+      "destination": "episodes/horizontal/01_长大的回路/requirements.txt",
+      "original_sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/runtime_version.js",
+      "destination": "episodes/horizontal/01_长大的回路/runtime_version.js",
+      "original_sha256": "36e4eedc71ccad7bb867897ffbafd5d40e6cc3b0821fbe9766d26c0885caf1b9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/runtime_version.json",
+      "destination": "episodes/horizontal/01_长大的回路/runtime_version.json",
+      "original_sha256": "4c203b39bc642281f34d7b3d6e31ee0052fd2e70e8b9426b226842ed2256a17c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/sample_gate.py",
+      "destination": "episodes/horizontal/01_长大的回路/sample_gate.py",
+      "original_sha256": "75ea166d9f212dc6432ada1c810cd3c185c5c7cb997251cb318e8ae7f05cb032"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/scenes.js",
+      "destination": "episodes/horizontal/01_长大的回路/scenes.js",
+      "original_sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/SHA256校验.txt",
+      "destination": "episodes/horizontal/01_长大的回路/SHA256校验.txt",
+      "original_sha256": "3fb4fc2c84a23720ae06acc7652d911f219a58c15d58f6f40a0d4989e15b6aac"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/standards_audit.py",
+      "destination": "episodes/horizontal/01_长大的回路/standards_audit.py",
+      "original_sha256": "5737aece362927dfac529fffcb56c582716135693cd9f038813ac6993749dac7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/storyboard.md",
+      "destination": "episodes/horizontal/01_长大的回路/storyboard.md",
+      "original_sha256": "5aa7098f577aac8802bb79ad9aaffc798b8bc733059c3f634aecd2c475862edd"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/timeline.json",
+      "destination": "episodes/horizontal/01_长大的回路/timeline.json",
+      "original_sha256": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/内容来源.md",
+      "destination": "episodes/horizontal/01_长大的回路/内容来源.md",
+      "original_sha256": "465e454263f115909cce3294492aaa8290ea0124bbc37c46755cc02cd71bacbf"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/包装承诺对照.md",
+      "destination": "episodes/horizontal/01_长大的回路/包装承诺对照.md",
+      "original_sha256": "6376ec809fd01ca11e2584a4aa8c232beed98242d945bf5dcaa24bcf74d04468"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/单集制作任务单.md",
+      "destination": "episodes/horizontal/01_长大的回路/单集制作任务单.md",
+      "original_sha256": "11eac4edadc74ebe0ca16606d9fb190bab64c37ceb90196f46f79e2a76f7b5b4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/参考静帧对照.md",
+      "destination": "episodes/horizontal/01_长大的回路/参考静帧对照.md",
+      "original_sha256": "260d054751276ba42c2c0817a7bc9cb9244fc85fa9a2a4c8d6dfba3ad58c51ed"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/发布文案.md",
+      "destination": "episodes/horizontal/01_长大的回路/发布文案.md",
+      "original_sha256": "aa4489e9351cdf358aa2b4da6f07dee9df266501f75942c077d3e271f8e18d3e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/字幕.srt",
+      "destination": "episodes/horizontal/01_长大的回路/字幕.srt",
+      "original_sha256": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/定稿文案.txt",
+      "destination": "episodes/horizontal/01_长大的回路/定稿文案.txt",
+      "original_sha256": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/实际质检记录.md",
+      "destination": "episodes/horizontal/01_长大的回路/实际质检记录.md",
+      "original_sha256": "0d3186ddf3cfb910a9df0b5d62eecaf3963bc329a9c63ba67e8633882e5928f5"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/工程文件清单.json",
+      "destination": "episodes/horizontal/01_长大的回路/工程文件清单.json",
+      "original_sha256": "d0e48e6132e39aca9be24abea69308c6479e92adacf6d2dc86ff482a6449519d"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/父版锁定输入.json",
+      "destination": "episodes/horizontal/01_长大的回路/父版锁定输入.json",
+      "original_sha256": "5eec2978455e4d964b3098969af4e90dfbc9dc702f3adfac096a3b0897c3c015"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/版本清单.json",
+      "destination": "episodes/horizontal/01_长大的回路/版本清单.json",
+      "original_sha256": "c412259ef02ba2634cdf70ac612a3ebe51ce9b84785297c0d2be94c88ae0a555"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/踩点与阅读检查表.md",
+      "destination": "episodes/horizontal/01_长大的回路/踩点与阅读检查表.md",
+      "original_sha256": "bc2959d8a9f4608ae1f0e8274b3c480566410a37aa96f110d19e263a8bd6fa65"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/问题修复与最终验证.md",
+      "destination": "episodes/horizontal/01_长大的回路/问题修复与最终验证.md",
+      "original_sha256": "4b6281c79c7c16dd5d05eef1267d695ac6ef9f5b20cf0e733bc1cf608c55038e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/horizontal/01_长大的回路/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/horizontal/01_长大的回路/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/audio/BGM来源说明.md",
+      "destination": "episodes/horizontal/01_长大的回路/audio/BGM来源说明.md",
+      "original_sha256": "435c334cd74d41836acafddfa5491dd3059ccf2ecd4f7896390babc99cae5930"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/01_长大的回路/audio/编辑记录.json",
+      "destination": "episodes/horizontal/01_长大的回路/audio/编辑记录.json",
+      "original_sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/art.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/art.js",
+      "original_sha256": "1ca2ffc50b841c32a161d096651141da296498682c05c513c9f401405975984a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/audio_checks.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/audio_checks.py",
+      "original_sha256": "63ca2a6955f66a331b5b2d1f5c62a00402711d30ac944cb8fe36f174368f6892"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/audio_export.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/audio_export.py",
+      "original_sha256": "eea1b5705e3e3bb46383894ad204153c4e3f6b6c85a8601d37676f2509dbda6f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/baseline_manifest.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/baseline_manifest.json",
+      "original_sha256": "943845ad575bd5c937f102844f5837c6bcfcb4795c51354e0a3ffc3f816ee497"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/BGM来源说明.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/BGM来源说明.md",
+      "original_sha256": "2304d99ab2847354abfd3cbbcf715d795091d1c19e12295740822140550f87d3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/candidate_package.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/candidate_package.py",
+      "original_sha256": "90ea87c755b8c54bc6954d3216d465b198abdfa3acabaed04c93f6ea916973ef"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/covers.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/covers.js",
+      "original_sha256": "f657675a9457c08d79544daae78cd9495990b4802db56816b0fc9ef808aafe60"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/covers_export.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/covers_export.py",
+      "original_sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/cue_frames.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/cue_frames.py",
+      "original_sha256": "64d63da680a23119d08358f309728dcabf4b17a976ef031a7067779260399e55"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/deliver.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/deliver.py",
+      "original_sha256": "a60462f7b55f099d29ee9fb8cb5f47b8343118d3ddbf36a7adfffc4db83052e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/direction.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/direction.js",
+      "original_sha256": "8e7bbf48e4c1527b71bdff0e4bab26a2334a2f2590b06b86ab8f739a0f7670ee"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/direction.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/direction.json",
+      "original_sha256": "71696630524af8a8a4d9843aa5f69885102d110e01c82db00578629265dbc73c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/engine.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/engine.js",
+      "original_sha256": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/environment.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/environment.json",
+      "original_sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/episode.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/episode.js",
+      "original_sha256": "22803698dfbdc09b6c63e49727218809b453ef0f54d147eca92347fcd4c97bd8"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/export_covers.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/export_covers.py",
+      "original_sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/facts.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/facts.md",
+      "original_sha256": "61303a72478d01f48e4f79380b5031128141b8fcad9d450a50b352cbb5f7a126"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/film.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/film.js",
+      "original_sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/filmtools.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/filmtools.py",
+      "original_sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/index.html",
+      "destination": "episodes/horizontal/02_一勺的变迁/index.html",
+      "original_sha256": "353b7dfe533b3f980d254cd8a32ba066e55f990c1307476d4203f74599981b5f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/layout.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/layout.js",
+      "original_sha256": "832bd583cb5ca3077e35c4970db181c7cdd5101aab86a6f2b4a86a52f27af193"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/music_sync.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/music_sync.js",
+      "original_sha256": "84f9097a96899afba99389f9c4f2f80b4edb448abae87ccdc9bb317eaee022cd"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/music_sync.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/music_sync.json",
+      "original_sha256": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/pace.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/pace.js",
+      "original_sha256": "9c4d355ca4d33e3fd8e9a451686f21caaf130be7ba60d2a6014afaf9dfe4c970"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/package.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/package.py",
+      "original_sha256": "2733c0279e5edb070a4ae89cdcb9c56a9585a4fe42af4e039d807d951b291ce5"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/people.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/people.js",
+      "original_sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/post_evidence.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/post_evidence.py",
+      "original_sha256": "cc7ae3cef47d6068b47bdf219888550f8ff6fada1a2e81ab3953018694f68199"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/qa.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/qa.py",
+      "original_sha256": "aa033dd60112d8c36116117d6b8d57f3f6d88659810855c931ccf6e3fe965f4c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/quality.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/quality.py",
+      "original_sha256": "16e03dedf354bc81fce032a3a8bb5f487f5512a7486675171ee1a458765970c9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/README.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/README.md",
+      "original_sha256": "62cccb618a83b18e08536b58a75d9b25e6aaf2ad5d0993230c2bfa28ca150acc"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/refine.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/refine.js",
+      "original_sha256": "5c1f484018d356efd89af68b55b24a2a90d06c390b37b8d115750d9f6a4c00a0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/render.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/render.py",
+      "original_sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/requirements.txt",
+      "destination": "episodes/horizontal/02_一勺的变迁/requirements.txt",
+      "original_sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/runtime_version.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/runtime_version.js",
+      "original_sha256": "9efc1f02d3997554a81700319bbf2e9fe8d0a37d1f173b14d3597090cc334620"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/runtime_version.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/runtime_version.json",
+      "original_sha256": "5b6f704534d7d33208e37dff9450ca3dd31af124a7a8b202005ce855638e8945"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/sample_gate.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/sample_gate.py",
+      "original_sha256": "75ea166d9f212dc6432ada1c810cd3c185c5c7cb997251cb318e8ae7f05cb032"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/scenes.js",
+      "destination": "episodes/horizontal/02_一勺的变迁/scenes.js",
+      "original_sha256": "f55c0477ba41f152183b55620c90cd3714cbf2bb2588144e29cef49b4765ea23"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/SHA256校验.txt",
+      "destination": "episodes/horizontal/02_一勺的变迁/SHA256校验.txt",
+      "original_sha256": "03a1b4d7400c052ba6157668876364a47d5424bfd68d2cdcf63d6ec8e1352674"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/standards_audit.py",
+      "destination": "episodes/horizontal/02_一勺的变迁/standards_audit.py",
+      "original_sha256": "5737aece362927dfac529fffcb56c582716135693cd9f038813ac6993749dac7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/storyboard.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/storyboard.md",
+      "original_sha256": "5644614b86051d64b0f5c7341447b9d5cd08150537e43538f51b8c4890850072"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/timeline.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/timeline.json",
+      "original_sha256": "22cff652e9a9b8e5fd931c54aeee2d3a1290e3556cabbd15707405ef274c5dc3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/内容来源.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/内容来源.md",
+      "original_sha256": "61303a72478d01f48e4f79380b5031128141b8fcad9d450a50b352cbb5f7a126"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/包装承诺对照.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/包装承诺对照.md",
+      "original_sha256": "59f47c6c03e36079c1ed0158a50aeb797a0ab785505a6f6f5fa209b7fbcd151e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/单集制作任务单.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/单集制作任务单.md",
+      "original_sha256": "21c93c17de195e67adb9e97b28e40f950ac61996b519396da3d2c0acf3d03d9b"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/参考静帧对照.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/参考静帧对照.md",
+      "original_sha256": "747116e62f7a3f12955efe40f6b161ab6a6305c511e65a8bf78a539243a2b322"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/发布文案.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/发布文案.md",
+      "original_sha256": "da69cea0e5684abc980a2a59ebc538b9a656efdbd5195068fad0eb44cb8be531"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/字幕.srt",
+      "destination": "episodes/horizontal/02_一勺的变迁/字幕.srt",
+      "original_sha256": "c3c45458572eb8497476d1c0dd7522e2951d85183e1099f3df1f079af302a6d8"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/定稿文案.txt",
+      "destination": "episodes/horizontal/02_一勺的变迁/定稿文案.txt",
+      "original_sha256": "3e7bf4fc745e7b00e0f19cd466a2b12bd523f8d4e843f3c3792294bcadb978d0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/实际质检记录.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/实际质检记录.md",
+      "original_sha256": "6ac75afe6f398839028faead8d951124355c731abb6c6e1e0093c3084614dca3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/工程文件清单.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/工程文件清单.json",
+      "original_sha256": "29cec39bffabd25fe0d7312faf3d97ffb8bde39ad897ff82f8885780c1d96d2a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/父版锁定输入.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/父版锁定输入.json",
+      "original_sha256": "3d79aac0784646bfaf82d39932c9ecd7e0eba56d89f36f0b2c69380b1ecea15f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/版本清单.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/版本清单.json",
+      "original_sha256": "e47f3cad006cf64b8dd3b63eb3cf1d43baea2c6e88e56a06768a5de769975950"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/踩点与阅读检查表.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/踩点与阅读检查表.md",
+      "original_sha256": "bc2959d8a9f4608ae1f0e8274b3c480566410a37aa96f110d19e263a8bd6fa65"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/问题修复与最终验证.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/问题修复与最终验证.md",
+      "original_sha256": "55b239fd8ca664d7356bef4bc1afb97d45b5e6197dbdb819ea871fb35122afb1"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/horizontal/02_一勺的变迁/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/horizontal/02_一勺的变迁/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/audio/BGM来源说明.md",
+      "destination": "episodes/horizontal/02_一勺的变迁/audio/BGM来源说明.md",
+      "original_sha256": "52167b34df58c2a6625bf433175b6330a58fd8201ddbe538d26bc79d266b11fc"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/02_一勺的变迁/audio/编辑记录.json",
+      "destination": "episodes/horizontal/02_一勺的变迁/audio/编辑记录.json",
+      "original_sha256": "c526a911246d49aad2c98878b3a91d788619962690cf7ed2544b25bc61999953"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/audio_checks.py",
+      "destination": "episodes/horizontal/03_借你一点平静/audio_checks.py",
+      "original_sha256": "63ca2a6955f66a331b5b2d1f5c62a00402711d30ac944cb8fe36f174368f6892"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/audio_export.py",
+      "destination": "episodes/horizontal/03_借你一点平静/audio_export.py",
+      "original_sha256": "eea1b5705e3e3bb46383894ad204153c4e3f6b6c85a8601d37676f2509dbda6f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/baseline_manifest.json",
+      "destination": "episodes/horizontal/03_借你一点平静/baseline_manifest.json",
+      "original_sha256": "b547fdc9aced0d6d996d84aee746c5311b05a11fd9990611a0c95f91b1a0ae6a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/BGM来源说明.md",
+      "destination": "episodes/horizontal/03_借你一点平静/BGM来源说明.md",
+      "original_sha256": "6419200847c301410e41a2d40bbd589ac5cc42778a24f6297de55e2d0d22a3f3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/candidate_package.py",
+      "destination": "episodes/horizontal/03_借你一点平静/candidate_package.py",
+      "original_sha256": "90ea87c755b8c54bc6954d3216d465b198abdfa3acabaed04c93f6ea916973ef"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/contact_timing.json",
+      "destination": "episodes/horizontal/03_借你一点平静/contact_timing.json",
+      "original_sha256": "b80f5a0f2dee7110647f8da8a4b7f19d49b7dfddcf2eb48fff8e3f66c1408c24"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/covers.js",
+      "destination": "episodes/horizontal/03_借你一点平静/covers.js",
+      "original_sha256": "df15b6075068194d1d956d83704ae8767295988529bdf1730f8827f6602f7b90"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/covers_export.py",
+      "destination": "episodes/horizontal/03_借你一点平静/covers_export.py",
+      "original_sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/cue_frames.py",
+      "destination": "episodes/horizontal/03_借你一点平静/cue_frames.py",
+      "original_sha256": "64d63da680a23119d08358f309728dcabf4b17a976ef031a7067779260399e55"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/deliver.py",
+      "destination": "episodes/horizontal/03_借你一点平静/deliver.py",
+      "original_sha256": "a60462f7b55f099d29ee9fb8cb5f47b8343118d3ddbf36a7adfffc4db83052e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/direction.js",
+      "destination": "episodes/horizontal/03_借你一点平静/direction.js",
+      "original_sha256": "fb188689753c9136b36fab7ff3e3d614e685a2db46337b7285ade7cdf51f721a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/direction.json",
+      "destination": "episodes/horizontal/03_借你一点平静/direction.json",
+      "original_sha256": "3c966d2d6f61467ff951ea87f40ee19c46739d298ad5d125b4c69db130265ae3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/environment.json",
+      "destination": "episodes/horizontal/03_借你一点平静/environment.json",
+      "original_sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/export_covers.py",
+      "destination": "episodes/horizontal/03_借你一点平静/export_covers.py",
+      "original_sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/facts.md",
+      "destination": "episodes/horizontal/03_借你一点平静/facts.md",
+      "original_sha256": "4a301534f5d1eeed80a5187a02ffde8f6cf0426cac302c756b23f92229fb7938"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/film.js",
+      "destination": "episodes/horizontal/03_借你一点平静/film.js",
+      "original_sha256": "f916274efc41381466bcb1f00c1b5bdbe3eb047023051ca4e7cca532ecb65013"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/filmtools.py",
+      "destination": "episodes/horizontal/03_借你一点平静/filmtools.py",
+      "original_sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/index.html",
+      "destination": "episodes/horizontal/03_借你一点平静/index.html",
+      "original_sha256": "6b086aba4ad9d8a61892e37791792726f595e54ec297aca2e6285116e25367f1"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/layout.js",
+      "destination": "episodes/horizontal/03_借你一点平静/layout.js",
+      "original_sha256": "a743796d7f5e492fe15fb76cdb0bc65df425c9b06cf72f1e6daf4bd2ff6448a2"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/music_sync.js",
+      "destination": "episodes/horizontal/03_借你一点平静/music_sync.js",
+      "original_sha256": "21d15b401ddc32f407541e84a6fa758772ce5adde3976f78350a22724e0162d3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/music_sync.json",
+      "destination": "episodes/horizontal/03_借你一点平静/music_sync.json",
+      "original_sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/music_timing.json",
+      "destination": "episodes/horizontal/03_借你一点平静/music_timing.json",
+      "original_sha256": "8a73d8ef8a5cd5ea6b454c2239fa3816f338a2e54b0728c347844b8df72f533f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/pace.js",
+      "destination": "episodes/horizontal/03_借你一点平静/pace.js",
+      "original_sha256": "98eea5320ef9bad7ec5eb9087402d6d6d306bf3ade7dc295cd7a2795bf852e2c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/package.py",
+      "destination": "episodes/horizontal/03_借你一点平静/package.py",
+      "original_sha256": "2733c0279e5edb070a4ae89cdcb9c56a9585a4fe42af4e039d807d951b291ce5"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/post_evidence.py",
+      "destination": "episodes/horizontal/03_借你一点平静/post_evidence.py",
+      "original_sha256": "cc7ae3cef47d6068b47bdf219888550f8ff6fada1a2e81ab3953018694f68199"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/qa.py",
+      "destination": "episodes/horizontal/03_借你一点平静/qa.py",
+      "original_sha256": "aa033dd60112d8c36116117d6b8d57f3f6d88659810855c931ccf6e3fe965f4c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/quality.py",
+      "destination": "episodes/horizontal/03_借你一点平静/quality.py",
+      "original_sha256": "16e03dedf354bc81fce032a3a8bb5f487f5512a7486675171ee1a458765970c9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/README.md",
+      "destination": "episodes/horizontal/03_借你一点平静/README.md",
+      "original_sha256": "0e8434ad3fca4f38e4620b4acc03bc6e72ac3eaee47657f55a8b3b8ab95aeb81"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/refine.js",
+      "destination": "episodes/horizontal/03_借你一点平静/refine.js",
+      "original_sha256": "655cd284cd5ffaf967a386303268729faa7a4779dbc236a91b8aab8be5b5f967"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/render.py",
+      "destination": "episodes/horizontal/03_借你一点平静/render.py",
+      "original_sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/requirements.txt",
+      "destination": "episodes/horizontal/03_借你一点平静/requirements.txt",
+      "original_sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/runtime_version.js",
+      "destination": "episodes/horizontal/03_借你一点平静/runtime_version.js",
+      "original_sha256": "8366a423a35ede09377f10dfc5d0b818e54a6a7888e79dc516547cd89921680d"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/runtime_version.json",
+      "destination": "episodes/horizontal/03_借你一点平静/runtime_version.json",
+      "original_sha256": "15b3c04fbee7ef6bc555026c7518680c77099ba29d6e1284884e5ef54569e0c7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/sample_gate.py",
+      "destination": "episodes/horizontal/03_借你一点平静/sample_gate.py",
+      "original_sha256": "75ea166d9f212dc6432ada1c810cd3c185c5c7cb997251cb318e8ae7f05cb032"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/SHA256校验.txt",
+      "destination": "episodes/horizontal/03_借你一点平静/SHA256校验.txt",
+      "original_sha256": "fb849012f818fb4eff646b2e6df055b1c85540e74a3212f11bd2d72ae41b1897"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/standards_audit.py",
+      "destination": "episodes/horizontal/03_借你一点平静/standards_audit.py",
+      "original_sha256": "5737aece362927dfac529fffcb56c582716135693cd9f038813ac6993749dac7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/storyboard.md",
+      "destination": "episodes/horizontal/03_借你一点平静/storyboard.md",
+      "original_sha256": "9a352e56b0b14325fcd42b81af0274af2aa15dd68ea267f2cfe1a66b78fbc3af"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/timeline.json",
+      "destination": "episodes/horizontal/03_借你一点平静/timeline.json",
+      "original_sha256": "fd4b45039b90372ce5542378b557111bef9c169003f441fe258d008af3e4b691"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/内容来源.md",
+      "destination": "episodes/horizontal/03_借你一点平静/内容来源.md",
+      "original_sha256": "a9cefdf023689501feac5c570ccc18626bfce705ad91315f13ddc3c5e824350d"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/包装承诺对照.md",
+      "destination": "episodes/horizontal/03_借你一点平静/包装承诺对照.md",
+      "original_sha256": "ab7d3770932308e8a7c00dd05313d633218483a92c1a5b74aef2ce59e606faf2"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/单集制作任务单.md",
+      "destination": "episodes/horizontal/03_借你一点平静/单集制作任务单.md",
+      "original_sha256": "f0eee5756da714dfe401f447cf42402bd39bd0f6315227e6c275110b8ff10d90"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/参考静帧对照.md",
+      "destination": "episodes/horizontal/03_借你一点平静/参考静帧对照.md",
+      "original_sha256": "702d03aac66475c081e78879e6cce435c6b42909a043c04d708aab45b32b589a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/发布文案.md",
+      "destination": "episodes/horizontal/03_借你一点平静/发布文案.md",
+      "original_sha256": "c9ffa90bef352fccf7894210fdde08b9ca285373c303fb8e0712232085323217"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/字幕.srt",
+      "destination": "episodes/horizontal/03_借你一点平静/字幕.srt",
+      "original_sha256": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/定稿文案.txt",
+      "destination": "episodes/horizontal/03_借你一点平静/定稿文案.txt",
+      "original_sha256": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/实际质检记录.md",
+      "destination": "episodes/horizontal/03_借你一点平静/实际质检记录.md",
+      "original_sha256": "ade43e69e82aa4287e4ad8b12b990cbe098a740179bfb90c344a276ee79d0721"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/工程文件清单.json",
+      "destination": "episodes/horizontal/03_借你一点平静/工程文件清单.json",
+      "original_sha256": "58de26fd9253f3011680dc455e22b701f0e0d69884b6e894f914b4c78838d558"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/父版锁定输入.json",
+      "destination": "episodes/horizontal/03_借你一点平静/父版锁定输入.json",
+      "original_sha256": "4efef866131dce3473396fe8a22d209f3229b9b0f34e51dbec3effcb2d35ed63"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/版本清单.json",
+      "destination": "episodes/horizontal/03_借你一点平静/版本清单.json",
+      "original_sha256": "3a71ec8127cc5d4537ead6659423c17e1c40933e5a9592aa02af255a5e7ea521"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/踩点与阅读检查表.md",
+      "destination": "episodes/horizontal/03_借你一点平静/踩点与阅读检查表.md",
+      "original_sha256": "bc2959d8a9f4608ae1f0e8274b3c480566410a37aa96f110d19e263a8bd6fa65"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/问题修复与最终验证.md",
+      "destination": "episodes/horizontal/03_借你一点平静/问题修复与最终验证.md",
+      "original_sha256": "ee2cef305218386e528b7652f9b59f788789c679f0a84d88e45477ffe768326f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/horizontal/03_借你一点平静/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/horizontal/03_借你一点平静/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/audio/BGM来源说明.md",
+      "destination": "episodes/horizontal/03_借你一点平静/audio/BGM来源说明.md",
+      "original_sha256": "8b1a6425328fd240a2617d0a0148b7a62297d2d1d6f8a2ddbfc21c753389dbcf"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/audio/编辑记录.json",
+      "destination": "episodes/horizontal/03_借你一点平静/audio/编辑记录.json",
+      "original_sha256": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/03_借你一点平静/audio/foley_only.wav",
+      "destination": "assets/foley/horizontal-03.wav.gz",
+      "original_sha256": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca",
+      "storage": "gzip lossless original synthesized sound only"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/art.js",
+      "destination": "episodes/horizontal/04_家的底色/art.js",
+      "original_sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/audio_checks.py",
+      "destination": "episodes/horizontal/04_家的底色/audio_checks.py",
+      "original_sha256": "63ca2a6955f66a331b5b2d1f5c62a00402711d30ac944cb8fe36f174368f6892"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/audio_export.py",
+      "destination": "episodes/horizontal/04_家的底色/audio_export.py",
+      "original_sha256": "eea1b5705e3e3bb46383894ad204153c4e3f6b6c85a8601d37676f2509dbda6f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/baseline_manifest.json",
+      "destination": "episodes/horizontal/04_家的底色/baseline_manifest.json",
+      "original_sha256": "d2586f3332661c1991eee62182ebba91e26a1e4dbaab45a03ca0245084915c28"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/BGM来源说明.md",
+      "destination": "episodes/horizontal/04_家的底色/BGM来源说明.md",
+      "original_sha256": "cab2aab8dc2b828100fde06eb5cf9f73fee9d9165fca98501332417c1dc82897"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/candidate_package.py",
+      "destination": "episodes/horizontal/04_家的底色/candidate_package.py",
+      "original_sha256": "90ea87c755b8c54bc6954d3216d465b198abdfa3acabaed04c93f6ea916973ef"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/covers.js",
+      "destination": "episodes/horizontal/04_家的底色/covers.js",
+      "original_sha256": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/covers_export.py",
+      "destination": "episodes/horizontal/04_家的底色/covers_export.py",
+      "original_sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/cue_frames.py",
+      "destination": "episodes/horizontal/04_家的底色/cue_frames.py",
+      "original_sha256": "64d63da680a23119d08358f309728dcabf4b17a976ef031a7067779260399e55"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/deliver.py",
+      "destination": "episodes/horizontal/04_家的底色/deliver.py",
+      "original_sha256": "a60462f7b55f099d29ee9fb8cb5f47b8343118d3ddbf36a7adfffc4db83052e4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/direction.js",
+      "destination": "episodes/horizontal/04_家的底色/direction.js",
+      "original_sha256": "f4aa6e63aefc2e72bbff1b28612ed4ec7e5188fd2d56aaff0362ce5ec16f2896"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/direction.json",
+      "destination": "episodes/horizontal/04_家的底色/direction.json",
+      "original_sha256": "a312dba260b15b4da5218633ee32e281f3e861a13defef38fccbc96c5293263a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/engine.js",
+      "destination": "episodes/horizontal/04_家的底色/engine.js",
+      "original_sha256": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/environment.json",
+      "destination": "episodes/horizontal/04_家的底色/environment.json",
+      "original_sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/export_covers.py",
+      "destination": "episodes/horizontal/04_家的底色/export_covers.py",
+      "original_sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/facts.md",
+      "destination": "episodes/horizontal/04_家的底色/facts.md",
+      "original_sha256": "69e841238c4c702a812318d8e966ac67613b8caa626390bc9e4862acaa8f05ab"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/film.js",
+      "destination": "episodes/horizontal/04_家的底色/film.js",
+      "original_sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/filmtools.py",
+      "destination": "episodes/horizontal/04_家的底色/filmtools.py",
+      "original_sha256": "7df751c88466a894452094a5900d6f7ec7243482732782d3eb5249714e173602"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/index.html",
+      "destination": "episodes/horizontal/04_家的底色/index.html",
+      "original_sha256": "ff94cc1dd37746b3961e6055d01bda4f17a0310b5e97381c7dfcfc6a38fa5165"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/layout.js",
+      "destination": "episodes/horizontal/04_家的底色/layout.js",
+      "original_sha256": "695c8806ad42bcb57f57c5fc00bf433e139e429b56c89a51cc94b932b076c263"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/music_sync.js",
+      "destination": "episodes/horizontal/04_家的底色/music_sync.js",
+      "original_sha256": "b797e5e872fcc919f4b2026de2f5ee66def7b3035b1dc15e8b7917284fa1863e"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/music_sync.json",
+      "destination": "episodes/horizontal/04_家的底色/music_sync.json",
+      "original_sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/pace.js",
+      "destination": "episodes/horizontal/04_家的底色/pace.js",
+      "original_sha256": "8e7a2dc2c0515745237665614e452408311f7f63c111de0c11a877c63ba7be6f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/package.py",
+      "destination": "episodes/horizontal/04_家的底色/package.py",
+      "original_sha256": "2733c0279e5edb070a4ae89cdcb9c56a9585a4fe42af4e039d807d951b291ce5"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/post_evidence.py",
+      "destination": "episodes/horizontal/04_家的底色/post_evidence.py",
+      "original_sha256": "cc7ae3cef47d6068b47bdf219888550f8ff6fada1a2e81ab3953018694f68199"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/qa.py",
+      "destination": "episodes/horizontal/04_家的底色/qa.py",
+      "original_sha256": "aa033dd60112d8c36116117d6b8d57f3f6d88659810855c931ccf6e3fe965f4c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/quality.py",
+      "destination": "episodes/horizontal/04_家的底色/quality.py",
+      "original_sha256": "16e03dedf354bc81fce032a3a8bb5f487f5512a7486675171ee1a458765970c9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/README.md",
+      "destination": "episodes/horizontal/04_家的底色/README.md",
+      "original_sha256": "3e23cf1015e3b55860d2b779d24d6eee70f40e6306196373eb91e80b93b109a8"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/refine.js",
+      "destination": "episodes/horizontal/04_家的底色/refine.js",
+      "original_sha256": "707c9171f8cf2945b3d7d1f13e1a140c5dcd0c19fac373da2467adf252022140"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/render.py",
+      "destination": "episodes/horizontal/04_家的底色/render.py",
+      "original_sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/requirements.txt",
+      "destination": "episodes/horizontal/04_家的底色/requirements.txt",
+      "original_sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/runtime_version.js",
+      "destination": "episodes/horizontal/04_家的底色/runtime_version.js",
+      "original_sha256": "75d9d1f18847a2f91b01e6071b2b812a90a1d487fcd209bb3b46369470ac2664"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/runtime_version.json",
+      "destination": "episodes/horizontal/04_家的底色/runtime_version.json",
+      "original_sha256": "d3ce389e17e1730a417ceed1ce431756e1ac4413c2043490ced24986cdf1c7dc"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/sample_gate.py",
+      "destination": "episodes/horizontal/04_家的底色/sample_gate.py",
+      "original_sha256": "75ea166d9f212dc6432ada1c810cd3c185c5c7cb997251cb318e8ae7f05cb032"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/scenes.js",
+      "destination": "episodes/horizontal/04_家的底色/scenes.js",
+      "original_sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/SHA256校验.txt",
+      "destination": "episodes/horizontal/04_家的底色/SHA256校验.txt",
+      "original_sha256": "f45a55930026ba23bcf7a47a09cc49d7638d82df60f4a5335d42f40238749b56"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/standards_audit.py",
+      "destination": "episodes/horizontal/04_家的底色/standards_audit.py",
+      "original_sha256": "5737aece362927dfac529fffcb56c582716135693cd9f038813ac6993749dac7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/storyboard.md",
+      "destination": "episodes/horizontal/04_家的底色/storyboard.md",
+      "original_sha256": "4212c46fe5471cb70939d7d0caa2332135efd4f4c72e00562b92b32353d49e16"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/timeline.json",
+      "destination": "episodes/horizontal/04_家的底色/timeline.json",
+      "original_sha256": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/内容来源.md",
+      "destination": "episodes/horizontal/04_家的底色/内容来源.md",
+      "original_sha256": "b36e3729a7967cdbf63cd077094c0e98d995e6fe8801e4a5fc9d845c2902c923"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/包装承诺对照.md",
+      "destination": "episodes/horizontal/04_家的底色/包装承诺对照.md",
+      "original_sha256": "1288cde51f3c6577edf3c9a6a0635f008911ab7f4c0eeed4ba7042c412e83a9b"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/单集制作任务单.md",
+      "destination": "episodes/horizontal/04_家的底色/单集制作任务单.md",
+      "original_sha256": "04a7af125e81a554dbe0ffd72aceb176f115e554649f5553d4c3653c6449b5ea"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/参考静帧对照.md",
+      "destination": "episodes/horizontal/04_家的底色/参考静帧对照.md",
+      "original_sha256": "128efac887648d55eb0681e65d1a51652bf5abbc46857802139ca963ca6dae91"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/发布文案.md",
+      "destination": "episodes/horizontal/04_家的底色/发布文案.md",
+      "original_sha256": "88dbb28e0e98333cc6e485321958ed55ef876a1bc7f493ff7373324069b80b06"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/字幕.srt",
+      "destination": "episodes/horizontal/04_家的底色/字幕.srt",
+      "original_sha256": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/定稿文案.txt",
+      "destination": "episodes/horizontal/04_家的底色/定稿文案.txt",
+      "original_sha256": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/实际质检记录.md",
+      "destination": "episodes/horizontal/04_家的底色/实际质检记录.md",
+      "original_sha256": "cbb4eea7e42c8ecd42fe58086be83ed1694d8470d26c464537684d593d943817"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/工程文件清单.json",
+      "destination": "episodes/horizontal/04_家的底色/工程文件清单.json",
+      "original_sha256": "6ec40eb76bda6f2d3d6db5356c5770938cec61b8f36d93ad22b619a0b9923581"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/父版锁定输入.json",
+      "destination": "episodes/horizontal/04_家的底色/父版锁定输入.json",
+      "original_sha256": "953b723cfff53e8192ab5c3c8b7ef87a7a6ff9cc7498ab18e3cb8724c121a1c7"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/版本清单.json",
+      "destination": "episodes/horizontal/04_家的底色/版本清单.json",
+      "original_sha256": "f18056a5fc3c725f6463cdaee757d0444768b4aca23e7263d4f0b269abbade40"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/踩点与阅读检查表.md",
+      "destination": "episodes/horizontal/04_家的底色/踩点与阅读检查表.md",
+      "original_sha256": "bc2959d8a9f4608ae1f0e8274b3c480566410a37aa96f110d19e263a8bd6fa65"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/问题修复与最终验证.md",
+      "destination": "episodes/horizontal/04_家的底色/问题修复与最终验证.md",
+      "original_sha256": "86eb9a462519220a9667ebd21879c8a7fa3380365163d20f8e78ec03d0029c06"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/assets/OFL-NotoSansSC.txt",
+      "destination": "episodes/horizontal/04_家的底色/assets/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/assets/OFL-NotoSerifSC.txt",
+      "destination": "episodes/horizontal/04_家的底色/assets/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/audio/BGM来源说明.md",
+      "destination": "episodes/horizontal/04_家的底色/audio/BGM来源说明.md",
+      "original_sha256": "70f1b3974eac301681022d79b8249076c0cd1c94d2de3f1e915895b8b5d46f86"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/工程/04_家的底色/audio/编辑记录.json",
+      "destination": "episodes/horizontal/04_家的底色/audio/编辑记录.json",
+      "original_sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+    },
+    {
+      "source": "成片独立复查_20261022_01/continuous_music_reconstruction.json",
+      "destination": "history/成片独立复查_20261022_01/continuous_music_reconstruction.json",
+      "original_sha256": "a77d2d4e88cbafdb4f22cf27041eb0d0256b07d6e5a5c149556f075aba3b6521"
+    },
+    {
+      "source": "成片独立复查_20261022_01/cross_format.json",
+      "destination": "history/成片独立复查_20261022_01/cross_format.json",
+      "original_sha256": "fa80530a834c6a0c95af029129336ed3debdb4d84e3db74f3348da11998257b6"
+    },
+    {
+      "source": "成片独立复查_20261022_01/end_identity_all.json",
+      "destination": "history/成片独立复查_20261022_01/end_identity_all.json",
+      "original_sha256": "67d6ab55b280a17b5009ed71d0cb39fc5f15483d88a7b2a3294ea5c728b26ebd"
+    },
+    {
+      "source": "成片独立复查_20261022_01/inventory.json",
+      "destination": "history/成片独立复查_20261022_01/inventory.json",
+      "original_sha256": "ebb236d53d541e61778fb4776c0ddb10aa20f907ba877ef80c0d0cb7f2173695"
+    },
+    {
+      "source": "成片独立复查_20261022_01/portrait_package_hashes.json",
+      "destination": "history/成片独立复查_20261022_01/portrait_package_hashes.json",
+      "original_sha256": "153d0574b6b0a3d844dbb85f8d1d4b1486d787befcc7964a99c6ca2e25b1199c"
+    },
+    {
+      "source": "成片独立复查_20261022_01/portrait_release_hashes.json",
+      "destination": "history/成片独立复查_20261022_01/portrait_release_hashes.json",
+      "original_sha256": "d7b35d2551f16a760b665e7891a21e7b2e10a21f8bc55dc33ade3b0b6e83bb23"
+    },
+    {
+      "source": "成片独立复查_20261022_01/revision4_identity.json",
+      "destination": "history/成片独立复查_20261022_01/revision4_identity.json",
+      "original_sha256": "c1b33303c63a6f7f142d41a986ee271575aefc12134f558b57f484837e487fd6"
+    },
+    {
+      "source": "成片独立复查_20261022_01/revision4_package.json",
+      "destination": "history/成片独立复查_20261022_01/revision4_package.json",
+      "original_sha256": "08db80609d1c9940f16d4dddc1ab46e9df95698ef4f106f55772e36ed1ea4c67"
+    },
+    {
+      "source": "成片独立复查_20261022_01/source_link_access.json",
+      "destination": "history/成片独立复查_20261022_01/source_link_access.json",
+      "original_sha256": "d1fa2308668a007e240599c0abc8e33355899d180539d1d9c64b831f1d3d0411"
+    },
+    {
+      "source": "成片独立复查_20261022_01/srt_plan_comparison.json",
+      "destination": "history/成片独立复查_20261022_01/srt_plan_comparison.json",
+      "original_sha256": "ed33e2138476539ce403f842059c1a517e15c7241148c7a6f62dba0dee88e6dd"
+    },
+    {
+      "source": "成片独立复查_20261022_01/可转发_横屏制作会话.txt",
+      "destination": "history/成片独立复查_20261022_01/可转发_横屏制作会话.txt",
+      "original_sha256": "2fbd94c3b29bef044ce93f7221dad8281e2895b795ef8dd9f2026302598e85dd"
+    },
+    {
+      "source": "成片独立复查_20261022_01/可转发_竖屏制作会话.txt",
+      "destination": "history/成片独立复查_20261022_01/可转发_竖屏制作会话.txt",
+      "original_sha256": "1ea5312367074311766191f21fb114e6cf709680f2cd35642c2b763126bdeb91"
+    },
+    {
+      "source": "成片独立复查_20261022_01/复查总报告.md",
+      "destination": "history/成片独立复查_20261022_01/复查总报告.md",
+      "original_sha256": "a7ead35111579ead65f26bbc6bdb1ea4b6e5e91a1e2e358e73215691155fdd4e"
+    },
+    {
+      "source": "成片独立复查_20261022_01/复查总表.json",
+      "destination": "history/成片独立复查_20261022_01/复查总表.json",
+      "original_sha256": "780ae35f24da39301b9eee3d2512c9381d9212660837eb3b0d6920817238353c"
+    },
+    {
+      "source": "成片独立复查_20261022_01/实际检查范围.md",
+      "destination": "history/成片独立复查_20261022_01/实际检查范围.md",
+      "original_sha256": "b852cf012f190ff237135b44cb7af7dc1aa343bf2b5bd215d51f756f3332fd92"
+    },
+    {
+      "source": "成片独立复查_20261022_01/来源访问说明.md",
+      "destination": "history/成片独立复查_20261022_01/来源访问说明.md",
+      "original_sha256": "7681be5a22c802567ae12736b8e1a0e60554ab38a43eda375bce967614656828"
+    },
+    {
+      "source": "成片独立复查_20261022_01/问题清单.json",
+      "destination": "history/成片独立复查_20261022_01/问题清单.json",
+      "original_sha256": "8e87096573c2e8e8a6472f16ee5fedbf551658e4a47a17f6b10a646291adea9b"
+    },
+    {
+      "source": "成片独立复查_20261022_01/问题清单.md",
+      "destination": "history/成片独立复查_20261022_01/问题清单.md",
+      "original_sha256": "b6c23279e90a092d0de618473d6251926eb9bdee022b39b04d0c76be668cf02f"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/h1包清单.json",
+      "destination": "history/横屏交付补查_20261022_h1/h1包清单.json",
+      "original_sha256": "ab2dcd559c309b9c59b57290f04eed4929b3d65ea5e5449ea5337856e355ec85"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/交付入口.md",
+      "destination": "history/横屏交付补查_20261022_h1/交付入口.md",
+      "original_sha256": "f9659c3441578add84f78caca24c0bec675d56bbeb728637942746613d7313f8"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/共用内容来源交接.md",
+      "destination": "history/横屏交付补查_20261022_h1/共用内容来源交接.md",
+      "original_sha256": "f8b2b01540cfa0597e13fa1e13dc0788a5f61549ff76e3d1ede5298fada09a26"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/压缩包SHA256.txt",
+      "destination": "history/横屏交付补查_20261022_h1/压缩包SHA256.txt",
+      "original_sha256": "6a58f222c17a1be16327809c43ebe54ed51080c81c083a76087672ec4731f9a7"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/四集媒体身份.json",
+      "destination": "history/横屏交付补查_20261022_h1/四集媒体身份.json",
+      "original_sha256": "290bf4686785699c468a215977ef84895abc68195de0c30fbd0c85613987a8e9"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/实际工具版本.json",
+      "destination": "history/横屏交付补查_20261022_h1/实际工具版本.json",
+      "original_sha256": "38a6a162e92bb643bfff52fdb66696cd1d1f06a8b9ea1bfb444307b8043235c6"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/平台检查尝试.json",
+      "destination": "history/横屏交付补查_20261022_h1/平台检查尝试.json",
+      "original_sha256": "3f8f1a29c53d2c90d0ab452406a6e7fb48d2b12932268f85e3d76e5feef93703"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/当前交付清单_h1.json",
+      "destination": "history/横屏交付补查_20261022_h1/当前交付清单_h1.json",
+      "original_sha256": "df290f9d8e473da7445865301c2630ee8143a66f3277ae7a37c9a1829821e222"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/未完成视听与平台复核表.md",
+      "destination": "history/横屏交付补查_20261022_h1/未完成视听与平台复核表.md",
+      "original_sha256": "ecc7ca1ee088d15fa086ec608f8cae3a0d1bc5d7cde1446f8e2c3e8cf8cc44b3"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/本轮整理与补查结果.md",
+      "destination": "history/横屏交付补查_20261022_h1/本轮整理与补查结果.md",
+      "original_sha256": "e4cd6bafc8c58f80d2b773ab4a4d3d4429c853de1f33c36937121b3a106c1619"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/源渲染输入未变核对.json",
+      "destination": "history/横屏交付补查_20261022_h1/源渲染输入未变核对.json",
+      "original_sha256": "f2af21ba594bed2e7efdd7dae4106484d559f491d1e585a5e42089b612eedb39"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/补查补充包SHA256.txt",
+      "destination": "history/横屏交付补查_20261022_h1/补查补充包SHA256.txt",
+      "original_sha256": "3d4e7993d064b949ee7ec19354e3611600f199a837e21817093ef1df66d9f339"
+    },
+    {
+      "source": "横屏交付补查_20261022_h1/补查补充包校验.json",
+      "destination": "history/横屏交付补查_20261022_h1/补查补充包校验.json",
+      "original_sha256": "541b1b4d0f7500132ffecec8e904e99f4c8eb2fcd57528a2cb434458ea39869e"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/共用内容与工程元数据变更表.md",
+      "destination": "history/竖屏规范落实复查_20261022/共用内容与工程元数据变更表.md",
+      "original_sha256": "0dfe3e54a4e64410c2399c4a07ef8e8f65aa503423d670392dbca03c2e74a34c"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/后续竖屏制作执行动作卡.md",
+      "destination": "history/竖屏规范落实复查_20261022/后续竖屏制作执行动作卡.md",
+      "original_sha256": "7af2511f1f8bb25e7d8cb7d6604909b5a093e0bb8a98a9de8c24215f64590361"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/打包与解压验证_包内记录.md",
+      "destination": "history/竖屏规范落实复查_20261022/打包与解压验证_包内记录.md",
+      "original_sha256": "eb115d8331f62627d16455f9bd49138a32e0a251db8950d87f45d0ba7279eebc"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/打包验证记录.md",
+      "destination": "history/竖屏规范落实复查_20261022/打包验证记录.md",
+      "original_sha256": "3201fbd52959f69164df0bff43640d92c465df7fbebc1461524b604c2f570070"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/执行落实与复查结果.md",
+      "destination": "history/竖屏规范落实复查_20261022/执行落实与复查结果.md",
+      "original_sha256": "75c1b04c6e53dca985a0c2ca1959d9db49c685762a898d9f56ebe5ccdb27dc07"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/文件摘要.json",
+      "destination": "history/竖屏规范落实复查_20261022/文件摘要.json",
+      "original_sha256": "aeab49b4c13d6cb17e3778591ac17d0f5c546bd644488df35f6836e3d79d6fec"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/横屏交接补充.md",
+      "destination": "history/竖屏规范落实复查_20261022/横屏交接补充.md",
+      "original_sha256": "251490ab8730b42ccee4dc3cdc7e7ee3292bbf733ba30a14653c6fc8f711beeb"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/独立工程验证汇总.json",
+      "destination": "history/竖屏规范落实复查_20261022/独立工程验证汇总.json",
+      "original_sha256": "4675ba0b057f48d49174595c0b0304d04b21a67d9736e33f033fffcef329e065"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/独立运行输入摘要.json",
+      "destination": "history/竖屏规范落实复查_20261022/独立运行输入摘要.json",
+      "original_sha256": "9e2df4b126e1b7d6e097cffbe34a67e8630e357149108945b934967b58447a63"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/看图范围与具体镜头动作.md",
+      "destination": "history/竖屏规范落实复查_20261022/看图范围与具体镜头动作.md",
+      "original_sha256": "7620c3cf3c42eea636c597309aae291b802a9df395513c9bf9566205a7b59542"
+    },
+    {
+      "source": "竖屏规范落实复查_20261022/运行环境.json",
+      "destination": "history/竖屏规范落实复查_20261022/运行环境.json",
+      "original_sha256": "25ca4616ed59e0f06f9a5831b5e316ed0ed23ad2e5198e729c6e009ea4712e86"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/内容修订说明_用户可转发横屏.md",
+      "destination": "history/竖屏返修_20261022_r1/内容修订说明_用户可转发横屏.md",
+      "original_sha256": "6a7cfdc930b852ed0b4318f5b3eff3564423ebddb2723d1e169aafb1608354fc"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/本轮返修计划.md",
+      "destination": "history/竖屏返修_20261022_r1/本轮返修计划.md",
+      "original_sha256": "6a0022b145cebbb842e401cbb6121da9841215b85f238c11d45a16dcdea1e510"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/父版只读摘要.json",
+      "destination": "history/竖屏返修_20261022_r1/父版只读摘要.json",
+      "original_sha256": "ea4fbfe3340429739234ce08eb82105be0d5dc04d324b5fd8b5920cb70e86807"
+    },
+    {
+      "source": "竖屏返修_20261022_r1/运行环境.json",
+      "destination": "history/竖屏返修_20261022_r1/运行环境.json",
+      "original_sha256": "3bac0b1d01caf20c886cc624ebe607d140fdfc75729ee31e273d9ca54640b2c6"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/01_长大的回路_打包记录.json",
+      "destination": "history/横屏规范落实_20261022_v3.1/01_长大的回路_打包记录.json",
+      "original_sha256": "33259394a52ad680ce3d967e5b52510c0adfc4c0ff6322258119a903e960f60b"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/02_一勺的变迁_打包记录.json",
+      "destination": "history/横屏规范落实_20261022_v3.1/02_一勺的变迁_打包记录.json",
+      "original_sha256": "8844be7be2f19639b6c3aa7319151078eb46bb2d0ff8d8447d9e1a99853f28ec"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/03_借你一点平静_打包记录.json",
+      "destination": "history/横屏规范落实_20261022_v3.1/03_借你一点平静_打包记录.json",
+      "original_sha256": "751e6775c6837a252a686315461c4f2605a1bf86ed98ad426a66569b8bd00921"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/04_家的底色_打包记录.json",
+      "destination": "history/横屏规范落实_20261022_v3.1/04_家的底色_打包记录.json",
+      "original_sha256": "e9c0d635eb7ee4cb8753a15df8ee32a2c43ca4325cb6679fb55d66974e183bb4"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/交付入口.md",
+      "destination": "history/横屏规范落实_20261022_v3.1/交付入口.md",
+      "original_sha256": "f6aeebc59fc25745622f1afc57ec6c703d0693af9eeb428358f32386de6e113a"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/交付时规范更新说明.md",
+      "destination": "history/横屏规范落实_20261022_v3.1/交付时规范更新说明.md",
+      "original_sha256": "afcd9bc881ad16c282071865202a4386ac6b58cc1749fc6924a0b8e15e67d40f"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/共用内容核查交接.md",
+      "destination": "history/横屏规范落实_20261022_v3.1/共用内容核查交接.md",
+      "original_sha256": "4bdec2471f5f95db5c1f3a7d4c5692370a89004ffdd79312c6eb8de0748241c3"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/受保护输入SHA256.json",
+      "destination": "history/横屏规范落实_20261022_v3.1/受保护输入SHA256.json",
+      "original_sha256": "568df82324e22efb10d66caa16475fe047611f6a04d21ce22b9ad2e5ac9d9257"
+    },
+    {
+      "source": "横屏规范落实_20261022_v3.1/竖屏a1交接补充_只读引用.md",
+      "destination": "history/横屏规范落实_20261022_v3.1/竖屏a1交接补充_只读引用.md",
+      "original_sha256": "251490ab8730b42ccee4dc3cdc7e7ee3292bbf733ba30a14653c6fc8f711beeb"
+    },
+    {
+      "source": "_vibe_skill/LICENSE",
+      "destination": "licenses/upstream-vibe-LICENSE.txt",
+      "original_sha256": "88fdc6443b28865287754012191fb3925bd9b1255e68ed097c33b7714a5a759c"
+    },
+    {
+      "source": "_vibe_skill/engine/fonts/OFL-NotoSansSC.txt",
+      "destination": "licenses/OFL-NotoSansSC.txt",
+      "original_sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "source": "_vibe_skill/engine/fonts/OFL-NotoSerifSC.txt",
+      "destination": "licenses/OFL-NotoSerifSC.txt",
+      "original_sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "source": "育儿视频_借你一点平静_GitHub配乐版/mix_reference.py",
+      "destination": "history/foley_origin/mix_reference.py",
+      "original_sha256": "ff7e603125809efdff4a73ac2ae1a40ebc10f9df4a0659f715b4609ab458168b"
+    }
+  ]
+}

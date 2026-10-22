@@ -1,0 +1,822 @@
+[
+  {
+    "episode": "第一集",
+    "checks": [
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\audio\\编辑记录.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\art.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\assets\\NotoSansSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\assets\\NotoSerifSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\assets\\OFL-NotoSansSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\assets\\OFL-NotoSerifSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\audio\\github_reference_bgm.mp4",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\check_exports.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\engine.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\episode.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\episode.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\facts.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\film.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\font_check.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\package_episode.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\people.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\qa.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\requirements.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\scenes.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\storyboard.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\text_layout_audit.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\visual_check.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\交付记录.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\标题文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\baseline\\质检说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\music_sync.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\music_sync.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\pace.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\timeline.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\定稿文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第一集\\质检数据.json",
+        "exists": true,
+        "match": true
+      }
+    ]
+  },
+  {
+    "episode": "第二集",
+    "checks": [
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\audio\\编辑记录.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\art.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\assets\\NotoSansSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\assets\\NotoSerifSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\assets\\OFL-NotoSansSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\assets\\OFL-NotoSerifSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\audio\\github_reference_bgm.mp4",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\check_exports.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\engine.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\episode.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\episode.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\facts.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\film.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\font_check.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\package_episode.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\people.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\qa.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\requirements.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\scenes.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\storyboard.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\text_layout_audit.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\visual_check.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\交付记录.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\标题文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\baseline\\质检说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\music_sync.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\music_sync.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\pace.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\timeline.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\定稿文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第二集\\质检数据.json",
+        "exists": true,
+        "match": true
+      }
+    ]
+  },
+  {
+    "episode": "第三集",
+    "checks": [
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\audio\\foley_only.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\audio\\编辑记录.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\assets\\NotoSansSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\assets\\NotoSerifSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\assets\\OFL-NotoSansSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\assets\\OFL-NotoSerifSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\ending129.jpg",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\ending130.jpg",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\foley_only.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\github_reference_bgm.mp4",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\mix_report.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\reference_analysis.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\facts.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\film.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\mix_reference.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\music_timing.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\package.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\platform_version.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\publishing.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\qa.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\storyboard.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\update_ending.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\baseline\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\music_sync.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\music_sync.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\pace.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\timeline.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\定稿文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第三集\\质检数据.json",
+        "exists": true,
+        "match": true
+      }
+    ]
+  },
+  {
+    "episode": "第四集",
+    "checks": [
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\audio\\编辑记录.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\art.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\assets\\NotoSansSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\assets\\NotoSerifSC-VF.ttf",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\assets\\OFL-NotoSansSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\assets\\OFL-NotoSerifSC.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\audio\\BGM来源说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\audio\\github_reference_bgm.mp4",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\audio\\score.wav",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\engine.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\facts.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\film.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\package.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\qa.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\scenes.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\storyboard.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\标题文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\baseline\\质检说明.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\index.html",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\music_sync.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\music_sync.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\pace.js",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\README.md",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\render.py",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\timeline.json",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\字幕.srt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\定稿文案.txt",
+        "exists": true,
+        "match": true
+      },
+      {
+        "path": "historical-workspace\\成片独立复查_20261022_01\\packages\\四集竖屏_规范v2.0_独立源工程_a1\\工程\\第四集\\质检数据.json",
+        "exists": true,
+        "match": true
+      }
+    ]
+  }
+]

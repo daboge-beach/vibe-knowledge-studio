@@ -1,0 +1,138 @@
+{
+  "audio/BGM来源说明.md": {
+    "bytes": 1851,
+    "sha256": "70f1b3974eac301681022d79b8249076c0cd1c94d2de3f1e915895b8b5d46f86"
+  },
+  "audio/score.wav": {
+    "bytes": 23030444,
+    "sha256": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6"
+  },
+  "audio/编辑记录.json": {
+    "bytes": 4682,
+    "sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+  },
+  "baseline/art.js": {
+    "bytes": 12766,
+    "sha256": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6"
+  },
+  "baseline/assets/NotoSansSC-VF.ttf": {
+    "bytes": 17772300,
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+  },
+  "baseline/assets/NotoSerifSC-VF.ttf": {
+    "bytes": 25125512,
+    "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+  },
+  "baseline/assets/OFL-NotoSansSC.txt": {
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  "baseline/assets/OFL-NotoSerifSC.txt": {
+    "bytes": 4350,
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+  },
+  "baseline/audio/BGM来源说明.md": {
+    "bytes": 1459,
+    "sha256": "7c5cee4cb255e4ffe33fffb1e6deda071b1611e3df2f01b9e8e78203375d8319"
+  },
+  "baseline/audio/github_reference_bgm.mp4": {
+    "bytes": 14489917,
+    "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+  },
+  "baseline/audio/score.wav": {
+    "bytes": 24960078,
+    "sha256": "8df78c5e97911b7c6e6bd492f22cd0ec5677e81e6fd0a4d1c51c0b50fb504bea"
+  },
+  "baseline/engine.js": {
+    "bytes": 4633,
+    "sha256": "9459a62f41f6ed7eea301bcd56ad44e371997ecfd3bffbd86af64ebcbce1debb"
+  },
+  "baseline/facts.md": {
+    "bytes": 3515,
+    "sha256": "69e841238c4c702a812318d8e966ac67613b8caa626390bc9e4862acaa8f05ab"
+  },
+  "baseline/film.js": {
+    "bytes": 2294,
+    "sha256": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f"
+  },
+  "baseline/index.html": {
+    "bytes": 2427,
+    "sha256": "8152fbc89a2ee90b48fdc6b9193256042a380683562807e28f0e1911b4f5e305"
+  },
+  "baseline/package.py": {
+    "bytes": 7563,
+    "sha256": "0ef5faad2698f3345f58fbefb01f667f39f2b077d9c5e2cbb40c349a082a9a29"
+  },
+  "baseline/qa.py": {
+    "bytes": 4176,
+    "sha256": "47b548f9e2a6d1ff068a468830cabbb354a51bd1f3fd9e4cd9506408b3a797be"
+  },
+  "baseline/README.md": {
+    "bytes": 2264,
+    "sha256": "19f07ca10272f76b9b285a27dc56ca73a264ad29d0eb370f21f0fc2cacc9c1b2"
+  },
+  "baseline/render.py": {
+    "bytes": 7570,
+    "sha256": "6cff1a974f639f825320eabaf1e67aac354dad76e5ed0b5b84d5e19bae85be0a"
+  },
+  "baseline/scenes.js": {
+    "bytes": 11981,
+    "sha256": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f"
+  },
+  "baseline/storyboard.md": {
+    "bytes": 6164,
+    "sha256": "4212c46fe5471cb70939d7d0caa2332135efd4f4c72e00562b92b32353d49e16"
+  },
+  "baseline/字幕.srt": {
+    "bytes": 2050,
+    "sha256": "f0db041ecddf668be7cc16ae5c3338384476fed801461c598ad2f3cd35cacca7"
+  },
+  "baseline/标题文案.txt": {
+    "bytes": 2804,
+    "sha256": "5a282b5241ba036d7f1994c2d7bf3270f9faebc3306db020cab1165904645869"
+  },
+  "baseline/质检说明.md": {
+    "bytes": 2625,
+    "sha256": "6ca0a7287074b5efcb02ef0cad7b8e9b2b2913527e285e798bffe43b69b3a4cb"
+  },
+  "index.html": {
+    "bytes": 2560,
+    "sha256": "f5c14d905b39ab9069c5ba4ac8de1f0ca5a1b5a9b5c80491dd8604d630b70d96"
+  },
+  "music_sync.js": {
+    "bytes": 4456,
+    "sha256": "f45eccf175b56629f2d67ef28a5caa6651bc7ccf76ef3a05a24fe9a41a8141e3"
+  },
+  "music_sync.json": {
+    "bytes": 4682,
+    "sha256": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9"
+  },
+  "pace.js": {
+    "bytes": 4421,
+    "sha256": "27a6ecaf725ece7aa24a697ce82d7e6fa1e62bbf634c47d06a6ff5764a4dabbf"
+  },
+  "README.md": {
+    "bytes": 1236,
+    "sha256": "d1052cc3263e586998e84a3cdc2382d62a669e1ab0a7123ffb4f6241065bd352"
+  },
+  "render.py": {
+    "bytes": 8078,
+    "sha256": "d3736f9621497167ffb47d133a937490a55850ce041331fd11a4d70d3ddfd5cc"
+  },
+  "timeline.json": {
+    "bytes": 4594,
+    "sha256": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c"
+  },
+  "字幕.srt": {
+    "bytes": 2047,
+    "sha256": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab"
+  },
+  "定稿文案.txt": {
+    "bytes": 1131,
+    "sha256": "1e940a703654657ec2d06f12112d4c0b324a07f21b845cfe13eb3b44a289da5f"
+  },
+  "质检数据.json": {
+    "bytes": 3314,
+    "sha256": "e169d399b6e3a659702c6c2102c1d9a184ba63d3614f274c081262d3bae12452"
+  }
+}

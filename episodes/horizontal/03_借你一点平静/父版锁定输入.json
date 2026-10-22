@@ -1,0 +1,13 @@
+{
+  "parent": "historical-workspace\\横屏BGM连贯修订_20261022\\工程\\03_借你一点平静",
+  "sha256": {
+    "timeline.json": "fd4b45039b90372ce5542378b557111bef9c169003f441fe258d008af3e4b691",
+    "music_sync.json": "c4809cc33dbeccd985cea2576336379a47be7fe8307a7ff7056b8c1679cc0451",
+    "music_sync.js": "21d15b401ddc32f407541e84a6fa758772ce5adde3976f78350a22724e0162d3",
+    "字幕.srt": "9e2f78bed1e5878e6b8a578912a861fa03354a89b9b2db9c8b9e651903453fd3",
+    "定稿文案.txt": "66df50d126aa5112a83f9fc3b7be3c4125d4e168f22b9b5658188ef6ccc82429",
+    "audio/score.wav": "b7c6583dd8bebd80a3602e7a66f9189ea283f45442039ecf699eee6c02ccfb61",
+    "audio/foley_only.wav": "b247bae09e7b1e2039329e3068e9de44a0eacce1d2210a8c62773aeb78c182ca"
+  },
+  "pace_normalized_text_sha256": "b13458ea7d9bac38d47e7766253485fb3ef526229ea744401220d2ad85243490"
+}

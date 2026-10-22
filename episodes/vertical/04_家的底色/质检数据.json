@@ -1,0 +1,118 @@
+{
+  "episode": "第四集",
+  "version": "bgm-continuous-v2",
+  "duration": 119.95,
+  "fps": 60,
+  "frames": 7197,
+  "size": [
+    1440,
+    2560
+  ],
+  "media": "H.264 yuv420p BT.709 limited; AAC 48kHz stereo",
+  "video_sha256": "a347dc523617197f757961c107ef0ba77fa23fa38b9043cbd8d8f7509fa598cd",
+  "audio_sha256": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6",
+  "full_decode": "passed",
+  "loudness_lufs": -14.0,
+  "true_peak_dbtp": -2.32,
+  "caption_text_and_times": "unchanged",
+  "music_internal_splices": 0,
+  "music_source_rate": 1,
+  "source_music_reconstruction_max_error": 2.979426472204949e-08,
+  "aac_windows": [
+    {
+      "former_splice_output_time": 12.9,
+      "aac_vs_wav_lag_samples": 0,
+      "correlation": 0.99999881623027,
+      "music_source_time": 12.9,
+      "internal_splice_now": false
+    },
+    {
+      "former_splice_output_time": 54.15,
+      "aac_vs_wav_lag_samples": 0,
+      "correlation": 0.9999961823850708,
+      "music_source_time": 54.15,
+      "internal_splice_now": false
+    },
+    {
+      "former_splice_output_time": 81.65,
+      "aac_vs_wav_lag_samples": 0,
+      "correlation": 0.9999961840011522,
+      "music_source_time": 81.65,
+      "internal_splice_now": false
+    },
+    {
+      "former_splice_output_time": 118.95000000000002,
+      "aac_vs_wav_lag_samples": 0,
+      "correlation": 0.9999931589047489,
+      "music_source_time": 118.95000000000002,
+      "internal_splice_now": false
+    }
+  ],
+  "synchronized_cues": 7,
+  "maximum_cue_attack_error_ms": 7.597,
+  "source_checks": {
+    "episode": "第四集",
+    "source_frames": 35,
+    "beat_node_frames": 21,
+    "caption_times_and_text": "unchanged",
+    "visual_warp_python_js_match": true,
+    "random_seek_deterministic": true,
+    "console_errors": [],
+    "scope": "source frames and key animation event transitions; not a claim of full subjective audio audition"
+  },
+  "source_encoded_frames": [
+    {
+      "time": 0.5,
+      "mean_rgb_difference": 2.908514976501465
+    },
+    {
+      "time": 4.0,
+      "mean_rgb_difference": 2.8931498527526855
+    },
+    {
+      "time": 11.5,
+      "mean_rgb_difference": 2.711704730987549
+    },
+    {
+      "time": 13.383333333333333,
+      "mean_rgb_difference": 2.824845314025879
+    },
+    {
+      "time": 13.5,
+      "mean_rgb_difference": 2.944110631942749
+    },
+    {
+      "time": 30.0,
+      "mean_rgb_difference": 3.012465715408325
+    },
+    {
+      "time": 50.0,
+      "mean_rgb_difference": 3.0034115314483643
+    },
+    {
+      "time": 54.55,
+      "mean_rgb_difference": 3.0123684406280518
+    },
+    {
+      "time": 70.0,
+      "mean_rgb_difference": 3.053988456726074
+    },
+    {
+      "time": 82.18333333333334,
+      "mean_rgb_difference": 2.8218891620635986
+    },
+    {
+      "time": 90.0,
+      "mean_rgb_difference": 2.9351460933685303
+    },
+    {
+      "time": 112.75,
+      "mean_rgb_difference": 2.7641007900238037
+    },
+    {
+      "time": 117.95,
+      "mean_rgb_difference": 2.689735174179077
+    }
+  ],
+  "scope": "Source continuity reconstruction; onset-to-frame calculation; full decode; final AAC versus WAV and final image comparison. No claim of complete subjective listening."
+}

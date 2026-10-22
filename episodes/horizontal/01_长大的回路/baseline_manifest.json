@@ -1,0 +1,384 @@
+{
+  "version": "horizontal-bgm-continuous-v3.0-20261022",
+  "key": "01_长大的回路",
+  "episode": "第一集",
+  "duration": 118.2,
+  "frames": 7092,
+  "fps": 60,
+  "source_audio_sha256": "28bd479eff556ab6290c7c004264286e83ec6ee6378ab9e1f79860a203d9ac78",
+  "previous_project": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路",
+  "previous_final": "historical-workspace\\横屏节奏优化_20261021\\发布包\\01_长大的回路\\横屏_节奏优化版_带BGM.mp4",
+  "latest_project": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集",
+  "input_files": [
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\art.js",
+      "sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\baseline_manifest.json",
+      "sha256": "7ac9e6c35db9d9df800eab3eea362b8e44e1282671ac33956b26bbb3b8e65243"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\BGM来源说明.md",
+      "sha256": "ff1713178b1a6526bb678c0a1f6a20a96dfcf08ea654bca0db59832393d4d309"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers.js",
+      "sha256": "f655354ac09af074580cfb217073f693712fdc9cba698b555106a075c967d20a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers_export.py",
+      "sha256": "0e4f98e815c4284ba2ce000826dd86a9ba5bc7c538aee1abd71b3ce8a9aff5e4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\direction.json",
+      "sha256": "354a10db6e84b060ed68f02385c4522a91f714e33ac2b2a417de445f71ad33c7"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\engine.js",
+      "sha256": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\environment.json",
+      "sha256": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\episode.js",
+      "sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\export_covers.py",
+      "sha256": "a1bd850f15e9c5f7ea10ebf90bdba8288be63faafb0681c4e25681353d900964"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\facts.md",
+      "sha256": "465e454263f115909cce3294492aaa8290ea0124bbc37c46755cc02cd71bacbf"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\film.js",
+      "sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\filmtools.py",
+      "sha256": "c3caaec87e7aacb53f91e57f83931dbce19c7a5ad897f88b8e808d218990a96b"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\handoff.py",
+      "sha256": "3b8dedcf8c3cf9e8d1f04ae12f204541db9200b88b5633f569232719da6968e4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\index.html",
+      "sha256": "19bed42b5b18f56656b6f36880f7692fac908ce0a647224990ac2c352c5d0469"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\layout.js",
+      "sha256": "3de0c99d4f5b0d98266ed30b688d3fefbf9a13ebdce6e011efbdf90820796753"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\pace.js",
+      "sha256": "1c3eab915ff5cd7337c3490dd6d9a6c9d7c4997c723530dbd2434627f2152f25"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\package.py",
+      "sha256": "8eff3758d8d10176cc3c4bbe94c62dee561d4cccb01890fe6f4c8b1a84632870"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\people.js",
+      "sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\qa.py",
+      "sha256": "aa04c86bbc8d60099163afe94a33ca6efb18f54154625d72d0be1f0115da1da1"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\quality.py",
+      "sha256": "6494afecc55961c7ea32318264e9c5d0a4b3e38a01da60dc5f362c6081ad2cce"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\README.md",
+      "sha256": "f7709620a0f163f32622a2869c4f4859fae150c779d4c2bdf1ffe89988ee5d1e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\refine.js",
+      "sha256": "14e9c7d4c6e6f08ed7e78ec5a247395f8c723505e5d023752e641bef48383e88"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\render.py",
+      "sha256": "d8d9627344c68aeabaab6267b0348f7f6b9ff96c39ef69369750a845a9fa4582"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\requirements.txt",
+      "sha256": "0be87a5aa141ea8ec1f71c74f481ecd1216719a27bedd4c1f73bc6dd0f06abf0"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\scenes.js",
+      "sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\storyboard.md",
+      "sha256": "5aa7098f577aac8802bb79ad9aaffc798b8bc733059c3f634aecd2c475862edd"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\timeline.json",
+      "sha256": "bdf10470218da836493511f8fa81c46ac3f6dabeecd37c0b2f6f3077cf894ed8"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\内容来源.md",
+      "sha256": "465e454263f115909cce3294492aaa8290ea0124bbc37c46755cc02cd71bacbf"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\分镜与阅读复核.md",
+      "sha256": "1d3bdfe668f4921ff010ff47f0bb01b19ab122a284cf2244550e6aac43534dfa"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\发布文案.md",
+      "sha256": "8e2af24fa2b29abad414046538991e347b248418f3bd4f303f7e6f90339e408a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\字幕.srt",
+      "sha256": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\定稿文案.txt",
+      "sha256": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\工程SHA256.txt",
+      "sha256": "da5fe9dc07a53b0e55cc35a23b70dea039c458eaa91188cf60a52767b20c9753"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\工程文件清单.json",
+      "sha256": "fbadcfd47fddad5e1636a6f7fb03dbded98d98be25b63caa90a9bf56df82afb6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\版本清单.json",
+      "sha256": "1fba84ec7a9ff5bc2b017de4c158eae9498df7feaeaf2c4575b9d0fdd28ceaf9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\节奏修订记录.md",
+      "sha256": "44c2c12d3b7eb7be7125a4bf24b5e99347d32fcae92d92f56df0a8b3e00eb27e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\质检说明.md",
+      "sha256": "96cb8752ef75f714ed55037eaca336c8874548805c5b1ae1b7da2df2f7d1e440"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\assets\\NotoSansSC-VF.ttf",
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\assets\\NotoSerifSC-VF.ttf",
+      "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\assets\\OFL-NotoSansSC.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\assets\\OFL-NotoSerifSC.txt",
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\audio\\BGM来源说明.md",
+      "sha256": "5d46c21b886f94f1d39cda8ab7ce75f38a16548901e5d0d74c145d2dc7733d99"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\audio\\score.wav",
+      "sha256": "dfd6f5c3a1519e907fea9f852a7cb3d21b54abf75931a7d915ab26e079ce73b4"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\audio\\编辑记录.json",
+      "sha256": "e824c4fce1e01f2e7965f88e0fdb7e2cfb7d43f7909cdbab6dcb02d7dbb2ab6f"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers\\B站封面_16比9.jpg",
+      "sha256": "9213b846654e2bd5e44a9619f27ed64a6ddefcb7eea1f9137327d600ce3dff83"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers\\B站封面_16比9.png",
+      "sha256": "f8729791692e7e1c4c141bba71853be55e31d3db8fa9ed8195b2eff8e64bbc31"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers\\B站封面_4比3备用.jpg",
+      "sha256": "7447223efd0c894ca9ab0071727763a6763475941e2f6cb2795c1c0cc3802c86"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers\\B站封面_4比3备用.png",
+      "sha256": "0eda95d6aab47743bf2d8291dbb99a79e5ddcc204d62b9d94df53ce5509a1ac8"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers\\今日头条封面_16比9.jpg",
+      "sha256": "09b78fba3d1ff79c15b846e4f34d01b4867893295a63b33465d0277181ff0aee"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\covers\\今日头条封面_16比9.png",
+      "sha256": "8f0a72276b8058157df1e68a64fb73a4832c917b459d5024ef40052629176cc9"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_art.js",
+      "sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_covers.js",
+      "sha256": "f655354ac09af074580cfb217073f693712fdc9cba698b555106a075c967d20a"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_engine.js",
+      "sha256": "a08091091c4683082aae956019d3d5ae67e2e2cb1316c0be42e77dd35743c43c"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_episode.js",
+      "sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_film.js",
+      "sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_layout.js",
+      "sha256": "eae2f6a6cdf7d81bed4f4a916711710d5bccca57ef9e6ec61a092a587e6ac6c1"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_people.js",
+      "sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\old_horizontal_scenes.js",
+      "sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_art.js",
+      "sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_engine.js",
+      "sha256": "d101f7b130dd4b08953ac121228a4546a790ad8d5d9e4b2a1c6ed7c259d77ffc"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_episode.js",
+      "sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_film.js",
+      "sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_pace.js",
+      "sha256": "5baf0a64749b5e4c3bd597670e4ca28a81d51e73022a3353999268d56afe4d9e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_people.js",
+      "sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+    },
+    {
+      "origin": "previous_horizontal",
+      "path": "historical-workspace\\横屏节奏优化_20261021\\工程\\01_长大的回路\\reference\\vertical_scenes.js",
+      "sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\timeline.json",
+      "sha256": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\music_sync.json",
+      "sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\字幕.srt",
+      "sha256": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d"
+    },
+    {
+      "origin": "new_vertical",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\定稿文案.txt",
+      "sha256": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\audio\\score.wav",
+      "sha256": "28bd479eff556ab6290c7c004264286e83ec6ee6378ab9e1f79860a203d9ac78"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\audio\\BGM来源说明.md",
+      "sha256": "435c334cd74d41836acafddfa5491dd3059ccf2ecd4f7896390babc99cae5930"
+    },
+    {
+      "origin": "new_vertical_audio",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\audio\\编辑记录.json",
+      "sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+    },
+    {
+      "origin": "continuous_original",
+      "path": "historical-workspace\\BGM连贯修订_20261021\\工程\\第一集\\baseline\\audio\\github_reference_bgm.mp4",
+      "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+    }
+  ]
+}

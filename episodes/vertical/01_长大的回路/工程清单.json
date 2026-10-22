@@ -1,0 +1,174 @@
+{
+  "audio/BGM来源说明.md": {
+    "bytes": 1842,
+    "sha256": "435c334cd74d41836acafddfa5491dd3059ccf2ecd4f7896390babc99cae5930"
+  },
+  "audio/score.wav": {
+    "bytes": 22694444,
+    "sha256": "28bd479eff556ab6290c7c004264286e83ec6ee6378ab9e1f79860a203d9ac78"
+  },
+  "audio/编辑记录.json": {
+    "bytes": 5944,
+    "sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+  },
+  "baseline/art.js": {
+    "bytes": 20564,
+    "sha256": "eed57e38d03ccaf48d71ae14ea9274dfd65d55689cb5910f298c8d8aa386b734"
+  },
+  "baseline/assets/NotoSansSC-VF.ttf": {
+    "bytes": 17772300,
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+  },
+  "baseline/assets/NotoSerifSC-VF.ttf": {
+    "bytes": 25125512,
+    "sha256": "050080d9255a86808f2945bffac582b31ef32bc36411ce29563b4961670c66f9"
+  },
+  "baseline/assets/OFL-NotoSansSC.txt": {
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  },
+  "baseline/assets/OFL-NotoSerifSC.txt": {
+    "bytes": 4350,
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+  },
+  "baseline/audio/BGM来源说明.md": {
+    "bytes": 1450,
+    "sha256": "f30b25ff6f22250853d23110b45a3b4d26f8c7551130ddd6cfd7745c029a9551"
+  },
+  "baseline/audio/github_reference_bgm.mp4": {
+    "bytes": 14489917,
+    "sha256": "d275bb7a26d1755e6b193d97056343498051e37dc685c233d3c7ea241912dc59"
+  },
+  "baseline/audio/score.wav": {
+    "bytes": 24960078,
+    "sha256": "8df78c5e97911b7c6e6bd492f22cd0ec5677e81e6fd0a4d1c51c0b50fb504bea"
+  },
+  "baseline/check_exports.py": {
+    "bytes": 2281,
+    "sha256": "212865def540ce0bba14c26dc57931ec288ab186d8a6118d5494671662cc20ff"
+  },
+  "baseline/engine.js": {
+    "bytes": 4666,
+    "sha256": "d101f7b130dd4b08953ac121228a4546a790ad8d5d9e4b2a1c6ed7c259d77ffc"
+  },
+  "baseline/episode.js": {
+    "bytes": 1551,
+    "sha256": "171478adf9dfd876ba60e1cf65b43ce42daf7d9b4ad04c990a7e3b798bd39c53"
+  },
+  "baseline/episode.json": {
+    "bytes": 5676,
+    "sha256": "d7d0b40fea86c62527548a39d971962f6ae5382c6a1069234740f0a735c36c62"
+  },
+  "baseline/facts.md": {
+    "bytes": 2496,
+    "sha256": "465e454263f115909cce3294492aaa8290ea0124bbc37c46755cc02cd71bacbf"
+  },
+  "baseline/film.js": {
+    "bytes": 2016,
+    "sha256": "4a7c9f9804888b4de4650f19d5a0804d36e9245a31f74e113356e2153afe2353"
+  },
+  "baseline/font_check.py": {
+    "bytes": 1744,
+    "sha256": "d1ed34b2c81dcaa265050e7d05ddb75b4697017faff17459f5bed4ceee0f6c09"
+  },
+  "baseline/index.html": {
+    "bytes": 2497,
+    "sha256": "ef4b8cd295e0ef336660e1bb272da35a19f477f79a7f751cfb85eda7b62a089f"
+  },
+  "baseline/package_episode.py": {
+    "bytes": 11921,
+    "sha256": "0608f6d5cafe5e5bca2568d36778948f250ed0a1b92d5594818d15e574be09f4"
+  },
+  "baseline/people.js": {
+    "bytes": 12917,
+    "sha256": "8bbe862188a9fd72fa8b1c8face1b9d00638de8b5f74ed7a0299c4d5ef19241e"
+  },
+  "baseline/qa.py": {
+    "bytes": 4191,
+    "sha256": "1167257e6ffaf8bf48bcae9eaccec41fe43c8564acae3be6fa173ceaf2e190d9"
+  },
+  "baseline/README.md": {
+    "bytes": 1799,
+    "sha256": "0a46d7800b64e26e253e254fdc32506233ed7c82dea800f303439e0b9f2894c4"
+  },
+  "baseline/render.py": {
+    "bytes": 7570,
+    "sha256": "6cff1a974f639f825320eabaf1e67aac354dad76e5ed0b5b84d5e19bae85be0a"
+  },
+  "baseline/requirements.txt": {
+    "bytes": 20,
+    "sha256": "378385ecb2156019db2fd9058d6d44d0cc5259a451c3620dd779d49b5efec8cd"
+  },
+  "baseline/scenes.js": {
+    "bytes": 3341,
+    "sha256": "0316621e7b10a396fd848cb49fd5dfd58b9d558d55ddf174cee98377678c8699"
+  },
+  "baseline/storyboard.md": {
+    "bytes": 4795,
+    "sha256": "5aa7098f577aac8802bb79ad9aaffc798b8bc733059c3f634aecd2c475862edd"
+  },
+  "baseline/text_layout_audit.py": {
+    "bytes": 2544,
+    "sha256": "0c32c16439d6c3b8b6cda37de735b960ddb7fcdf467667251bb6a316ac0bb7e9"
+  },
+  "baseline/visual_check.py": {
+    "bytes": 3199,
+    "sha256": "4d9596aea78fb8fe3773660e718af79f00ac9bf90cf83493061560adadf39a08"
+  },
+  "baseline/交付记录.json": {
+    "bytes": 1038,
+    "sha256": "2cedd7e6245b1bfcf1a332d9c554331884778808bb4addbcc0bb26a8e98eb658"
+  },
+  "baseline/字幕.srt": {
+    "bytes": 1888,
+    "sha256": "8fbe7d45e356219943affb2b8a137f4ff54aee1b51bc40a68c6a14471e2529be"
+  },
+  "baseline/标题文案.txt": {
+    "bytes": 1460,
+    "sha256": "9e07823563706135f6c093df36010589bd20c71933da5384314e03bf656ce6a0"
+  },
+  "baseline/质检说明.md": {
+    "bytes": 2535,
+    "sha256": "e9fe62dfa8c72633f96871448bb95d38073a8a6b6b0b4447406e24965060a7d5"
+  },
+  "index.html": {
+    "bytes": 2647,
+    "sha256": "f4eb9e6ca70652ec37915a698b6b7cc1ee7b3fdcdb49961e69459abf41b691b7"
+  },
+  "music_sync.js": {
+    "bytes": 5385,
+    "sha256": "41626eb05e8a2894581ab940a0fc3707c8a0d6cd2820b98a1fd7173bf1319f45"
+  },
+  "music_sync.json": {
+    "bytes": 5944,
+    "sha256": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8"
+  },
+  "pace.js": {
+    "bytes": 4208,
+    "sha256": "1b730f6f6592b81a96be22569394c2b2970d88ec0c752bcd482316ee5d116ebd"
+  },
+  "README.md": {
+    "bytes": 1236,
+    "sha256": "7487882e5b7295c200a7cae85b76193fbf1013125af007cec07ae70452013d8a"
+  },
+  "render.py": {
+    "bytes": 8077,
+    "sha256": "f6b388a325ca832554960ee382e78a67af6b4249335f60b81e890cad18a402b7"
+  },
+  "timeline.json": {
+    "bytes": 4414,
+    "sha256": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d"
+  },
+  "字幕.srt": {
+    "bytes": 1885,
+    "sha256": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d"
+  },
+  "定稿文案.txt": {
+    "bytes": 932,
+    "sha256": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0"
+  },
+  "质检数据.json": {
+    "bytes": 3393,
+    "sha256": "cc12dc7cd00afb627ffa05046e58d87fdfe7f12e16034f2d549ad709d543a36f"
+  }
+}

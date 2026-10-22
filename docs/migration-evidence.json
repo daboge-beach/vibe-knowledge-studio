@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-23",
+  "checks": [
+    {
+      "episode": "horizontal-01",
+      "canvas": [
+        2560,
+        1440
+      ],
+      "times": [
+        0.5,
+        30,
+        59.1,
+        117.7
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "horizontal-02",
+      "canvas": [
+        2560,
+        1440
+      ],
+      "times": [
+        0.5,
+        30,
+        60.35,
+        120.2
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "horizontal-03",
+      "canvas": [
+        2560,
+        1440
+      ],
+      "times": [
+        0.5,
+        30,
+        54.516666666666666,
+        108.53333333333333
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "horizontal-04",
+      "canvas": [
+        2560,
+        1440
+      ],
+      "times": [
+        0.5,
+        30,
+        59.975,
+        119.45
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "vertical-01",
+      "canvas": [
+        1440,
+        2560
+      ],
+      "times": [
+        0.5,
+        30,
+        59.1,
+        117.7
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "vertical-02",
+      "canvas": [
+        1440,
+        2560
+      ],
+      "times": [
+        0.5,
+        30,
+        60.35,
+        120.2
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "vertical-03",
+      "canvas": [
+        1080,
+        1920
+      ],
+      "times": [
+        0.5,
+        30,
+        54.516666666666666,
+        108.53333333333333
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    },
+    {
+      "episode": "vertical-04",
+      "canvas": [
+        1440,
+        2560
+      ],
+      "times": [
+        0.5,
+        30,
+        59.975,
+        119.45
+      ],
+      "deterministic": true,
+      "page_errors": [],
+      "scope": "source smoke test only",
+      "full_viewing_done": false,
+      "full_listening_done": false,
+      "platform_UI_verified": false,
+      "user_accepted": false
+    }
+  ],
+  "original_comparison": {
+    "scope": "four checkpoints per episode; not full viewing",
+    "results": [
+      {
+        "episode": "vertical-01",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 59.1,
+            "same_png_sha256": true
+          },
+          {
+            "time": 117.7,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "vertical-02",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 60.35,
+            "same_png_sha256": true
+          },
+          {
+            "time": 120.2,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "vertical-03",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 54.516666666666666,
+            "same_png_sha256": true
+          },
+          {
+            "time": 108.53333333333333,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "vertical-04",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 59.975,
+            "same_png_sha256": true
+          },
+          {
+            "time": 119.45,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "horizontal-01",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 59.1,
+            "same_png_sha256": true
+          },
+          {
+            "time": 117.7,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "horizontal-02",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 60.35,
+            "same_png_sha256": true
+          },
+          {
+            "time": 120.2,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "horizontal-03",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 54.516666666666666,
+            "same_png_sha256": true
+          },
+          {
+            "time": 108.53333333333333,
+            "same_png_sha256": true
+          }
+        ]
+      },
+      {
+        "episode": "horizontal-04",
+        "points": [
+          {
+            "time": 0.5,
+            "same_png_sha256": true
+          },
+          {
+            "time": 30,
+            "same_png_sha256": true
+          },
+          {
+            "time": 59.975,
+            "same_png_sha256": true
+          },
+          {
+            "time": 119.45,
+            "same_png_sha256": true
+          }
+        ]
+      }
+    ]
+  },
+  "clip_comparisons": [
+    {
+      "file": "no-bgm-1440-1470.mp4",
+      "sha256": "dcafc7991fa0c2feb6e290f5a5b981cea79bbf1cdea527f3732353fa14cfe131",
+      "frame_comparisons": [
+        {
+          "frame": 0,
+          "source_time": 24.0,
+          "mean_absolute_rgb_error": 3.0142780671296294,
+          "threshold": 6.0,
+          "passed": true
+        },
+        {
+          "frame": 15,
+          "source_time": 24.25,
+          "mean_absolute_rgb_error": 3.0098629195601854,
+          "threshold": 6.0,
+          "passed": true
+        },
+        {
+          "frame": 29,
+          "source_time": 24.483333333333334,
+          "mean_absolute_rgb_error": 3.0204878291377315,
+          "threshold": 6.0,
+          "passed": true
+        }
+      ],
+      "actual_MP4_audio": {
+        "kind": "silence",
+        "peak": 0.0,
+        "passed": true
+      },
+      "passed": true,
+      "scope": "First/middle/last frames and full clip audio; no claim of full human viewing or listening",
+      "full_subjective_viewing_done": false,
+      "full_subjective_listening_done": false,
+      "user_accepted": false
+    },
+    {
+      "file": "no-bgm-30-45.mp4",
+      "sha256": "d3161ce10a37bc72c6c94eba88d2290dae30a1f8a1c77a70a416a76f3e9cd061",
+      "frame_comparisons": [
+        {
+          "frame": 0,
+          "source_time": 1.0,
+          "mean_absolute_rgb_error": 2.7941435185185184,
+          "threshold": 6.0,
+          "passed": true
+        },
+        {
+          "frame": 7,
+          "source_time": 1.2333333333333334,
+          "mean_absolute_rgb_error": 2.7963393775720164,
+          "threshold": 6.0,
+          "passed": true
+        },
+        {
+          "frame": 14,
+          "source_time": 1.4666666666666666,
+          "mean_absolute_rgb_error": 2.8010530799897118,
+          "threshold": 6.0,
+          "passed": true
+        }
+      ],
+      "actual_MP4_audio": {
+        "kind": "sample-aligned decoded AAC",
+        "sample_lag": 0,
+        "normalized_correlation": 0.999821109406341,
+        "samples_compared": 24000,
+        "passed": true
+      },
+      "passed": true,
+      "scope": "First/middle/last frames and full clip audio; no claim of full human viewing or listening",
+      "full_subjective_viewing_done": false,
+      "full_subjective_listening_done": false,
+      "user_accepted": false
+    }
+  ]
+}

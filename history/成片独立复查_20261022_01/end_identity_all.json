@@ -1,0 +1,276 @@
+[
+  {
+    "episode": "第一集",
+    "mode": "竖屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第一集\\竖屏",
+    "media": [
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第一集\\第一集_竖屏_BGM连贯版.mp4",
+        "sha256_start": "4ca05026c990275e07135beb46a31647067df7d7825be6608d98686c9876eb1d",
+        "sha256_end": "4ca05026c990275e07135beb46a31647067df7d7825be6608d98686c9876eb1d",
+        "snapshot_sha256_end": "4ca05026c990275e07135beb46a31647067df7d7825be6608d98686c9876eb1d",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第一集\\平台加音乐版_竖屏.mp4",
+        "sha256_start": "0b4ffc7e1f71c920d0ac877d650e9c9fd73349002c3748ddffa07b08ee8c3b05",
+        "sha256_end": "0b4ffc7e1f71c920d0ac877d650e9c9fd73349002c3748ddffa07b08ee8c3b05",
+        "snapshot_sha256_end": "0b4ffc7e1f71c920d0ac877d650e9c9fd73349002c3748ddffa07b08ee8c3b05",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [],
+    "video_packet_hashes": [
+      "SHA256=ffffe3b69eae223f4beb02bdbef10bbdc9765a3cd133099fecf676f2ebf52304",
+      "SHA256=ffffe3b69eae223f4beb02bdbef10bbdc9765a3cd133099fecf676f2ebf52304"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第一集",
+    "mode": "横屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏",
+    "media": [
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_带BGM.mp4",
+        "sha256_start": "157651c9c04433e25e93b422a885122bd7f308630e804cbe595bffe331180d86",
+        "sha256_end": "157651c9c04433e25e93b422a885122bd7f308630e804cbe595bffe331180d86",
+        "snapshot_sha256_end": "157651c9c04433e25e93b422a885122bd7f308630e804cbe595bffe331180d86",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\01_长大的回路\\01_长大的回路_横屏_v3.1_无BGM.mp4",
+        "sha256_start": "864bed2c46ffdadfc9a3fea81533b2221a3ef9a452bbc8a3e727d047fad40852",
+        "sha256_end": "864bed2c46ffdadfc9a3fea81533b2221a3ef9a452bbc8a3e727d047fad40852",
+        "snapshot_sha256_end": "864bed2c46ffdadfc9a3fea81533b2221a3ef9a452bbc8a3e727d047fad40852",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [
+      "工程文件清单.json",
+      "版本清单.json"
+    ],
+    "video_packet_hashes": [
+      "SHA256=746bb3cde4b53974e7092e2923e345873ced35c3dd51cd1b532752a4b4314fa0",
+      "SHA256=746bb3cde4b53974e7092e2923e345873ced35c3dd51cd1b532752a4b4314fa0"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第二集",
+    "mode": "竖屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第二集\\竖屏",
+    "media": [
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第二集\\第二集_竖屏_BGM连贯版.mp4",
+        "sha256_start": "493ec7a478ff2965b2842ce254dac943bf43306d2d6410184551b09f4af0a02b",
+        "sha256_end": "493ec7a478ff2965b2842ce254dac943bf43306d2d6410184551b09f4af0a02b",
+        "snapshot_sha256_end": "493ec7a478ff2965b2842ce254dac943bf43306d2d6410184551b09f4af0a02b",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第二集\\平台加音乐版_竖屏.mp4",
+        "sha256_start": "070c167687b5f268e4f53b1982524d0ad049f7ae3d8fa91ecc5cf6e5a033386e",
+        "sha256_end": "070c167687b5f268e4f53b1982524d0ad049f7ae3d8fa91ecc5cf6e5a033386e",
+        "snapshot_sha256_end": "070c167687b5f268e4f53b1982524d0ad049f7ae3d8fa91ecc5cf6e5a033386e",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [],
+    "video_packet_hashes": [
+      "SHA256=46fe9bb684329fd37af44e8f35bc817daccfb6d9ef29150f6d301fbc5d6dc7ab",
+      "SHA256=46fe9bb684329fd37af44e8f35bc817daccfb6d9ef29150f6d301fbc5d6dc7ab"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第二集",
+    "mode": "横屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏",
+    "media": [
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_带BGM.mp4",
+        "sha256_start": "40d80ff2652821e7a5fd450a36df4861a245a1abbe9715e9bdc7e95f83b3db41",
+        "sha256_end": "40d80ff2652821e7a5fd450a36df4861a245a1abbe9715e9bdc7e95f83b3db41",
+        "snapshot_sha256_end": "40d80ff2652821e7a5fd450a36df4861a245a1abbe9715e9bdc7e95f83b3db41",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\02_一勺的变迁\\02_一勺的变迁_横屏_v3.1_无BGM.mp4",
+        "sha256_start": "5c456bb45baa85171bb13fa409df3c8eaba62d86a7afeaee6036b3f9a40d53d2",
+        "sha256_end": "5c456bb45baa85171bb13fa409df3c8eaba62d86a7afeaee6036b3f9a40d53d2",
+        "snapshot_sha256_end": "5c456bb45baa85171bb13fa409df3c8eaba62d86a7afeaee6036b3f9a40d53d2",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [
+      "工程文件清单.json",
+      "版本清单.json"
+    ],
+    "video_packet_hashes": [
+      "SHA256=bc985f0b716fa7a6095b25c252bb64c1d134fe5449a8c0e3a50655bd1357bd5b",
+      "SHA256=bc985f0b716fa7a6095b25c252bb64c1d134fe5449a8c0e3a50655bd1357bd5b"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第三集",
+    "mode": "竖屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第三集\\竖屏",
+    "media": [
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第三集\\第三集_竖屏_BGM连贯版.mp4",
+        "sha256_start": "c45e7a30d84b2d2103c470972dea1957f1f04dada81c2d23df970916b8993003",
+        "sha256_end": "c45e7a30d84b2d2103c470972dea1957f1f04dada81c2d23df970916b8993003",
+        "snapshot_sha256_end": "c45e7a30d84b2d2103c470972dea1957f1f04dada81c2d23df970916b8993003",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第三集\\平台加音乐版_竖屏.mp4",
+        "sha256_start": "6c461ce97697d7d2415d2259130f7aa69f465437f2ae474d3612833f21073286",
+        "sha256_end": "6c461ce97697d7d2415d2259130f7aa69f465437f2ae474d3612833f21073286",
+        "snapshot_sha256_end": "6c461ce97697d7d2415d2259130f7aa69f465437f2ae474d3612833f21073286",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [],
+    "video_packet_hashes": [
+      "SHA256=536a2b54316523c5d0de31c6bb58df97d0da444862fc171c93a4069ae732ce47",
+      "SHA256=536a2b54316523c5d0de31c6bb58df97d0da444862fc171c93a4069ae732ce47"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第三集",
+    "mode": "横屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏",
+    "media": [
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_带BGM.mp4",
+        "sha256_start": "216841405bfc044071895463eb573ff91854ca2e00724fee234f85b9a893b2ea",
+        "sha256_end": "216841405bfc044071895463eb573ff91854ca2e00724fee234f85b9a893b2ea",
+        "snapshot_sha256_end": "216841405bfc044071895463eb573ff91854ca2e00724fee234f85b9a893b2ea",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\03_借你一点平静\\03_借你一点平静_横屏_v3.1_无BGM.mp4",
+        "sha256_start": "093da669198bd3ec1804be1283712e1cc3fe96d3feabf2e0ab5fa7ed87a9e0f2",
+        "sha256_end": "093da669198bd3ec1804be1283712e1cc3fe96d3feabf2e0ab5fa7ed87a9e0f2",
+        "snapshot_sha256_end": "093da669198bd3ec1804be1283712e1cc3fe96d3feabf2e0ab5fa7ed87a9e0f2",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [
+      "工程文件清单.json",
+      "版本清单.json"
+    ],
+    "video_packet_hashes": [
+      "SHA256=38ea46ed617d3fe21f4beccf6a653ceaf0be1a5431dee38330250bdddfd15f13",
+      "SHA256=38ea46ed617d3fe21f4beccf6a653ceaf0be1a5431dee38330250bdddfd15f13"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第四集",
+    "mode": "竖屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第四集\\竖屏",
+    "media": [
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第四集\\第四集_竖屏_BGM连贯版.mp4",
+        "sha256_start": "a347dc523617197f757961c107ef0ba77fa23fa38b9043cbd8d8f7509fa598cd",
+        "sha256_end": "a347dc523617197f757961c107ef0ba77fa23fa38b9043cbd8d8f7509fa598cd",
+        "snapshot_sha256_end": "a347dc523617197f757961c107ef0ba77fa23fa38b9043cbd8d8f7509fa598cd",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\BGM连贯修订_20261021\\发布包\\第四集\\平台加音乐版_竖屏.mp4",
+        "sha256_start": "fd7fc30458885337adcbaaf7114ffc6fd35e9ec5b0b9fc0b2814315f18f2b42d",
+        "sha256_end": "fd7fc30458885337adcbaaf7114ffc6fd35e9ec5b0b9fc0b2814315f18f2b42d",
+        "snapshot_sha256_end": "fd7fc30458885337adcbaaf7114ffc6fd35e9ec5b0b9fc0b2814315f18f2b42d",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [],
+    "video_packet_hashes": [
+      "SHA256=7d28d7e5e3b53e06212bd3700a47144b1ac8e2535e42e0c7e988a021aa4070b4",
+      "SHA256=7d28d7e5e3b53e06212bd3700a47144b1ac8e2535e42e0c7e988a021aa4070b4"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第四集",
+    "mode": "横屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏",
+    "media": [
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_带BGM.mp4",
+        "sha256_start": "19d1d7b4a521dc152c290b60aa782f092cc819b28cd5d07880e1c4cd008dffea",
+        "sha256_end": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+        "snapshot_sha256_end": "19d1d7b4a521dc152c290b60aa782f092cc819b28cd5d07880e1c4cd008dffea",
+        "original_unchanged": false,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_无BGM.mp4",
+        "sha256_start": "5ffafd078216b26428ebddbf3596bbc6b53b58d69574862e13afb3ebe774d8fe",
+        "sha256_end": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+        "snapshot_sha256_end": "5ffafd078216b26428ebddbf3596bbc6b53b58d69574862e13afb3ebe774d8fe",
+        "original_unchanged": false,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [
+      "工程文件清单.json",
+      "父版锁定输入.json",
+      "版本清单.json"
+    ],
+    "video_packet_hashes": [
+      "SHA256=a7e4bef191fab742d310b4ba59be1c16d6e69c2de10f2ba816e3b00c3af6c110",
+      "SHA256=a7e4bef191fab742d310b4ba59be1c16d6e69c2de10f2ba816e3b00c3af6c110"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  },
+  {
+    "episode": "第四集",
+    "mode": "横屏",
+    "out": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版",
+    "media": [
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_带BGM.mp4",
+        "sha256_start": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+        "sha256_end": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+        "snapshot_sha256_end": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      },
+      {
+        "path": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_无BGM.mp4",
+        "sha256_start": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+        "sha256_end": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+        "snapshot_sha256_end": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+        "original_unchanged": true,
+        "snapshot_unchanged": true
+      }
+    ],
+    "source_changed": [],
+    "video_packet_hashes": [
+      "SHA256=0373ee02ed143cf191aa3533f89ef121ec7984fce0fd583d105b8baef4d0a6bb",
+      "SHA256=0373ee02ed143cf191aa3533f89ef121ec7984fce0fd583d105b8baef4d0a6bb"
+    ],
+    "BGM_noBGM_video_stream_same": true
+  }
+]

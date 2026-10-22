@@ -1,0 +1,12 @@
+{
+  "parent": "historical-workspace\\横屏BGM连贯修订_20261022\\工程\\01_长大的回路",
+  "sha256": {
+    "timeline.json": "03df8891c927abe5a718daf743562acfa865c130ff7ddebbb1c25a8df3d6241d",
+    "music_sync.json": "081950738221ce208ee05e13fccb74b324cc66649a01040a03e0170b965414b8",
+    "music_sync.js": "154ca138d4852ac3cd0a617a1246c9294df6d0f9c61d6d22db90a4e6be21680c",
+    "字幕.srt": "c06a44628792e22c3bcaa03d5bef4bdb72c4d31e78603838df73d43abed04c0d",
+    "定稿文案.txt": "a67fb1144526dc612b0e4b6ec796a1dbbd517b542d257ec628abc459c3490cd0",
+    "audio/score.wav": "28bd479eff556ab6290c7c004264286e83ec6ee6378ab9e1f79860a203d9ac78"
+  },
+  "pace_normalized_text_sha256": "d96e9a0fac3b1abd170cb2e7b7a2db37a2a8c0cfe7c2826ea79c55698185f569"
+}

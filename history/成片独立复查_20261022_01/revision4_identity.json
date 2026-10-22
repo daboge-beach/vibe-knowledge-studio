@@ -1,0 +1,59 @@
+{
+  "episode": "第四集",
+  "title": "家的底色",
+  "mode": "横屏",
+  "version": "v3.1-20261022 / 复查中更新后的摘要",
+  "source_original": "historical-workspace\\横屏规范落实_20261022_v3.1\\工程\\04_家的底色",
+  "publication_original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色",
+  "declaration": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\版本清单.json",
+  "out": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版",
+  "media": [
+    {
+      "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_带BGM.mp4",
+      "snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\final_BGM.mp4",
+      "sha256_start": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+      "snapshot_sha256": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+      "declared_sha256": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+      "matches_declaration": true,
+      "bytes": 115617854
+    },
+    {
+      "original": "historical-workspace\\横屏规范落实_20261022_v3.1\\发布包\\04_家的底色\\04_家的底色_横屏_v3.1_无BGM.mp4",
+      "snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\final_noBGM.mp4",
+      "sha256_start": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+      "snapshot_sha256": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+      "declared_sha256": "fac513578459c386b3cb7cd5b0db09c1b231e1f41e8c6dfb71ccf2003b875c3f",
+      "matches_declaration": true,
+      "bytes": 111863632
+    }
+  ],
+  "source_hashes": {
+    "art.js": "bca0bf503760f36ac42f85d91444b5fab10441c6aa73eb015507e3609d6b40d6",
+    "baseline_manifest.json": "d2586f3332661c1991eee62182ebba91e26a1e4dbaab45a03ca0245084915c28",
+    "covers.js": "e66329f3330c0a2db84013618d7c132cdf51f2d9830bc7d74957b352f025397a",
+    "direction.js": "f4aa6e63aefc2e72bbff1b28612ed4ec7e5188fd2d56aaff0362ce5ec16f2896",
+    "direction.json": "a312dba260b15b4da5218633ee32e281f3e861a13defef38fccbc96c5293263a",
+    "engine.js": "187658b4988e1b042baa5aacc47c5210b4cc4e9b0e072bdf236fb22eb196bd47",
+    "environment.json": "570697caba0432ab7eb1f8f2ba2233d8ce2daf6dab19bf514991c44a948f5b32",
+    "film.js": "5f0e56e8259c81397e9f4de94ce5406d1196d0da8c592540ce2e967d66639e1f",
+    "index.html": "ff94cc1dd37746b3961e6055d01bda4f17a0310b5e97381c7dfcfc6a38fa5165",
+    "layout.js": "695c8806ad42bcb57f57c5fc00bf433e139e429b56c89a51cc94b932b076c263",
+    "music_sync.js": "b797e5e872fcc919f4b2026de2f5ee66def7b3035b1dc15e8b7917284fa1863e",
+    "music_sync.json": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9",
+    "pace.js": "8e7a2dc2c0515745237665614e452408311f7f63c111de0c11a877c63ba7be6f",
+    "refine.js": "707c9171f8cf2945b3d7d1f13e1a140c5dcd0c19fac373da2467adf252022140",
+    "runtime_version.js": "75d9d1f18847a2f91b01e6071b2b812a90a1d487fcd209bb3b46369470ac2664",
+    "runtime_version.json": "d3ce389e17e1730a417ceed1ce431756e1ac4413c2043490ced24986cdf1c7dc",
+    "scenes.js": "c41c882d316e9a795d9025305d423f663e981795edbf78b49ffa4627db60d35f",
+    "timeline.json": "370f172894baef983e6c4f7aed157bfd83906dd8613eeaa41c8819de097c0b5c",
+    "字幕.srt": "9ace07c61e53f7e1f1557f9c72ddc994fb30fc74b675213f1347777bc54db2ab",
+    "工程文件清单.json": "6ec40eb76bda6f2d3d6db5356c5770938cec61b8f36d93ad22b619a0b9923581",
+    "父版锁定输入.json": "953b723cfff53e8192ab5c3c8b7ef87a7a6ff9cc7498ab18e3cb8724c121a1c7",
+    "版本清单.json": "f18056a5fc3c725f6463cdaee757d0444768b4aca23e7263d4f0b269abbade40",
+    "audio\\score.wav": "b84220c08f0f89f3ef0e13e96f7dce2c559c8a7c1c9ad0482149d0157aff40f6",
+    "audio\\编辑记录.json": "86aaf5994dd9f844b353499fd0dfcf2b6566c44449d94ca438ab0d80119890c9",
+    "reference_previous\\baseline_manifest.json": "87811deacef554da216bdc02e12a9324af5cc3568fd35a0d9e058ada75af9a99",
+    "reference_previous\\pace.js": "78bedcd48c865d3e2991f2f53c844e67b04222399c4d2241be4a4ac3380d1f4e"
+  },
+  "previous_snapshot": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏"
+}

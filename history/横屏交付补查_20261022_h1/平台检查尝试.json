@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-22T17:15:09.715117+08:00",
+  "tool": "mcp__cua_repl",
+  "attempt": "cua.createBrowserTab(chrome, https://member.bilibili.com/platform/upload/video/frame)",
+  "result": "Browser is not available: chrome",
+  "inventory": {
+    "apps": [],
+    "browsers": [
+      {
+        "id": "1",
+        "name": "Codex MCP Apps",
+        "type": "mcpapps",
+        "tabs": []
+      }
+    ]
+  },
+  "platform_UI_verified": false,
+  "real_phone_verified": false,
+  "no_files_uploaded": true,
+  "not_a_platform_failure": "这是当前检查环境能力限制，不代表平台故障，也不代表画面失败。",
+  "full_subjective_audio_listening": "未做；没有可供本会话感知实际声音的工具链，解码或发出播放命令不能补通过"
+}

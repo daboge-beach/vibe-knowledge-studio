@@ -1,0 +1,14 @@
+/* Layout refinements on the original scene clock. */
+function connectingSequence(t){
+ neuronBody(-245,0,1.05);neuronBody(245,-25,1.05,'#9db2a3');
+ const pts=bezier([-210,7],[-70,100],[42,-90],[142,-26]),k=ss(t,29.8,34.5);
+ strokeCurve(pts,k,'#c6ab89',9);strokeCurve(pts,k,'#f2d8b354',3);
+ alpha(ss(t,34.4,35),()=>{ellipse(143,-26,9,8,P.gold);line([[160,-34],[163,-18]],'#acc2b0',5)});
+ for(let j=0;j<3;j++){const q=ss(t,34.5+j*.6,35.8+j*.8),branch=bezier([-97,21],[-33,80+j*45],[54,80+j*34],[119,70+j*45]);alpha(q,()=>line(bezier([223,-5],[189,48],[184,81+j*40],[135,70+j*45]),'#8da89b',3));strokeCurve(branch,q,'#9a8976',5);alpha(ss(q,.9,1),()=>ellipse(119,70+j*45,5,5,'#c6ab89'))}
+ if(t>35.8){const n=Math.floor(clamp((t-35.8)/2.1)*(pts.length-1));ellipse(...pts[n],8,8,P.white)}
+}
+SCENES[3].draw=function(t){dark();header('02','一个细胞，找到另一个细胞','NEURONS MAKE CONNECTIONS');at(960,545,1.62,()=>connectingSequence(t));at(960,545,1,()=>{text('细胞体',-455,-200,28,P.muted);line([[-455,-170],[-420,-88]],'#c4c4ab60',2);text('突起伸长 → 末梢接近',0,292,31,P.gold)});note('神经元与连接 · 简化示意 / National Academies')};
+myelin=function(t){const pts=bezier([-340,10],[-190,-33],[180,43],[340,0]);line(pts,'#a7907d',20);line(pts,'#e6cfaa',9);for(let i=0;i<6;i++){const x=-278+i*108,yy=7*Math.sin(i*.9),k=ss(t,66+i*.38,67.45+i*.38);alpha(k,()=>save(()=>{g.translate(x,yy);g.scale(1,lerp(.2,1,k));rr(-40,-36,81,72,27,gradient(-35,-32,35,38,'#c3c9aa','#6f9990'));for(let j=0;j<3;j++)path(q=>q.ellipse(-23+j*22,0,7,32,0,0,Math.PI*2),null,'#e2d9b066',2);line([[-30,-20],[26,-20]],'#eff1cd44',2)}))}if(t>70){const n=Math.floor(clamp((t-70)/3.55)*(pts.length-1));glow(...pts[n],28,P.gold,.3);ellipse(...pts[n],9,9,P.white)}line([[-277,-42],[-250,-121],[-80,-121]],P.muted,2);text('髓鞘',-30,-122,28,P.white);line([[-222,15],[-217,131],[-100,131]],P.muted,2);text('轴突',-51,132,28,P.white);ruleLabel('分段包裹，结间留有间隙',174,P.muted,24)};
+SCENES[7].draw=function(t){homeBackdrop();header('06','一座积木塔，也需要慢慢来','SKILLS DEVELOP AT DIFFERENT PACES');at(710,530,1.22,()=>blocksTower(ss(t,77.9,80.9),t));['动作','语言','自控'].forEach((s,i)=>alpha(ss(t,[82,84,85.8][i],[82.5,84.5,86.3][i]),()=>chip(s,1320+i*125,535,112,i===2?P.gold:P.teal)));alpha(ss(t,86.7,87.2),()=>text('各有步调，也有个体差异',1450,742,29,P.muted));note('场景与能力步调示意 · 不用于测评孩子')};
+SCENES[9].draw=function(t){dark();header('08','成长，没有统一截止线','LEARNING CONTINUES THROUGH LIFE');const labs=['出生前','婴幼儿','儿童','青春期','成年'];line([[230,600],[1690,600]],'#b5b9ac50',2);labs.forEach((s,i)=>alpha(ss(t,101.7+i*.65,102.3+i*.65),()=>{const x=250+i*355;ellipse(x,600,9,9,P.gold);text(s,x,707,38,i===4?P.gold:P.white,'NotoSerif',500);at(x,440,.45,()=>{if(i===0)neuralBrain(0,0,.68,0);else if(i===1)baby(0,142,.7,t,0,0);else person(0,155,i===2?.9:1,{child:i===2,t,role:'dad',smile:true})})}));note('阶段示意，非等距时间轴 / Harvard · NIMH')};
+window.REFINE_READY=true;

@@ -1,0 +1,98 @@
+[
+  {
+    "episode": "第一集",
+    "title": "长大的回路",
+    "mode": "竖屏",
+    "version": "bgm-continuous-v2 / 源元数据a1",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第一集\\竖屏\\复查报告.md",
+    "sha256": "4ca05026c990275e07135beb46a31647067df7d7825be6608d98686c9876eb1d",
+    "duration": "118.200000",
+    "fps": "60/1",
+    "frames": "7092"
+  },
+  {
+    "episode": "第一集",
+    "title": "长大的回路",
+    "mode": "横屏",
+    "version": "v3.1-20261022",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第一集\\横屏\\复查报告.md",
+    "sha256": "157651c9c04433e25e93b422a885122bd7f308630e804cbe595bffe331180d86",
+    "duration": "118.200000",
+    "fps": "60/1",
+    "frames": "7092"
+  },
+  {
+    "episode": "第二集",
+    "title": "一勺的变迁",
+    "mode": "竖屏",
+    "version": "bgm-continuous-v2 / 源元数据a1",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第二集\\竖屏\\复查报告.md",
+    "sha256": "493ec7a478ff2965b2842ce254dac943bf43306d2d6410184551b09f4af0a02b",
+    "duration": "120.700000",
+    "fps": "60/1",
+    "frames": "7242"
+  },
+  {
+    "episode": "第二集",
+    "title": "一勺的变迁",
+    "mode": "横屏",
+    "version": "v3.1-20261022",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第二集\\横屏\\复查报告.md",
+    "sha256": "40d80ff2652821e7a5fd450a36df4861a245a1abbe9715e9bdc7e95f83b3db41",
+    "duration": "120.700000",
+    "fps": "60/1",
+    "frames": "7242"
+  },
+  {
+    "episode": "第三集",
+    "title": "借你一点平静",
+    "mode": "竖屏",
+    "version": "bgm-continuous-v2 / 源元数据a1",
+    "state": "未通过，并有待补查项",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第三集\\竖屏\\复查报告.md",
+    "sha256": "c45e7a30d84b2d2103c470972dea1957f1f04dada81c2d23df970916b8993003",
+    "duration": "109.033333",
+    "fps": "30/1",
+    "frames": "3271"
+  },
+  {
+    "episode": "第三集",
+    "title": "借你一点平静",
+    "mode": "横屏",
+    "version": "v3.1-20261022",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第三集\\横屏\\复查报告.md",
+    "sha256": "216841405bfc044071895463eb573ff91854ca2e00724fee234f85b9a893b2ea",
+    "duration": "109.033333",
+    "fps": "60/1",
+    "frames": "6542"
+  },
+  {
+    "episode": "第四集",
+    "title": "家的底色",
+    "mode": "竖屏",
+    "version": "bgm-continuous-v2 / 源元数据a1",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第四集\\竖屏\\复查报告.md",
+    "sha256": "a347dc523617197f757961c107ef0ba77fa23fa38b9043cbd8d8f7509fa598cd",
+    "duration": "119.950000",
+    "fps": "60/1",
+    "frames": "7197"
+  },
+  {
+    "episode": "第四集",
+    "title": "家的底色",
+    "mode": "横屏",
+    "version": "v3.1-20261022 / 复查中更新后的摘要",
+    "state": "待补查",
+    "report": "historical-workspace\\成片独立复查_20261022_01\\第四集\\横屏_复查中更新版\\复查报告.md",
+    "sha256": "02cbfa6938b311350d9640a72e64ff43186bd0f86b7c1754ac776179cf91e705",
+    "duration": "119.950000",
+    "fps": "60/1",
+    "frames": "7197"
+  }
+]

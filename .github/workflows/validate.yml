@@ -1,0 +1,27 @@
+name: Validate portable project
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  portable-smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+      PLAYWRIGHT_BROWSERS_PATH: ${{ github.workspace }}/.cache/ms-playwright
+      PIP_CACHE_DIR: ${{ github.workspace }}/.cache/pip
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: python -m unittest discover -s tests -v
+      - run: python tools/studio.py prepare
+      - run: python tools/studio.py check all
+      - run: python tools/studio.py render vertical-03 --start 1 --end 1.5
+      - run: python tools/studio.py render horizontal-04 --start 24 --end 24.5
+      - run: python tools/verify_export.py .outputs/vertical-03/no-bgm-30-45.mp4
+      - run: python tools/verify_export.py .outputs/horizontal-04/no-bgm-1440-1470.mp4
