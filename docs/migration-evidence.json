@@ -412,5 +412,90 @@
       "full_subjective_listening_done": false,
       "user_accepted": false
     }
-  ]
+  ],
+  "fresh_checkout": {
+    "source_commit": "d71efff",
+    "all_eight_smoke_tests_passed": true,
+    "fonts_downloaded_again": true,
+    "browser": "system Chrome",
+    "clip_verifications": [
+      {
+        "file": "no-bgm-1440-1470.mp4",
+        "sha256": "d041dd4fed38b5e68752434b21fb9a9ee0b01eda4f73cf896fb7214d3c8aae96",
+        "frame_comparisons": [
+          {
+            "frame": 0,
+            "source_time": 24.0,
+            "mean_absolute_rgb_error": 2.990352466724537,
+            "threshold": 6.0,
+            "passed": true
+          },
+          {
+            "frame": 15,
+            "source_time": 24.25,
+            "mean_absolute_rgb_error": 2.9873418511284724,
+            "threshold": 6.0,
+            "passed": true
+          },
+          {
+            "frame": 29,
+            "source_time": 24.483333333333334,
+            "mean_absolute_rgb_error": 2.995618580005787,
+            "threshold": 6.0,
+            "passed": true
+          }
+        ],
+        "actual_MP4_audio": {
+          "kind": "silence",
+          "peak": 0.0,
+          "passed": true
+        },
+        "passed": true,
+        "scope": "First/middle/last frames and full clip audio; no claim of full human viewing or listening",
+        "full_subjective_viewing_done": false,
+        "full_subjective_listening_done": false,
+        "user_accepted": false
+      },
+      {
+        "file": "no-bgm-30-45.mp4",
+        "sha256": "e056fc462719ce17d9154176e8626a49b912e583ec89703a192e26adf535c8e2",
+        "frame_comparisons": [
+          {
+            "frame": 0,
+            "source_time": 1.0,
+            "mean_absolute_rgb_error": 2.755896669238683,
+            "threshold": 6.0,
+            "passed": true
+          },
+          {
+            "frame": 7,
+            "source_time": 1.2333333333333334,
+            "mean_absolute_rgb_error": 2.7653829089506172,
+            "threshold": 6.0,
+            "passed": true
+          },
+          {
+            "frame": 14,
+            "source_time": 1.4666666666666666,
+            "mean_absolute_rgb_error": 2.7656492734053497,
+            "threshold": 6.0,
+            "passed": true
+          }
+        ],
+        "actual_MP4_audio": {
+          "kind": "sample-aligned decoded AAC",
+          "sample_lag": 0,
+          "normalized_correlation": 0.999821109406341,
+          "samples_compared": 24000,
+          "passed": true
+        },
+        "passed": true,
+        "scope": "First/middle/last frames and full clip audio; no claim of full human viewing or listening",
+        "full_subjective_viewing_done": false,
+        "full_subjective_listening_done": false,
+        "user_accepted": false
+      }
+    ],
+    "same_machine_different_directory": true
+  }
 }
