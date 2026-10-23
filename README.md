@@ -2,7 +2,9 @@
 
 用代码制作无旁白的育儿知识视频：具体的人物、真实的动作、看得懂的因果，以及可复用的育儿方法。横屏和竖屏使用各自的构图。
 
-本地开源工程已整理；GitHub远程尚未创建，下面的clone地址是拟定地址，发布前不可用。当前可直接使用本地仓库或源码包，状态见[发布记录](docs/发布状态.md)。
+公开仓库：[daboge-beach/vibe-knowledge-studio](https://github.com/daboge-beach/vibe-knowledge-studio)。源码和文档使用MIT许可；安装与运行验证见[发布记录](docs/发布状态.md)。
+
+[![Validate portable project](https://github.com/daboge-beach/vibe-knowledge-studio/actions/workflows/validate.yml/badge.svg)](https://github.com/daboge-beach/vibe-knowledge-studio/actions/workflows/validate.yml)
 
 仓库包含前四集的八套可编辑工程、第五和第六集策划、制作规范、复查清单与历史交接记录。跨电脑入口统一为 `tools/studio.py`，默认CPU编码，不依赖原机器目录或NVIDIA显卡。
 
